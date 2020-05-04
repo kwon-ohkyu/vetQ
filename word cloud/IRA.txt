@@ -1,0 +1,332 @@
+THE ROLE OF RISK ANALYSIS IN REGIONALIZATION
+V. Astudillo
+Centro Panamericano de Fiebre Aftosa, Caixa Postal 589, 20001-970 Rio de Janeiro, RJ, Brazil
+Original: English
+Summary: The General Agreement on Tariffs and Trade (GATT) and the establishment of the World
+Trade Organization (WTO) will radically change the ways in which countries prevent the introduction of
+exotic animal diseases as a consequence of international trade in animals and animal products. The most
+important rules are established in the Agreement on Sanitary and Phytosanitary Measures, based on
+fundamental principles of non-discrimination, harmonisation, equivalence and transparency. These
+measures require the implementation of regionalization and risk analysis. The Office International des
+Epizooties (OIE) will play an important role in these developments by establishing internationally
+accepted standards for these concepts. Slightly distinct, but perhaps not significantly different
+approaches towards risk analysis and regionalization are emerging. If possible, these approaches must
+be harmonised. However, most important is the timely collection of the information on which these
+approaches must be based.
+1. DEFINITIONS OF RISK ANALYSIS AND REGIONALIZATION
+Risk analysis: the process that includes risk assessment, risk management and risk communication (1). Risk is the
+likelihood of occurrences and consequences of an adverse event, such as a disease outbreak. Risk assessment is the
+process of identifying a hazard and estimating the risk associated with the importation of a commodity and evaluating
+the consequences of taking that risk. Risk management is the identification, analysis, decision and implementation of
+measures that can be applied to reduce the risks and consequences of an adverse event. Risk communication is the
+process of communicating the risk assessment results to all possible users (1,9).
+Regionalization: recognition of geographical zones of a country that can be identified and characterized by their level
+of risk for specific diseases. These zones can cover entire countries or parts of countries. Adjacent zones of different
+countries having similar risk characteristics can be combined into international regions. The region must be clearly and
+effectively delineated by natural, artificial or legal boundaries. The region must have common control policy for the
+specific disease. There must be a uniform, effective system of epidemiological surveillance throughout the region. An
+official sanitary agreement between the countries involved must be in effect (9).
+2. GLOBAL ROLE OF RISK ANALYSIS IN REGIONALIZATION
+Trade policies for animals, animal products and many other commodities will be guided by international trade
+agreements according to the rules of the General Agreement on Tariffs and Trade (GATT), the World Trade
+Organization (WTO) or regional trading blocks such as the North American Free Trade Agreement (NAFTA). The
+most important agreement in the animal health field is the Agreement on Sanitary and Phytosanitary (SPS) Measures,
+based on fundamental principles of non-discrimination, harmonization, equivalence and transparency.
+Although countries maintain the right to take appropriate measures to protect animal health, it will no longer be
+justifiable to quote health requirements per se as reasons for non-tariff trade barriers. In this way, trade agreements will
+depend largely on risk management based on risk assessments that are consistent, transparent and founded on valid
+scientific evidence. The WTO designated the OIE as the scientific reference body in trade disputes concerning animals
+and animal products. The OIE may therefore be called on in the future to determine the validity of risk assessments.
+Consequently, the OIE is in the process of developing international standards, guidelines and recommendations for risk
+analysis to ensure the harmonization, equivalence and transparency of animal health rules aimed at fair and free
+international trade in animals and animal products. The OIE published a special issue of the Scientific and Technical
+Review on risk analysis and animal health and trade (10) that contains several articles covering those subjects. In
+addition, the 1993 & 1994 up dates of the International Animal Health Code (9) describe detailed procedures
+recommended for international trade in animals, animal products, animal genetic material, foodstuffs, biological 
+- 126 -
+products and pathological material. There is no doubt that these two OIE publications will greatly stimulate the interest
+and exchange of information on quantitative risk assessment and regionalization.
+3. COUNTRY REPORTS
+Reports for the present conference were received from the following OIE Member Countries of the region: Argentina,
+Canada, Colombia, Cuba, Mexico, Paraguay and the United States of America (USA). Those reports provide clear
+evidence that regionalization, aimed at preventing the introduction of exotic animal diseases with the least interference
+to international trade, is of increasing significance in the decision making process of veterinary authorities.
+Argentina - The report underlines the need for risk analysis and regionalization for free and fair trade in livestock and
+livestock products. It indicates that an efficient surveillance and information system of an exporting country is the
+basic support for risk analysis. The international trade of animals and products of animal origin between countries of
+different animal disease status must be founded on risk management, based on consistent and well documented
+scientific evidence. The report describes the methodology that Argentina is applying and includes a list of events that
+can be used to evaluate the presence of the pathogen and those to estimate the probability of transmission or survival of
+the agent. The report further discusses some of the considerations for regionalization, and aspects to be carefully
+thought about in making a risk analysis.
+Canada - Regionalization is not a new idea in Canada in facilitating the international movement of livestock and
+livestock products. For instance, regionalization of bluetongue in the Okanagan Valley of British Columbia kept the
+European market open for trade in livestock and livestock products. Regionalization of brucellosis and tuberculosis
+facilitated the export of cattle to the USA. For imports, Canada accepts the regionalization of bluetongue in the
+Australia and the USA.
+The report stresses the importance of competent veterinary services, control of livestock movement and disease
+surveillance, including adequate diagnostic laboratory facilities. Also, an exporting country must have a favourable
+history of international reporting of animal diseases. Establishment of international standards for regionalization
+according to the OIE principles are essential. Risk assessment must be the basis for the decision-making process, taking
+into account country, commodity and exposure factors. However, the establishment of international standards and the
+active participation of trading partners are fundamental.
+Colombia - The report emphasizes the need to establish areas free of specific diseases. The "disease-free zone" concept
+includes the evaluation of the risks of re-introduction of disease agents into the free areas. These risks depend on the
+epidemiology of the disease, the disease situation of adjacent zones or provinces and the preventive measures used. The
+report, furthermore, stresses the need to analyse risk according to uniform standards and considers that the OIE
+Regional Commission for the Americas must take the lead in this harmonization.
+Cuba - The country uses risk management in the seaports and airports with international activities. Its authorities have
+requested the assistance of the Pan American Foot-and-Mouth Disease Center ("Panaftosa") for practical training in the
+application of quantitative assessment.
+Mexico - The report indicates that the country presently considers the regionalization concept an important tool in
+facilitating international trade in livestock and livestock products. The use of this tool implies the application of risk
+analysis. It includes evaluation of the Veterinary Services of the exporting region, an analysis of the possibilities of
+introduction or re-introduction of a disease and of animal movement in and out of the region.
+Paraguay - The report recognizes regionalization and risk analysis as important tools in facilitating international trade
+of animals and products of animal origin. The criteria for specific risk evaluations, as well as sanitary requirements,
+must be take into account the recommendations of the International Animal Health Code of the OIE.
+United States of America - The USA report briefly describes risk analysis (i.e. risk assessment, risk management, and
+risk communication) methodologies. Risk analysis and regionalization are tools for evaluating scientific information
+and for establishing geographic areas which are identified and characterized by their risk levels for specific diseases.
+Risk assessment may be either qualitative or quantitative, the latter being a probabilistic approach. Evaluations of the
+effectiveness of the both veterinary infrastructure and disease surveillance, and the reliability of information are
+important considerations in both approaches. The ultimate decision of what level of risk is acceptable to the importing
+country must be based on a cost/benefit analysis.
+4. DEVELOPMENTS IN THE AMERICAN REGION 
+- 127 -
+On 18 March 1994, the OIE Regional Commission for the Americas recommended that the countries of the Region
+begin progressively using quantitative risk analysis to make decisions concerning the importation of livestock and
+animal products, based on the standards described in the International Animal Health Code (9). The Regional
+Commission further recommended that the staff of the Veterinary Services of Member countries be trained in the
+methodologies of risk analysis, evaluation of veterinary services and regionalization. The country reports show that the
+awareness of those needs is well recognised throughout the region. Professionals of individual countries, as well as
+international organisations such as the Pan American Health Organization (PAHO) through its Pan American Foot and
+Mouth Disease Center (Panaftosa), have been active in these aspects. The staff of the Animal Plan Health Inspection
+Service (APHIS) of the US Department of Agriculture prepared a comprehensive list of risk assessments (3) that
+provides a synopsis of work in progress and of ongoing activities, with the goal of stimulating and encouraging
+discussion on risk assessment. Panaftosa applied risk assessment methodologies to its specialised field and held several
+training workshops/seminars on the subject in the Caribbean and in Latin America.
+In view of the GATT and WTO agreements, APHIS/USDA developed, within the framework of the International
+Animal Health Code of the OIE (9), a set of general criteria for the regionalization of levels of risk for countries or
+regions with different disease status (2).
+Presently, the USA applies the Tariff Act, adopted by Congress in 1930, to prohibit the import into the USA of
+ruminants and pigs and their meat from countries infected with foot and mouth disease (FMD), except when those
+products have been treated by heat and other methods which destroy the FMD virus (7). Countries may be considered
+free from FMD provided that FMD has not occurred for at least one year, that vaccination is not used, and that
+importation of animals and animal products are strictly regulated. All countries of Central America and Mexico have
+regulations similar to those of the USA. The terms "disease free" and "not free" must be redefined for regionalization
+criteria as proposed by APHIS (2). A "disease free" zone would not be risk free, while "not free" would not
+automatically imply an absolute likelihood of failure. Risk levels are expressed as an abstract number (probability of
+failure) varying from approaching zero to approaching one, but never quite reaching either zero or one. Within that
+range the proposal recognises 6 risk levels: RN, R1, R2, R3, R4 and RU, where RN means "negligible Risk" and RU is
+"unknown risk". These are the zones with the lowest and highest risk levels, respectively. Between those extremes are
+R1 ¡æ R4, showing increasing levels of risk.
+For the purpose of this report, the criteria for the animal disease regionalization, as presented by APHIS/USDA, were
+tabulated in abbreviated form under the following headings: prevalence of the agent, vaccination policy, objectives of
+the disease prevention or control program, and contacts with other (border) regions, as shown in Table 1.
+In order for a region to be classified as having "negligible risk" for a specific disease, the causal agent must not have
+been diagnosed within the region during the lifetime of any currently living susceptible animal. At the low and
+moderate risk levels the disease must not have occurred within the past year and the maximum annual herd incidence
+over the past 5 years must be less than 0.1%; however, there is no mention of the type of agent. Vaccination must be
+prohibited in lower risk classes, but exceptions may be made for certain diseases such as vector transmitted diseases or
+animals specifically vaccinated to meet the import requirements of other regions. There must be adequate policies and
+infrastructure in place to respond to the program objectives. Regions of different risk levels must be separated by
+natural or man-made barriers. Where mentioned in Table 1, all border access points must be strictly controlled to
+prevent movement of susceptible animals or animal products from adjacent regions except under approved conditions.
+Conditional import into the region must be conducted under conditions which are equivalent to those required by the
+USA for export from countries with a similar disease status.
+Risk management of commodities could vary from a simple certification of origin for products coming from low risk
+zones to high security quarantine for importations originating from high risk zones. By developing this regionalization
+strategy it would be feasible to recognise zones of a country as having a low risk level while other parts of the country
+may be at higher risk. Adjacent zones of neighbouring countries with similar risk levels could be combined into
+international regions. Obviously, the classification of zones or regions according to their risk level would have to be
+transparent and well documented. Risk assessment for livestock or animal products and the risk level of the zone or
+region of origin would determine the import risk of that product and the effectiveness of eventual risk reduction
+measures. However, the determination of acceptable risk would ultimately be based on the benefits vs. costs of success
+or failure in assuming the risk.
+Table 1
+Summary of general criteria for animal disease regionalization*
+Prevalence of Agent Vaccination Program Objectives Border regions
+- 128 -
+RN
+(negligible)
+Not diagnosed within
+lifetime of species
+Prohibited during
+lifetime of any
+currently living
+animal
+Passive surveillance.
+Emergency
+preparedness
+Agent not known to exist in
+adjacent regions. Border
+control R1, R2. Import
+conditional for R1, R2, R3,
+R4, RU.
+R1
+(very
+low)
+Not diagnosed
+within past 5 years
+Prohibited
+Elim. of all
+previously
+vaccinated
+animals
+Passive and active
+surveillance.
+Emergency
+preparedness
+Border control for R2, R3,
+R4, RU. Import conditional
+for R2, R3, R4, RU
+R2
+(low)
+Not diagnosed within
+past year.
+Maximum annual
+herd incidence past 5
+years less than 0.1%
+Prohibited or
+limited to herds at
+risk
+Passive and active
+surveillance.
+Emergency
+preparedness
+Border control for R3, R4
+RU. Import conditional for
+R3, R4, RU
+R3
+(moderate)
+Diagnosed within
+past year. Maximum
+annual herd
+incidence past 5
+years not exceeding
+0.1%0
+Limited to herds
+at risk
+Passive and active
+surveillance.
+Elimination of
+outbreaks
+Border control for R3, R4 or
+RU Import conditional
+R4
+(high)
+Diagnosed annual
+herd incidence past 5
+years may have
+exceeded 0.1%
+Widely practised Passive and active
+surveillance.
+Restriction of
+outbreaks
+RU
+(unknown)
+Unknown
+* APHIS/USDA (2).
+Within its field of expertise, Panaftosa has applied risk assessment methodologies to FMD. Some of the assessments
+were mostly qualitative: for example, the study by Astudillo et al. (4) on the prevention of reintroduction of FMD in
+Chile. Other risk assessments were more quantitative. For instance, at the request of the Caribbean countries, a study
+was made on the risk of importation of meat from selected regions of Argentina and Uruguay (12). That study used a
+stochastic model based on the epidemiological behaviour of the disease in the South American countries. It covered
+disease prevalence and the capability of the animal health surveillance system to detect the disease at the source of the
+products, as well as during the transportation of the animals to the slaughter plant. It also covered the efficacy of anteand post-mortem examinations. Finally, the model took account of the probability that FMD virus may survive
+deboning, chilling and processing. Under the auspices of Panaftosa, Sutmoller and Wrathall (13) studied the risk of
+FMD transmission by bovine embryo transfer. In a further study, those authors compared the risk of FMD, bluetongue
+and vesicular stomatitis (14).
+In both models, emphasis was placed on disease prevalence, the efficacy of the animal health surveillance system and
+the competence of the embryo collection team. These risk analysis studies depended directly on the information
+generated by the Continental Vesicular Disease Surveillance and Information System in South America, coordinated by
+Panaftosa (5). This system is composed of a network of national disease surveillance systems that report
+epidemiological information on weekly basis. Panaftosa compiles this information and reports back to the countries by
+means of weekly and monthly epidemiological bulletins (11). In the event of an emerging epidemiological problem,
+communication is immediate. The National Vesicular Disease Surveillance Systems use the existing animal health
+infrastructure, including over 2 600 local field units of the national FMD control and eradication programs. In addition,
+there is an effective participation of the private sector, particularly of the livestock industry. The geographical coverage
+of each field unit is represented by a quadrant of the country's map according to geographical coordinates (5,6). Each 
+- 129 -
+quadrant has a numeric code and all epidemiological information is identified accordingly for communication with
+other units or the central level of each country and with Panaftosa.
+The Continental Vesicular Disease Surveillance and Information System has provided up-to-date epidemiological
+information on the behavior of FMD in the field and alerted veterinary authorities to the development of higher risk
+situations and emerging problems. The information collected allowed the timely evaluation and orientation of animal
+health strategies for a more effective and efficient control and eradication of FMD. The system was also the foundation
+for the characterization and regionalization of ecosystems of FMD endemism. This FMD regionalization in South
+America has evolved over the past 20 years (10) and was instrumental in the development of regional strategies for the
+eradication and control of FMD.
+This same metodology provides an excellent opportunity for a risk regionalization for livestock and livestock products,
+that in principle would be similar to the proposed APHIS/USDA program (2), but obviously would be more disease
+specific. In Table 2, the letters A, B, C and D denote the different risk levels, where A indicates the lowest FMD risk
+for an importing country, and D the highest risk.
+Table 2
+South America foot and mouth disease risk classification
+Risk level Frequency of FMD Viral activity Vaccination Program objectives Border region
+A1 >5 years no FMD No No Prevention A2, B1, B2
+A2 C*, D*
+B1 >2 years no FMD Neg** Yes Eradication and
+prevention
+B2, C, D*
+B2 1-2 years no FMD ?? Yes C, D*
+C Sporadic Yes Yes Advanced control D
+D Endemic Yes Yes Control
+ * Require effective natural or man-made barriers
+ ** According to serological and virological surveys
+The main considerations for the Panaftosa risk regionalization are the time periods during which clinical cases are
+absent, the presence or absence of FMD viral activity, and whether or not FMD vaccination is used. A non-vaccinated,
+fully susceptible livestock population guarantees the absence of any occult viral activity. In the A1 and A2 risk level
+regions FMD must not have occurred for at least five consecutive years and vaccine must not have been used for at
+least one year. A FMD prevention program, including import controls, must be in operation. The next consideration is
+the FMD situation in the surrounding regions. For instance, A2 level regions are those A regions which border regions
+classified as C or D. Therefore, to prevent disease introduction, those A2 regions will likely have to be separated from
+the C or D level regions by natural or man-made barriers. These regions must maintain a strong, active vesicular disease
+surveillance, particularly in the border areas.
+The objectives of the FMD program in B risk level regions are eradication and prevention, but vaccination is used to
+control the disease. B1 level regions must have been free from FMD for at least two years and in B2 level regions this
+period is set between one and two years. In order for a region to be classified as B1, there must be sufficient evidence,
+through survey methods or otherwise, to demonstrate the absence of viral activity in the livestock population. C risk
+level regions have only sporadic cases of FMD and advanced control programs aimed at eradication must be present.
+Regions classified as D are those in which FMD is endemic and where there is a control program. Of course, the
+proposed classification is based on present data and regionalization is a continuous dynamic process. For example,
+Paraguay has not registered any cases of FMD over the past year, and therefore its classification changed to a lower risk
+category a few months ago.
+The map in Figure 1 illustrates the present regionalization: the south of Chile, Patagonia, Surinam, French Guyana and
+Uruguay are in the A1 risk level. Guyana, the Choco region in the northwest of Colombia and the north of Chile are
+classified as A2, but large parts of South America, with a majority of the best cattle-raising regions, are classified as B.
+The B1 risk level regions, which have been without FMD for more than two years, include the Argentine province of
+Mesopotamia, while the B2 level regions, where FMD has not occurred during the last 1-2 years, cover the rest of
+Argentina, Paraguay, and the States of Rio Grande do Sul and Santa Catarina of Brazil; the remaining parts of the
+continent are in either the C or D risk levels. Thus, according to this risk regionalization, important livestock regions of 
+- 130 -
+South America are in the lowest categories with over 90 million head of cattle, some 40 million sheep and 10 million
+swine.
+5. DISCUSSION AND CONCLUSIONS
+In the present developmental stage it is not surprising that slightly different approaches towards risk analysis and
+regionalization are emerging. The first one was advanced by Morley & Acree (8). They defined unrestricted import risk
+as the product of the probability of agent entry and the probability of livestock exposure in the importing country.
+The probability of agent entry is a function of the country factor (prevalence of List A or List B diseases (9) and
+evaluation of the Veterinary Services of the exporting country), the commodity factor (species, age and breed of
+animals, diagnostic tests, stability of the agent, etc.) and the number of Animal Import Units. The probability of
+exposure in the importing country is the likehood that the agent infects and spreads throughout a susceptible population
+in the importing country. The unrestricted risk can be mitigated by risk reduction measures. This approach was
+summarized in the Guidelines for risk assessment in the 1993 & 1994 Up-dates of the International Animal Health
+Code (8). Variants on these guidelines have been used for individual risk assessments using scenario trees or pathways
+(3,8,12,13,14). Using this method, for each individual analysis a pathway of potential risk events is traced from the
+point of origin of the product to its final destination. For each event in the scenario pathway the following questions are
+asked: "What can go wrong?", "How often is this likely to happen?", and "What will be the consequences?" (10).
+Accumulation of quantitative answers to these questions for all the events in the pathway constitutes the measure of risk
+related to the importation. The great advantage of the scenario tree or pathway model is that it permits clear
+presentation of the country and commodity factors with regard to quantification and documentation.
+The OIE guidelines (9) for regionalization define disease free zones, with or without vaccination, infected zones,
+surveillance zones and buffer zones. The APHIS proposal for regionalization quite precisely characterizes and redefines
+"disease free" and "not free" in terms of levels or degree of risk. Within each risk level, risk assessments can be made
+for different commodities and risk reduction measures can be used to reach a level of acceptable import risk. The
+Panaftosa risk regionalization is a variant of the APHIS proposal, but is specific to the FMD situation in South
+America. For instance, it includes the category "viral activity". The level of sophistication of the Panaftosa
+regionalization is a reflection of the reliability and detailed character of epidemiological information generated by the
+Continental Vesicular Disease Surveillance and Information System.
+The final decision on the acceptable level of risk by the importing country is made by taking a risk-related cost-benefit
+analysis into account. 

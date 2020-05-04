@@ -1,0 +1,1930 @@
+
+ASF 지역화(Regionalization) 관련 규정
+
+
+
+
+
+
+
+
+
+
+
+
+목   차
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. (총론) 아프리카돼지열병 지역화 관련 규정
+2. (EU) 테센병 및 아프리카돼지열병에 대한 지침_2002/60/EC 
+1. (EU) 유럽연합의 아프리카돼지열병 지역화 정책_2014/709/EU
+2. (EU) 아프리카돼지열병의 지리적 지역화를 위한 원칙과 기준_SANTE/7112/2015
+3. (EU) EU의 ASF 전략_SANTE/7113/2015
+4. (EU) 유럽 남동부 국가의 ASF 위험평가_EFSA Journal 2019;17(11);5861
+5. (APHIS) 외국 동물 건강 상태 평가, 지역화, 위험분석과 규약제정의 과정
+6. (APHIS) 지역화에 있어서 위험분석의 역할
+  * OIE 및 FAO GF_Tads는 기 정리한 내용으로 확인
+
+
+
+
+Ⅰ
+
+ 아프리카돼지열병 지역화 관련 규정
+
+□ 유럽연합(European Union, EU)의 아프리카돼지열병 지역화 규정
+
+ ○ 유럽연합의 아프리카돼지열병 지역화 관련 규정
+   - EU는 ASF 예방근절을 위해 법령(CD 2002/60/EC, 27 June 2002)을 운영중 이며 이 법령에 근거하여 EU 회원국의 지역화 정책을 시행*(CD 2014/709/EU, 9 Oct 2014)
+    * 마지막 개정사항은 CD2018/1689 (8 Nov 2018)에 반영
+   -EU 회원국에서 아프리카돼지열병의 시공간 지역화를 위한 원칙과 기준을 제시한 실행문서(SANTE/7112/2015/Rev. 2, SANCO G2/FB, 03.05.2018)에서는 Part I, II, III, IV 지역의 철회를 위해서는 신중하고 과학적인 접근법이 적용되어야 한다는 것을 강조하고 있음
+
+
+< 지역화 철회 및 PART 전환조건>
+
+
+
+
+① Part III 지역화 철회와 Part II로의 전환을 위해서는 다음의 조건을 충족해야 함
+- 과거 12개월 동안 사육돼지 집단에서 아프리카돼지열병 발생이 없거나
+- 차단방역 수준이 낮은 모든 비상업적 농장을 살처분(depopulation)한 경우 3개월 동안 아프리카돼지열병 발생이 없거나 
+- 과거 12개월 동안 사육돼지에서 아프리카돼지열병 발생이 없는 지역에서 발생한 경우 감염된 농장 소독(Directive 2002/60/EC 10.4a항), 방역조치 이행(임상적 및 실험실적 검사, 10.4b항) 및 광범위한 표본검사(10.5항)가 이행된 이후 3개월이 경과한 경우
+② Part II 지역화 철회와 Part I으로의 전환을 위해서는 과거 12개월 동안 야생멧돼지 집단에서 아프리카돼지열병 발생이 없어야 함. 
+③ Part I 지역화 철회를 위해서는 시공간적으로 광범위하게 모든 자료에 대하여 논의가 있어야 함.
+- 지역화와 관련한 모든 제한사항을 철회하기 위해서는 마지막 발생 사례에 대하여 매우 광범위한 논의와 토론이 병행되어야 한다. Part IV 지역의 철회도 동일한 방법이 적용. 
+
+ ○ 미국의 지역화 관련 규정
+   - APHIS에서는 「외국 동물 건강 상태 평가, 지역화, 위험분석과 규약제정의 과정」 규정을 게시
+<<유럽연합 법령(Council Directive, CD) 아프리카돼지열병 및 지역화 관련 규정>>
+
+순번
+법령
+제 목
+주요 내용
+1
+CD 90/425/EEC
+(26 Jun 1990)
+concerning veterinary checks applicable in intra-Union trade in certain live animals and products with a view to the completion of the internal market 
+EU 회원국 내 생축 및 축산물의 비차별적 교역을 명시
+2
+CD 92/65/EEC
+(13 Jul 1992)
+laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A (I) to Directive 90/425/EEC
+EU 회원국 내 생축, 정액, 난자, 배아 등 교역과 수입에 관한 위생조건 규정
+3
+CD 2002/60/EC
+(27 June 2002)
+laying down specific provisions for the control of African swine fever and amending Directive 92/119/EEC as regards Teschen disease and African swine fever
+아프리카돼지열병 발생시 방역조치, 역학조사, 예찰지대 선정, 재입식, 야생돼지 예찰, 확산 방지, 진단절차 등과 관련한 규정
+4
+2003/422/EC
+Commission Decision
+(26 May 2003)
+approving an African swine fever diagnostic manual
+아프리카돼지열병 진단 및 예찰을 위한  표본 검사 두수와 관련한 규정
+5
+2014/709/EU
+Commission Implementing Decision
+(9 Oct 2014)
+concerning animal health control measures relating to African swine fever in certain Member States and repealing Implementing Decision 2014/178/EU 
+- 아프리카돼지열병 발생의 역학적 상황을 고려해 위험 수준을 Part I, II, III, IV로 분류
+- Part I: 감염된 야생돼지 집단과 인접해 있는 위험 지역(ASF 발생은 없으나 발생 가능성이 높아 예찰이 필요한 지역)
+- Part II: 야생돼지 집단에서만 발생하는 지역
+- Part III: 사육 및 야생돼지 집단에서 발생하고,아프리카돼지열병 발생이 토착화되지 않은 지역
+- Part IV: 사육 및 야생돼지 집단에서 발생하고, ASF 발생이 토착화된 지역
+- 아프리카돼지열병 확산 위험과 관련하여 돈육 제품의 종류별 지역 간 이동에 따른 확산 위험 수준에 차이가 있어 Part I, II, III, IV로 분류된 회원국 내에서 특정 지역간 이동금지
+6
+SANTE/7112/2015/Rev. 2 
+SANCO G2/FB (03.05.2018)
+Principles and criteria for geographically defining ASF regionalisation
+아프리카돼지열병 지역화와 관련한 원칙 및 기준에 대한 실행 문서
+7
+2018/1282
+Commission Implementing Decision
+(21 Sep 2018)
+amending the Annex to Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States 
+EU 회원국의 아프리카돼지열병 발생 역학적 특성을 고려한 지역화 수정(2014/709/EU 부속서에 명시된 지역화 내용 대체)
+8
+2018/1635
+Commission Implementing Decision
+(30 Oct 2018)
+amending the Annex to Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States 
+EU 회원국의 아프리카돼지열병 발생 역학적 특성을 고려한 지역화 수정(2014/709/EU 부속서에 명시된 지역화 내용 대체)
+9
+2018/1689
+Commission Implementing Decision
+(8 Nov 2018)
+amending the Annex to Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States 
+EU 회원국의 아프리카돼지열병 발생 역학적 특성을 고려한 지역화 수정(2014/709/EU 부속서에 명시된 지역화 내용 대체)
+
+
+Ⅱ
+
+ 2002/60/EC (테센병 및 아프리카돼지열병에 대한 지침)
+
+
+EU규정 (2002/60)
+주요 내용
+Article 1 Subject-matter 
+  This Directive lays down the minimum Community measures for the control of African swine fever.
+It removes Teschen disease from the group of diseases to which the general control measures laid down in Directive 92/119/EEC apply.
+1조 (주제)
+ 이 지침은 아프리카 돼지 열병을 통제하기 위한 최소 커뮤니티 조치를 규정함 
+- 동 지침은 지침 92 / 119 / EEC에 명시된 통제 조치 적용되는 질병 그룹에서 테센병을 제외
+Article 2 Definitions For the purposes of this Directive:
+(a) ‘pig’ shall mean any animal of the Suidae family, including feral pigs;
+(b) ‘feral pig’ shall mean a pig which is not kept or bred on a holding;
+(c) ‘holding’ shall mean any agricultural or other premises located in the territory of a Member State where pigs are being bred or kept on a permanent or temporary basis. This definition does not include slaughterhouses, means of transport and fenced areas where feral pigs are kept and may be hunted; these fenced areas must be of a size and structure that makes the measures laid down in Article 5(1) not applicable;
+(d) ‘diagnostic manual’ shall mean the diagnostic manual referred to in Article 18(3);
+(e) ‘pig suspected of being infected with African swine fever virus’ shall mean any pig or pig carcase exhibiting clinical symptoms or showing post mortem lesions or reactions to laboratory tests carried out in accordance with the diagnostic manual which indicate the possible presence of African swine fever;
+(f) ‘case of African swine fever’ or ‘pig infected with African swine fever’ shall mean any pig or pig carcase:
+— in which clinical symptoms or post mortem lesions of African swine fever have been officially confirmed, or
+— in which the presence of the disease has been officially confirmed as the result of a laboratory examination carried out in accordance with the diagnostic manual;
+
+2조 (정의)
+(a)  '돼지'는 야생멧돼지를 포함한 Suidae과의 모든 동물을 의미. 
+(b) '멧돼지'는 사육하지 않는 돼지를 의미
+(C)  '농장'이란 돼지가 영구적으로 또는 일시적으로 사육되거나 유지되는 회원국의 영토 내에 위치한 농업 또는 기타 건물을 의미. 
+- 이 정의에는 도축장, 운송 수단 및 야생멧돼지를 보관하고 사냥 할 수 있는 울타리가 있는 구역은 포함되지 않음
+(d) '진단 매뉴얼'은 제 18 조 (3)에 언급된 진단 매뉴얼을 의미 
+(e)  'ASF 감염의심 돼지'는 임상 증상을 나타내거나 진단 매뉴얼에 따라 수행된 실험실 검사에 대한 사후 병변 또는 반응을 나타내는 모든 돼지 또는 도체를 의미
+(f)  'ASF 감염' 또는 'ASF 감염돼지'는 아래의 돼지 또는 도체를 의미
+ - 아프리카 돼지열병의  임상 증상 또는 사후 병변이 공식적으로 확인된 경우
+-  진단 매뉴얼에 따라 수행한 실험실 검사 결과로 질병의 존재가 공식적으로 확인된 경우; 
+(g) ‘outbreak of African swine fever’ shall mean the holding where one or more cases of African swine fever has or have been detected;
+(h) ‘primary outbreak’ shall mean the outbreak within the meaning of Article 2(d) of Council Directive 82/894/EEC of 21 December 1982 on the notification of animal diseases within the Community (2);
+(i) ‘infected area’ shall mean the area of a Member State where, following the confirmation of one or more cases of African swine fever in feral pigs, disease eradication measures are in place in accordance with Article 15 or 16;
+(j) ‘primary case of African swine fever in feral pigs’ shall mean any case of African swine fever which is detected in feral pigs in an area in which no measures are in place in accordance with Article 15 or 16;
+(k) ‘contact holding’ shall mean a holding where African swine fever may have been introduced, whether as a result of the location, movement of persons, pigs or vehicles or in any other way;
+(l) ‘owner’ shall mean any person or persons, either natural or legal, having ownership of the pigs, or charged with keeping the said animals, whether or not for financial reward;
+(m) ‘competent authority’ shall mean the competent authority within the meaning of Article 2(6) of Directive 90/425/EEC (1);
+(n) ‘official veterinarian’ shall mean the veterinarian designated by the competent authority of the Member State;
+(o) ‘processing’ shall mean one of the treatments for high risk material laid down in Article 3 of Directive 90/667/EEC (2), applied in such a way as to avoid the risk of spread of the African swine fever virus;
+(g) 'ASF 발생' 은 1개 이상의 ASF 사례가 발견되었거나 발견된 경우
+(h) '최초발생'이란 「커뮤니티 내 동물 질병의 통지 규칙」 82/894/EEC(82.12.22) 지침에 제 2조에 따른 발생을 의미
+(i) '감염 지역(IP)'이란 야생멧돼지에서 하나 이상의 ASF가 확인된 후 질병 퇴치 조치가 15 또는 16조에  따라 수행되는 회원국의 지역을 의미
+(j) 'ASF의 멧돼지 최초 발생'은 15 또는 16조에 따른 조치가 취해지지 않은 지역의 야생멧돼지에서 발견되는 ASF를 의미
+(k) '접촉 농장'이란 위치 및 사람· 돼지·차량의 이동 등으로 ASF가 유입될 수 있는 농장을 의미
+(l)  '소유주'란 돼지의 소유권을 가진  자연인 또는 법인을 의미
+(m) '관할당국'은 권한있는 기관을 의미 
+(n)  '공식 수의사'는 회원국의 관할당국이 지정한 수의사
+(o) '가공'은 아프리카 돼지 열병의 확산 위험을 줄이기 위해 적용되는 지침 (90 / 667 / EEC ( 6 )의 3 조)에 따른 고위험 물질에 대한 처리 중 하나를 의미 
+(p) ‘killing’ shall mean the killing of pigs within the meaning of Article 2(6) of Directive 93/119/EEC (3);
+(q) ‘slaughter’ shall mean the slaughter of pigs within the meaning of Article 2(7) of Directive 93/119/EEC;
+(r) ‘vector’ shall mean a tick of the species Ornithodorus erraticus.
+
+(p) '살처분'은 지침 (93 / 119 / EEC ( 7 ) 제 2) 에 따라 돼지를 죽이는 것
+(q) '도축'은 지침 (93 / 119 / EEC 2) 에 따른 도축을 의미 
+(r)  '벡터'는 O.erraticus 종의 진드기를 의미
+Article 3 African swine fever notification 
+1. Member States shall ensure that the presence or the suspected presence of African swine fever is compulsorily and immediately notifiable to the competent authority.
+2. Without prejudice to existing Community provisions on notification of outbreaks of animal diseases, the Member State in whose territory African swine fever is confirmed shall:
+(a) give notification of the disease and provide information to the Commission and the other Member States in accordance with Annex I on:
+— the outbreaks of African swine fever which are confirmed in holdings,
+— the cases of African swine fever which are confirmed in a slaughterhouse or in means of transport,
+— the primary cases of African swine fever which are confirmed in feral pigs,
+— the results of the epidemiological inquiry carried out in accordance with Article 8;
+(b) provide information to the Commission and the other Member States on the further cases confirmed in feral pigs in an African swine fever infected area in accordance with Article 16(3)(a) and (4).
+
+
+3 조 (ASF 보고)
+1. 회원국은 ASF 발생 또는 의심시 관할당국에 의무적,즉각적으로 통지토록 해야 함 
+2. 「동물 질병의 발생 보고에 관한 기존의 규정」을 침해하지 않는 범위 내에서 ASF가 발생한 회원국은:
+(a) 다음에 관한 부속서 I에 따라 질병을 통보하고 위원회와 다른 회원국에 정보를 제공함 
+—  농장에서 ASF 확진, 
+—  도축장 또는 운송 수단에서 ASF발생
+—  야생 멧돼지 ASF 최초발생
+—  제 8조에 따라 수행한 역학조사 결과; 
+(b)  규정(제 16 조 (3) (a) 및 (4)에 따라 ASF 감염 지역의 야생 돼지에서 확인된 추가 발생에 대해 위원회와 다른 회원국에 정보 제공
+Article 4 Measures in cases where the presence of African swine fever on a holding is suspected 
+1. Where a holding contains one or more pigs suspected of being infected with African swine fever virus, Member States shall ensure that the competent authority immediately sets in motion official means of investigation to confirm or rule out the presence of the said disease in accordance with the procedures laid down in the diagnostic manual.
+  When the holding is visited by an official veterinarian, a check of the register and of the pig identification marks referred to in Articles 4 and 5 of Council Directive 92/102/EEC of 27 November 1992 on the identification and registration of animals (1) shall also be carried out.
+2. When the competent authority considers that the presence of African swine fever in a holding cannot be ruled out, it shall immediately have the holding placed under official surveillance and shall in particular order that:
+(a) all the pigs in the various categories on the holding are to be counted and a list compiled of the number of pigs already sick, dead or likely to be infected in each category; the list shall be updated to take account of pig births and deaths during the period of suspicion; the information on the list shall be produced upon request and may be checked at each visit;
+(b) all the pigs on the holding shall be restricted to their living quarters or confined in some other place where they can be isolated;
+(c) no pigs may enter or leave the holding. The competent authority may, if necessary, extend the ban on leaving the holding to cover other species of animals and require the application of appropriate measures to destroy rodents or insects;
+(d) no pig carcases may leave the holding without an authorisation issued by the competent authority;
+(e) no meat, pig products, semen, ova or embryos of pigs, animal feed, utensils, materials or waste likely to transmit African swine fever may leave the holding without an authorisation issued by the competent authority; meat, pig products, semen, ova or embryos shall not be moved from the holding for intra-Community trade;
+(f) the movement of persons to or from the holding shall be subject to written authorisation by the competent authority;
+(g) the movement of vehicles to or from the holding shall be subject to written authorisation by the competent authority;
+(h) appropriate means of disinfection shall be used at the entrances and exits of buildings housing pigs and of the holding itself; any person entering or leaving pig holdings shall comply with appropriate hygiene measures necessary to reduce the risk of African swine fever virus spreading. Furthermore, all means of transport shall be carefully disinfected before leaving the holding;
+(i) an epidemiological inquiry shall be carried out in accordance with Article 8.
+4 조 (발생 의심농장의 조치사항)
+ 1. 농장에 ASF 의심돼지가 1두 이상인 경우, 회원국은 관할 기관이 즉시 공식 조사를 통해 해당 질병의 존재를 확진 또는 배제해야 함 (확인절차는 진단 매뉴얼에 기초함). 
+  공식 수의사의 농장 방문시 지침 (동물 식별 및 등록에 관한 1992 년 11 월 27 일 위원회 92 / 102 / EEC 제 4 조 및 제 5 조)에 따른 개체 등록 및 식별표시를 확인해야 함
+2. 관할 당국이 농장의 ASF발생을 배제할 수 없다고 판단한 경우 즉시 농장을 공식감시 하에 두고 아래의 조치를 취해야 함
+(a) 농장개체 수 확인 및 환축수 목록 작성
+(b) 사육돈사에 격리 조치
+(c) 돼지 반입·반출금지, 관할당국은 기간을 연장할 수 있으며 구서·구충 조치
+(d) 사체도 관할 당국 허가없이 반출금지 
+(e) ASF 전파가능성이 있는 육류, 돼지 제품, 정액, 난자 또는 돼지의 배아, 동물 사료,기구 반출금지 
+(f) 농장주 이동시 관할 당국의 서면 승인 필요
+(g)  발생농장 차량 이동은 관할 당국의 서면 승인 필요
+(h)  돈사 입구 및 출구,운송 수단 소독조치
+(i) 제 8조에 따른 역학조사 수행 
+3. Where required by the epidemiological situation, the competent authority:
+(a) may apply the measures provided for in Article 5(1) in the holding referred to in paragraph 2 of this Article; however, the competent authority may, where it considers that conditions permit, limit the application of these measures only to the pigs suspected of being infected or contaminated with African swine fever virus and the part of the holding where they were kept, provided that those pigs have been housed, kept and fed completely separately from the other pigs in the holding. In any case, a sufficient number of samples shall be taken from the pigs when they are killed in order that the presence of African swine fever virus can be confirmed or ruled out, in accordance with the diagnostic manual;
+(b) may establish a temporary control zone around the holding referred to in paragraph 2; some or all the measures referred to in paragraphs 1 or 2 shall be applied in the pig holdings within this zone.
+4. Once adopted, the measures provided for in paragraph 2 shall not be lifted until the presence of African swine fever has been officially ruled out.
+3. 역학 상황에 따라 관할당국은: 
+(a) 제 5조 1항에 규정된 방법을 적용할 수 있음 
+- 그러나 관할당국은 ASFV 감염이 의심되는 돼지 농장의 일부에만 본 조치를 적용 할 수 있음
+- 진단 매뉴얼에 따라 ASFV 확인하기 위한 충분한 시료를 채취해야 함
+(b)  제 2 항에 언급된 발생농장 주변에 임시 통제 구역을 설정할 수 있음 다. 1 항 또는 2 항에 언급된 조치의 일부 또는 전부를 구역 내 농장에 적용할 수 있음
+4. 조치가 적용되면, 제 2항의 조치는 ASF가 공식적으로 배제될 때까지 해제되지 않아야 함
+Article 5 Measures in cases where the presence of African swine fever on a holding is confirmed 
+1. In cases where the presence of African swine fever is officially confirmed in a holding, Member States shall ensure that, in addition to the measures referred to in Article 4(2), the competent authority prescribes that:
+(a) all pigs on the holding are to be killed without delay under official supervision and in such a way as to avoid the risk of African swine fever virus spreading during transport or killing;
+(b) a sufficient number of samples are to be taken, in accordance with the diagnostic manual, from the pigs when they are killed, in order that the manner of introduction of African swine fever virus into the holding and the length of time during which it may have existed on the holding before the disease was notified may be established;
+(c) the carcases of pigs which have died or have been killed are to be processed under official supervision;
+(d) meat of pigs slaughtered during the period between the probable introduction of the disease into the holding and the taking of official measures is wherever possible to be traced and processed under official supervision;
+(e) semen, ova or embryos of pigs collected from the holding during the period between the probable introduction of disease into the holding and the taking of official measures are to be traced and destroyed under official supervision in such a way as to avoid the risk of African swine fever virus spreading;
+(f) all substances and waste likely to be contaminated, such as feedingstuffs, are to be processed; all materials for single use which may be contaminated and in particular those used for the killing operations are to be destroyed; these actions are to be carried out in accordance with the instructions of the official veterinarian;
+(g) after the pigs have been eliminated, the buildings used for housing the pigs, the vehicles used for transporting them or their carcases and the equipment, bedding, manure and slurry likely to be contaminated are to be cleaned, if necessary disinsectised, disinfected and treated in accordance with Article 12; 
+(h) in the case of a primary outbreak of disease, the African swine fever virus isolate is to be subject to the laboratory procedure laid down in the diagnostic manual to identify the genetic type; 
+(i) an epidemiological inquiry is to be carried out in accordance with Article 8. 2. In cases where an outbreak has been confirmed in a laboratory, a zoo, a wild life park or a fenced area where pigs are kept for scientific purposes or purposes related to conservation of species or conservation of rare breeds, the Member State concerned may decide to derogate from paragraphs 1(a) and 1(e), provided that basic Community interests are not adversely affected. Such a decision shall immediately be notified to the Commission. The Commission shall in all cases immediately review the situation with the Member State concerned and in the Standing Veterinary Committee at the earliest possible opportunity. If necessary, measures to prevent the disease spreading shall be adopted in accordance with the procedure referred to in Article 24(2).
+5 조(발생 확진시의 조치사항) 
+1. 농장의 ASF확진시 회원국은 제 4 (2) 조에 언급 된 조치 외에 관할당국이 다음을 규정해야 함. 
+(a) 농장 내 모든 돼지에 대한 살처분 실시
+(b) 살처분시 충분한 수의 시료 채취
+(c) 사체의 공적 처리
+(d) 질병의 유입시기와 공적 조치 사이 기간 동안 도축된 돼지고기는 공식 감독하에 이력추적 및 처리조치
+(e)  질병의 유입시기와 공적 조치 사이 기간 동안 수집 된 돼지의 정액, 난자 또는 배아 추적·파기
+(f)  사료와 같이 오염될 가능성이있는 모든 물질과 폐기물 파기
+(g)  돈사, 차량, 장비, 분뇨 소독 및 청소 실시 
+(h)  최초발생의 경우, 유전자형을 확인을 위해 진단 매뉴얼에 따른 검사 실시
+(i) 제 8조에 따른 역학조사 수행 
+
+Article 6 Measures in cases where the presence of African swine fever is confirmed in holdings consisting of various production units 
+1. Where the presence of African swine fever is confirmed in holdings which consist of two or more separate production units and in order that the fattening of pigs may be completed, the competent authority may decide to derogate from the provisions of Article 5(1)(a) as regards healthy pig production units on a holding which is infected provided that the official veterinarian confirms that the structure, size and distance apart of these production units and the operations carried out there are such that the production units provide completely separate facilities for housing, keeping and feeding, so that the virus cannot spread from one production unit to another. 
+2. If use is made of the derogation referred to in paragraph 1, Member States shall draw up detailed rules for applying it in the light of the animal health guarantees which can be secured. 
+3. Member States which make use of this derogation shall immediately notify the Commission thereof. The Commission shall in all cases immediately review the situation with the Member State concerned and in the Standing Veterinary Committee at the earliest possible opportunity. If necessary, measures to prevent the disease spreading shall be adopted in accordance with the procedure laid down in Article 24(2).
+6 조 (다양한 생산단위로 구성된 농장에서 ASF확진시 조치) 
+1. 2개 이상의 개별 생산 단위로 구성되는 농장에서 ASF 확진된 경우 돼지의 비육을 완료하기 위해 관할 당국은 제 5 조 (1)의 규정에서 제외하기로 결정할 수 있음
+ (a) 공식 수의사가 해당 농장이 위치, 구조 및 크기와  사육이 타 돈사와 완전히 분리된 시설임을 확인한 경우 
+2. 제 1항의 ‘폐기’를 적용시 회원국은 이를 보장할 수 있는 세부규칙을 작성해야 함 
+3. 이 폐기를 적용하는 회원국은 즉시 위원회에 통보해야 하며 위원회는 모든 상황에서 가능한 한 빨리 관련 회원국과 상임 수의위원회와 상황을 즉시 검토해야 함
+
+Article 7 Measures in contact holdings 
+1. Holdings shall be recognised as contact holdings where the official veterinarian finds, or considers on the basis of the epidemiological inquiry carried out in accordance with Article 8, that African swine fever may have been introduced, either from other holdings to the holding referred to in Article 4 or 5, or from the latter holding to other holdings. Article 4 shall be applied in such holdings until the presence of African swine fever has been officially ruled out. 
+2. The competent authority shall apply the measures provided for in Article 5(1) in the contact holdings referred to in paragraph 1 of this Article if the epidemiological situation so requires.
+  A sufficient number of samples shall be taken from the pigs, in accordance with the diagnostic manual, when they are killed in order that the presence of African swine fever virus in these holdings can be confirmed or ruled out.
+7 조 (역학농장 조치사항)
+1. 역학관련농장이란 8조에 따른 역학조사 결과 4조 또는 5조의 농장으로부터 ASF가 유입되었을 가능성이 있는 농장을 의미함
+2. 관할당국은 역학이 확인되는 경우, 제 5(1)조에 따른 조치를 적용함. 진단 매뉴얼에 따른 샘플 채취 필요
+
+Article 8 Epidemiological inquiry Member States shall ensure that the epidemiological inquiry in relation to suspected cases or outbreaks of African swine fever is carried out on the basis of questionnaires, prepared within the framework of the contingency plans referred to in Article 21. Such an inquiry shall deal at least with:
+(a) the length of time during which African swine fever virus may have existed on the holding before the disease was notified or suspected; 
+(b) the possible origin of African swine fever on the holding and the identification of other holdings in which pigs may have become infected or contaminated from the same source; 
+(c) the movement of persons, vehicles, pigs, carcases, semen, meat or any material which could have carried the virus to or from the holdings in question; (d) the possibility that vectors or feral pigs cause the disease to spread. 
+If the results of this inquiry suggest that African swine fever may have spread from or to holdings located in other Member States, the Commission and the Member States concerned shall be immediately informed.
+
+8 조 (역학조사)
+회원국은 ASF발생 의심 또는 확진과 관련하여 역학 조사가 제 21조 긴급행동지침에 근거하여 수행되도록 해야 함.
+역학조사는 아래의 내용을 다루어야 함
+(a) 질병이 통보되거나 의심되기 전에 아프리카 돼지 열병 바이러스가 보유 기간에 존재할 수있는 기간;
+(b) 보유시 아프리카 돼지 열의 가능한 기원 및 돼지가 동일한 출처에서 감염되거나 오염되었을 수있는 다른 보유의 식별;
+(c) 개인, 차량, 돼지, 도체, 정액, 육류 또는 바이러스를 해당 보유국으로 또는 보유국으로부터 운반 할 수있는 물질의 이동;
+(d) 벡터 나 야생 돼지가 질병을 퍼뜨릴 가능성.
+조사 결과 ASF가 다른 회원국으로 전파가능성이 있는 경우 위원회와 관련 회원국에 즉시 통보해야 함
+Article 9 Establishment of protection and surveillance zones 
+1. Immediately after the diagnosis of African swine fever has been officially confirmed in pigs on a holding, the competent authority shall establish a protection zone with a radius of at least three kilometres around the outbreak site, which shall itself be included in a surveillance zone of a radius of at least 10 kilometres. The measures referred to in Articles 10 and 11 shall be applied in the respective zones. 
+2. When establishing zones, the competent authority must take account of: 
+(a) the results of the epidemiological inquiry carried out in accordance with Article 8; 
+(b) the geographical situation, particularly natural or artificial boundaries;
+(c) the location and proximity of holdings; 
+(d) patterns of movements and trade in pigs and the availability of slaughterhouses and facilities for processing carcases; 
+(e) the facilities and personnel available to control any movement of pigs within the zones, in particular if the pigs to be killed have to be moved away from their holding of origin. 
+3. If a zone includes parts of the territory of several Member States, the competent authorities of the Member States concerned shall collaborate to establish the zone. 
+4. The competent authority shall take all necessary measures, including the use of prominent signs and warning notices and the use of media resources, such as the press and television, to ensure that all persons in the protection and surveillance zones are fully aware of the restrictions in force in accordance with Articles 10 and 11, and shall take such measures as it considers appropriate to ensure the adequate enforcement of these measures.
+
+
+9 조 (보호 및 감시 구역 설립)
+
+1. 사육돼지에서 ASF가 공식적으로 확진시, 관할당국은 즉시 발생농장 주변 반경 3km이상의 보호 구역(PZ) 및 반경 10km이상의 예찰구역을 설정해야 함
+   제10,11 조에 언급 된 조치는 각 구역에 적용
+
+2. 구역 설정시 고려사항
+(a) 8조의 역학조사 결과
+(b) 지리적 상황, 특히 자연적 또는 인공적 경계;
+(c) 농장의 위치 및 접근성
+(d) 돼지의 이동 및 거래 패턴, 도축장 및 도체 처리 시설의 이용가능성;
+(e) 구역 내 돼지 이동통제조치를 위한 인력 및 시설여부 등
+
+3. 구역에 여러 회원국 영역의 일부가 포함된 경우, 관련 회원국의 관할당국은 협력하여 구역을 설정
+
+4. 관할당국은 눈에 잘 띄는 표지판과 경고 표시, 언론 등 과 같은 매체 자원의 사용을 통해 대중에 대해 이동통제 조치 등을 계도해야 함
+Article 10 Measures in the established protection zone 
+1. Member States shall ensure that the following measures are applied in the protection zone: 
+(a) a census of all the holdings shall be carried out as soon as possible; after the establishment of the protection zone these holdings shall be visited by an official veterinarian within not more than seven days in order to conduct a clinical examination of the pigs and to check the register and the pig identification marks referred to in Articles 4 and 5 of Directive 92/102/EEC; 
+(b) the movement and transport of pigs on public or private roads, excluding when necessary the service roads of holdings, shall be prohibited unless approved by the competent authority when allowing the movements referred to in point (f). This prohibition need not be applied to the transit of pigs by road or rail without unloading or stopping. Furthermore, in accordance with the procedure referred to in Article 24(2), a derogation may be granted for slaughter pigs coming from outside the protection zone and on their way to a slaughterhouse situated in the said zone for immediate slaughter; 
+(c) trucks and other vehicles and equipment, which are used to transport pigs or other livestock or material which may be contaminated (such as carcases, feedingstuff, manure, slurry and so forth) shall be cleaned, disinfected, if necessary disinsectised and treated as soon as possible after contamination, in accordance with Article 12. No truck or vehicle which has been used for the transport of pigs may leave the zone without being cleaned and disinfected and then inspected and re-authorised for transport by the competent authority; 
+(d) no other domestic animal may enter or leave a holding without the authorisation of the competent authority; 
+(e) all dead or diseased pigs on a holding shall be immediately notified to the competent authority, which shall carry out appropriate investigations in accordance with the procedures laid down in the diagnostic manual; 
+(f) pigs may not be removed from the holding in which they are kept for at least 40 days after the completion of the preliminary cleansing and disinfection, and, if necessary, disinsectisation of the infected holdings. After 40 days, subject to the conditions referred to in paragraph 3, the competent authority may authorise the removal of pigs from the said holding to be directly transported to: 
+— a slaughterhouse designated by the competent authority, preferably within the protection or surveillance zone for the purpose of immediate slaughter, 
+— a processing plant or a suitable place where the pigs are immediately killed and their carcases are processed under official supervision,
+— in exceptional circumstances, to other premises located within the protection zone. Member States making use of this provision shall immediately inform the Commission thereof in the Standing Veterinary Committee; 
+(g) semen, ova or embryos of pigs shall not leave the holdings situated within the protection zone;
+
+10조 (설정된 보호구역 내 조치사항)
+
+1. 회원국은 보호 구역에 다음과 같은 조치가 적용되도록 해야 함
+(a) 사육두수(통계) 확인
+ 보호구역이 설정 후, 7일 이내에 공식수의사가 지침(92 / 102 / EEC)이 농장을 방문해야 함
+- 돼지의 임상 시험을 수행 및 돼지 식별표를 확인
+(b) 돼지의 이동은 관할 당국이 승인하지 않는 한 금지하역 등이 없는 단순 경유시 적용하지 않음 
+(c) 오염가능성있는 물질 (예 : 도체, 사료, 분뇨 등)을 수송하는 차량 및 장비는 소독 실시
+(d) 다른 가축은 관할당국 허가 없이 반입·반출금지
+
+(e) 농장 내 모든 폐사체 및 환축은 즉시 관할당국에 통보해야 하며, 진단매뉴얼에 명시된 절차에 따라 적절한 조사를 수행해야 함
+(f) 청소·소독이 완료 후 최소 40일 동안 농장에서 돼지 반출불가. (40일후) 3항의 조건에 부합시 아래의 작업장으로 승인이후 반출가능
+- 관할 당국이 지정한 보호구역 내 긴급 도축장, 
+- 신속히 도축 후 공적 감독하에 처리하는 가공장
+- (예외적으로) 보호구역 내에 위치한 다른 농장. 본 규정 적용시 회원국에 즉시 통보해야 함
+(g) 돼지의 정액, 난자 또는 배아 반출금지
+
+
+(h) any person entering or leaving pig holdings shall comply with appropriate hygiene measures as necessary to reduce the risk of African swine fever virus spreading. 
+
+2. Where the prohibitions provided for in paragraph 1 are maintained beyond 40 days because of further outbreaks of the disease and as a result animal welfare or other problems arise in keeping the pigs, subject to the conditions referred to in paragraph 3, the competent authority may, following a reasoned application by the owner, authorise the removal of pigs from a holding within the protection zone, to be directly transported to: 
+(a) a slaughterhouse designated by the competent authority, preferably within the protection or surveillance zone for the purpose of immediate slaughter; 
+(b) a processing plant or a suitable place where the pigs are immediately killed and their carcases are processed under official supervision; 
+(c) in exceptional circumstances, to other premises located within the protection zone. Member States making use of this provision shall immediately inform the Commission thereof in the Standing Veterinary Committee. 
+(h) 돼지농장 출입자는 ASF 전파위험을 줄이기 위해 필요한 위생 조치를 준수해야 함
+
+2. 1항의 이동금지조치가 질병 추가발생에 따라 40일을 경과한 경우, 농장주의 신청에 따라 보호구역 내 농장에 대한 돼지 처분 가능
+(a) 관할 당국이 지정한 보호구역 내 긴급 도축장, 
+(b) 신속히 도축 후 공적 감독하에 처리하는 가공장
+(c) (예외적으로) 보호구역 내에 위치한 다른 농장. 본 규정 적용시 회원국에 즉시 통보해야 함
+
+3. Where reference is made to this paragraph, the competent authority may authorise the removal of pigs from the holding concerned, on condition that: 
+(a) an official veterinarian has carried out a clinical examination of the pigs in the holding and in particular of those to be moved, including the taking of the body temperature in accordance with the procedures laid down in the diagnostic manual and a check of the register and the pig identification marks referred to in Articles 4 and 5 of Directive 92/102/EEC; 
+(b) the checks and examinations referred to in point (a) have shown no evidence of African swine fever and compliance with Directive 92/102/EEC; 
+(c) the pigs are transported in vehicles sealed by the competent authority; 
+(d) the vehicle and equipment which have been involved in the transport of the pigs are immediately cleaned and disinfected after the transport in accordance with the provisions referred to in Article 12; 
+3. 본 항에 따라 관할당국은 관련 농가의 돼지 처분 가능:
+(a) 공식수의사가 임상검사 및 체온검사, 식별표 등 확인
+(b) (a) 항에 언급된 검사에서 ASF발생증거가 없고 92/102/EEC규정에 부합
+(c) 돼지는 관할당국에 의해 봉인된 차량으로 운송
+(d) 운송 차량 및 장비는 운송 후 즉시 소독·세척 
+
+
+
+(e) if the pigs are to be slaughtered or killed, a sufficient number of samples is then taken from the pigs in accordance with the diagnostic manual in order that the presence of African swine fever virus in these holdings can be confirmed or ruled out; 
+(f) if the pigs are to be transported to a slaughterhouse: 
+— the competent authority responsible for the slaughterhouse has been informed of the intention to send the pigs and notifies the dispatching competent authority of their arrival, 
+— on arrival at the slaughterhouse, these pigs are kept and slaughtered separately from other pigs, 
+— during ante and post mortem inspection carried out at the designated slaughterhouse, the competent authority takes into account any signs of the presence of African swine fever, 
+— the fresh meat from these pigs is either processed or marked with the special mark referred to in Article 5a of Council Directive 72/461/EEC of 12 December 1972 on health problems affecting intra-Community trade in fresh meat (1),and is processed separately in accordance with the rules laid down in Article 4(1)(a)(i) of Council Directive 80/215/EEC of 22 January 1980 on animal health problems affecting intraCommunity trade in meat products (1). This must be done at an establishment designated by the competent authority. The meat must be sent to the said establishment on condition that the consignment is sealed before departure and remains sealed throughout the transport.
+(e) 돼지를 도축 또는 살처분시 돼지에서 충분한 수의 샘플을 채취하여 이들 농장에 ASFV여부 확인 필요
+(f) 돼지를 도축장 운송시:
+- 도축장을 담당하는 관할당국에 돼지 운송사실 통보 
+- 도축장에 도착 후 이 돈군은 다른 돼지와 별도로 격리 및 도축실시
+- 생·해체 검사를 통한 ASF 감염여부 확인
+- 돈육은 지침에 따라 라벨링 실시, 출발 전 화물이 봉인되고 운송 내내 봉인된 상태여야 함
+
+4. The measures in the protection zone shall continue to be applied at least until:
+(a) cleansing, disinfection and, if necessary, disinsectisation in the infected holdings have been carried out;
+(b) pigs on all holdings have undergone clinical and laboratory examinations carried out in accordance with the diagnostic manual in order to detect the possible presence of African swine fever virus.
+The examinations referred to in point (b) shall not take place until 45 days have elapsed since the completion of preliminary cleansing, disinfection and, if necessary, disinsectisation measures on the infected holdings.
+
+5. However, by way of derogation from paragraphs 1(f), and from paragraphs 2 and 4, the 40- and 45-day periods stipulated therein may be reduced to 30 days if, in accordance with the diagnostic manual, the Member States have applied an intensive sampling and testing programme making it possible to rule out the presence of African swine fever on the holding in question.
+4. 보호구역의 조치는 최소한 다음 때까지 적용되어야 함
+(a) 세척·소독, 필요시 감염농장 소독실시
+(b) 모든 사육돼지의 임상검사 및 실험실검사 실시
+(b)항의 검사는 세척·소독 및 감염농장에 대한 소독 조치완료 후 45일이 경과할 때까지 수행하지 않아야 함
+
+
+
+5. 예찰·검사강화를 적용시 40,45일을 30일로 단축할 수 있음
+Article 11 Measures in the established surveillance zone
+
+1. Member States shall ensure that the following measures are applied in the surveillance zone:
+(a) a census shall be taken of all pig holdings;
+(b) the movement and transport of pigs on public or private roads, excluding when necessary the service roads of holdings, shall be prohibited, unless approved by the competent authority. This prohibition need not be applied to the transit of pigs by road or rail, without unloading or stopping, or to slaughter pigs coming from outside the surveillance zone and on their way to a slaughterhouse situated in the said zone for immediate slaughter;
+(c) trucks and other vehicles and equipment which are used to transport pigs or other livestock or material which may be contaminated (such as carcases, feedingstuff, manure, slurry and so forth) shall be cleaned, disinfected, if necessary disinsectised and treated as soon as possible after contamination, in accordance with Article 12. No truck or vehicle which has been used in the transport of pigs may leave the zone without having been cleaned and disinfected;
+(d) no other domestic animal may enter or leave a holding during the first seven days after establishment of the zone without the authorisation of the competent authority;
+(e) all dead or diseased pigs on a holding shall be immediately notified to the competent authority, which shall carry out appropriate investigations in accordance with the procedures laid down in the diagnostic manual;
+(f) pigs may not be removed from the holding in which they are kept for at least 30 days after the completion of the preliminary cleansing, disinfection and, if necessary, disinsectisation of the infected holdings. After 30 days, subject to the conditions set out in Article 10(3), the competent authority may authorise the removal of the pigs from the said holding to be directly transported to:
+— a slaughterhouse designated by the competent authority, preferably within the protection or surveillance zone, for the purpose of immediate slaughter,
+— a processing plant or a suitable place where the pigs are immediately killed and their carcases are processed under official supervision, or
+— in exceptional circumstances, other premises located within the protection or surveillance zone. Member States making use of this provision shall immediately inform the Commission thereof in the Standing Veterinary Committee.
+However, if the pigs are to be transported to a slaughterhouse, at the request of a Member State, accompanied by appropriate justification, and in accordance with the procedure referred to in Article 24(2), derogations from Article 10(3)(e) and (f), fourth indent, may be authorised, in particular with respect to the marking of the meat from these pigs and its subsequent use, and the destination of the treated products;
+(g) semen, ova or embryos of pigs shall not leave the holdings situated within the surveillance zone;
+(h) any person entering or leaving pig holdings shall comply with appropriate hygienic measures as necessary to reduce the risk of African swine fever virus spreading.
+11조 (설정된 예찰구역 내 조치사항)
+
+1. 회원국은 예찰 구역에 다음과 같은 조치가 적용되도록 해야 함
+(a) 사육두수(통계) 확인
+(b) 돼지의 이동은 관할 당국이 승인하지 않는 한 금지하역 등이 없는 단순 경유시 적용하지 않음 
+(c) 오염가능성있는 물질 (예 : 도체, 사료, 분뇨 등)을 수송하는 차량 및 장비는 소독 실시
+(d) 다른 가축은 발생후 최초 7일간 관할당국 허가 없이 반입·반출금지
+(e) 농장 내 모든 폐사체 및 환축은 즉시 관할당국에 통보해야 하며, 진단매뉴얼에 명시된 절차에 따라 적절한 조사를 수행해야 함
+(f) 청소·소독이 완료 후 최소 30일 동안 농장에서 돼지 반출불가. (30일후) 3항의 조건에 부합시 아래의 작업장으로 승인이후 반출가능
+- 관할 당국이 지정한 예찰구역 내 긴급 도축장, 
+- 신속히 도축 후 공적 감독하에 처리하는 가공장
+- (예외적으로) 예찰구역 내에 위치한 다른 농장. 본 규정 적용시 회원국에 즉시 통보해야 함
+(g) 돼지의 정액, 난자 또는 배아 반출 금지
+(h) 돼지농장 출입자는 ASF 전파위험을 줄이기 위해 필요한 위생 조치를 준수해야 함
+
+
+2. Where the prohibitions provided for in paragraph 1 are maintained beyond 40 days because of further outbreaks of the disease, and where as a result animal welfare or other problems arise in keeping the pigs, subject to the conditions referred to in Article 10(3), the competent authority may, following a reasoned application by the owner, authorise the removal of pigs from a holding within the surveillance zone to be directly transported to:
+(a) a slaughterhouse designated by the competent authority, preferably within the protection or surveillance zone, for the purpose of immediate slaughter;
+(b) a processing plant or a suitable place where the pigs are immediately killed and their carcases are processed under official supervision, or
+(c) in exceptional circumstances, other premises located within the protection or surveillance zone. Member States making use of this provision shall immediately inform the Commission thereof in the Standing Veterinary Committee.
+2. 1항의 이동금지조치가 질병 추가발생에 따라 40일을 경과한 경우, 농장주의 신청에 따라 보호구역 내 농장에 대한 돼지 처분 가능
+(a) 관할 당국이 지정한 보호구역 내 긴급 도축장, 
+(b) 신속히 도축 후 공적 감독하에 처리하는 가공장
+(c) (예외적으로) 보호구역 내에 위치한 다른 농장. 본 규정 적용시 회원국에 즉시 통보해야 함
+3. The measures in the surveillance zone shall continue to be applied at least until:
+(a) cleansing, disinfection and, if necessary, disinsectisation in the infected holdings have been carried out;
+(b) pigs on all holdings have undergone clinical and, where necessary, laboratory examinations as laid down in the diagnostic manual in order to detect the eventual presence of African swine fever virus.
+The examinations referred to in point (b) shall not take place until 40 days have elapsed since the completion of preliminary cleansing, disinfection and, if necessary, disinsectisation measures on the infected holdings.
+
+4. However, by way of derogation from paragraph 1(f), and from paragraphs 2 and 3, the 30-day periods stipulated in paragraph 1(f) and the 40-day periods stipulated in paragraphs 2 and 3 may be reduced respectively to 21, 30 and 20 days if, in accordance with the diagnostic manual, the Member States have applied an intensive sampling and testing programme making it possible to rule out the presence of African swine fever on the holding in question.
+3. 예찰구역의 조치는 다음 시기까지 계속 적용되어야 함
+(a) 세척·소독
+(b) 모든 사육돼지는 ASFV확인을 위해 진단 매뉴얼에 제시된 임상검사 실시. 필요시 실험실 검사 실시
+(b)항의 검사는 세척·소독 및 감염농장에 대한 소독 조치완료 후 40일이 경과할 때까지 수행하지 않아야 함
+
+4. 예찰·검사강화를 적용시 30,40일을 21,30일로 단축할 수 있음
+Article 12 Cleansing, disinfection and treatment with insecticides 
+Member States shall ensure that:
+(a) the disinfectants and insecticides to be used and their concentrations are officially approved by the competent authority;
+(b) the cleansing, disinfection and, if necessary, insecticide operations are carried out under official supervision in accordance with:
+— the instructions given by the official veterinarian; and
+— the principles and procedures laid down in Annex II.
+12조(세척, 소독 및 치료)
+회원국은 다음을 보장해야 함
+(a) 사용되는 소독제,살충제 농도는 관할 당국에 의해 공식적으로 승인
+(b) 세정, 소독 및 필요한 경우 살충제 운용은 다음에 따라 공식 감독하에 수행
+-공식 수의사의 지시
+-부속서 II에 규정된 원칙과 절차
+Article 13 Repopulation of pig holdings following disease outbreaks 
+1. The reintroduction of pigs to holdings referred to in Article 5 shall not take place until at least 40 days after completion of the cleansing, disinfection and, if necessary, disinsectisation operations in the holding in question in accordance with paragraphs 2 to 5 of this Article.
+2. The reintroduction of pigs shall take account of the type of farming practised on the holding concerned, and shall conform to one of the procedures set out in paragraphs 3 and 4.
+3. In the case of holdings where the occurrence of disease has not been linked to vectors, the following procedure shall apply:
+(a) as regards open-air holdings, the reintroduction of pigs shall start with the introduction of sentinel pigs which have been checked and found negative for the presence of antibodies against African swine fever virus or which come from holdings not subjected to any restrictions related to African swine fever. The sentinel pigs shall be placed, in accordance with the requirements of the competent authority, throughout the infected holding and shall be sampled 45 days later, and shall be tested for the presence of antibodies, in accordance with the diagnostic manual. No pig may leave the holding before the negative results of the serological tests are available; if none of the pigs has developed antibodies against African swine fever virus, full repopulation may then take place;
+(b) as regards all other forms of rearing, the reintroduction of pigs shall either take place in accordance with the measures provided for in point (a) or shall be based on total repopulation, provided that:
+— all the pigs arrive within a period of 20 days and come from holdings not subjected to any restrictions related to African swine fever,
+— pigs in the repopulated herd shall be subjected to a serological examination in accordance with the diagnostic manual. Sampling for that examination shall be carried out at the earliest 45 days after the arrival of the last pigs,
+— no pig may leave the holding before the negative results of the serological examination are available
+
+13 조 (질병 발생에 따른 재입식)
+1. 제 5 조에 언급 된 농장에 대한 재입식은 2항 내지 5 항에 따라 해당 농장의 세척·소독 및 완료된 후 최소 40일까지 불가
+2. 돼지의 재입식은 관련 농장의 유형을 고려해야 하며, 3항 및 4항에 규정된 절차 중 하나를 준수해야 함
+3. 질병발생이 매개체와 관련이 없는 농장의 경우 다음 절차를 적용해야 함
+(a) 야외 농장의 경우, 재입식은 감시돈 도입 및 검사결과 음성일 것. 감시돈은 도입 45일후 항체검사 실시
+(b) 기타 사육방식 농장의 재입식은 (a) 항에 규정된 조치에 따라 이루어지거나 아래와 같은 전체 재입식에 기초해야 함
+- 모든 돼지는 20 일 이내에 입식하며, ASF 관련 어떤 조치도 없는 농장 유래일 것
+- 재입식돈은 진단 매뉴얼에 따라 혈청 검사를 받아야 함. 샘플링은 마지막 돼지가 도착후 45 일 이내에 실시
+- 혈청검사 음성 전까지 반출금지
+
+
+4. In the case of holdings where the occurrence of disease has been linked to vectors, restocking shall not take place for at least six years unless: 
+(a) specific operations to eliminate the vector from the premises and places where the pigs are to be kept or can come into contact with the vector have been successfully carried out under official supervision, or
+ (b) it has been possible to show that the persistence of the vector no longer represents a significant risk of African swine fever being transmitted. Thereafter, the measures laid down in paragraph 3(a) shall apply. In addition to those measures, however, no pig may leave the holding in question after full repopulation until further serological examinations for African swine fever have been carried out with negative results on samples collected from the pigs in the holding at the earliest 60 days after full repopulation, in accordance with the diagnostic manual. 
+5. Where the occurrence of disease has not been linked to vectors, and if more than six months have elapsed since the completion of the cleansing and disinfection operations in the holding, the competent authority may authorise derogation from paragraph 3, taking into account the epidemiological situation. 
+6. The reintroduction of domestic animals of species other than pigs to the holdings described in Article 5 shall be subject to authorisation by the competent authority, which shall take account of the risk of spreading the infection or of the persistence of vectors presented by such reintroduction.
+
+4. 질병 발생이 매개체와 관련있는 농장의 경우, 다음과 같은 경우가 아니면 최소 6년 동안 재입고 불가
+(a) 매개체와 접촉가능성이 있는 장소에서 공적관리하에 구충 작업 수행
+(b) 매개체에 의한 ASFV감염 가능성이 없음을 증명해야 함
+- 이후 3 (a) 항에 규정된 조치가 적용
+- 재입식돈은 진단 매뉴얼에 따라 혈청 검사를 받아야 함. 샘플링은 마지막 돼지가 도착후 60일 이내에 실시
+
+5. 질병의 발생이 매개체와 관련이 없는 경우 및 농장 세척·소독 작업이 완료된 후 6개월 이상 경과 한 경우, 관할당국은 역학을 고려하여 3항부터 폐기 가능
+6. 제 5 조에 기술된 농장으로 돼지 이외의 종의 재입식은 관할 당국의 승인을 받아야 함
+Article 14 Measures in cases where African swine fever is suspected or confirmed in a slaughterhouse or means of transport 
+1. Where there is a suspicion of African swine fever in a slaughterhouse or means of transport, Member States shall ensure that the competent authority immediately sets in motion official means of investigation to confirm or to rule out the presence of the disease in accordance with the procedures laid down in the diagnostic manual. 
+2. Should a case of African swine fever be detected in a slaughterhouse or means of transport, the competent authority shall ensure that:
+(a) all susceptible animals in the slaughterhouse or in the means of transport are killed without delay; 
+(b) the carcases, offal and animal waste of possibly infected and contaminated animals are processed under official supervision; 
+(c) cleansing, disinfection and, if necessary, disinsectisation of buildings and equipment, including vehicles, takes place under the supervision of the official veterinarian in accordance with Article 12; 
+(d) an epidemiological inquiry is carried out as provided in Article 8 mutatis mutandis; 
+(e) the African swine fever virus isolate is subject to the laboratory procedure laid down in the diagnostic manual, to identify the genetic type of virus; 
+(f) the measures referred to in Article 7 are applied in the holding where the infected pigs or carcases came from and in the other contact holdings. Unless otherwise indicated by the epidemiological inquiry, the measures laid down in Article 5(1) shall be applied in the holding of origin of the infected pigs or carcases;
+(g) no animals are reintroduced for slaughter or transport until at least 24 hours after completion of the cleansing, disinfection and, if necessary, disinsectisation operations conducted in accordance with Article 12.
+
+14조 (도축장 또는 운송 수단에서 ASF 의심 또는 확진시 조치)
+1. 도축장 또는 운송 수단에 ASF가 의심되는 경우, 회원국은 관할당국의 공식조사를 통해 질병의 존재를 확인 또는 배제해야 함
+2. 도축장 또는 운송 수단에서 ASF 발생시 관할 당국은 다음을 보장해야 함
+(a) 도축장 또는 운송수단의 모든 감수성 동물은 지체없이 살처분 실시
+(b) 감염 및 오염 된 동물의 도체, 동물 폐기물 등은 공적 감리하에 처리
+(c) 제 12 조에 따라 공식 수의사의 감독하에 차량을 포함한 건물 및 장비의 세척, 소독 수행
+(d) 8조에 따른 역학조사 수행
+(e) ASFV의 유전자형 확인을 위한 분리동정 실시
+(f) 제 7조에 언급 된 조치는 발생농가 및 역학농가에 적용됨. 
+- 역학적 조사에 의해 달리 지시되지 않는 한, 제 5 (1) 조에 규정 된 조치는 감염된 돼지나 도체의 농장에 적용
+(g) 세척·소독 및 필요한 경우 소독 작업이 완료된 후 최소 24 시간까지 동물을 도축 또는 운송을 위해 재도입 불가
+Article 15 Measures in cases where African swine fever is suspected or confirmed in feral pigs 
+1. Immediately after the competent authority of a Member State has information that feral pigs are suspected of being infected, it shall take all appropriate measures to confirm or rule out the presence of the disease, by giving information to the owners of pigs and to hunters, and by investigations of all feral pigs shot or found dead, including laboratory testing. 
+2. As soon as confirmation of a primary case of African swine fever in feral pigs has taken place, in order to reduce the spread of disease, the competent authority of a Member State shall immediately: 
+(a) establish an expert group including veterinarians, hunters, wild life biologists and epidemiologists. The expert group shall assist the competent authority in: 
+— studying the epidemiological situation and defining an infected area in accordance with Article 16(3)(b),
+— establishing appropriate measures to be applied in the infected area in addition to the ones referred to in points (b) and (c); these measures may include suspension of hunting and a ban on feeding feral pigs, 
+— drawing up the eradication plan to be submitted to the Commission in accordance with Article 16, 
+— carrying out checks to verify the effectiveness of the measures adopted to eradicate African swine fever from the infected area; 
+
+15 조 (야생 돼지에서 ASF가 의심되거나 확인되는 경우의 조치)
+1. 회원국의 관할당국은 멧돼지 감염 정보를 입수한 직후, 농장주와 사냥꾼에게 정보를 제공함으로서 검사 등을 통해 질병의 존재를 확인하기 위한 조치수행
+2. 야생 멧돼지에서 ASF의 최초 사례 확인시 즉시 질병의 확산을 줄이기 위해 회원국의 관할당국은 즉시 다음을 수행해야 함
+(a) 수의사, 사냥꾼, 야생 생물학자 및 역학자를 포함한 전문가그룹을 구성
+- 16(3)(b)조에 따라 역학상황을 연구하고 감염지역 정의
+- (b)와 (c)에서 언급 된 것 외에 감염된 지역에 적용할 적절한 조치를 확립* 
+* 이러한 조치에는 사냥 및 야성 돼지 먹이 금지포함
+- 위원회에 제출할 근절 계획 작성
+- 감염된 지역에서 ASF 근절을 위한 조치의 효과를 검증하기 위한 점검 수행
+(b) place under official surveillance pig holdings in the defined infected area, and shall in particular order that: 
+— an official census be carried out of all categories of pigs on all holdings; the census shall be kept up to date by the owner. The information in the census shall be produced on request and may be checked at each inspection. However, as regards open-air pig holdings, the first census carried out may be done on the basis of an estimate, 
+— all pigs on the holding be kept in their living quarters or some other place where they can be isolated from feral pigs. Feral pigs must not have access to any material which may subsequently come in contact with the pigs on the holding, 
+— no pigs enter or leave the holding, except where authorised by the competent authority having regard to the epidemiological situation, 
+— appropriate means of disinfection and if necessary disinsectisation be used at the entrance and exits of buildings housing pigs and of the holding itself, 
+— appropriate hygiene measures be applied by all persons coming into contact with feral pigs, to reduce the risk of African swine fever virus spreading, 
+— all dead or diseased pigs with African swine fever symptoms on a holding be tested for the presence of African swine fever, 
+— no part of any feral pig, whether shot or found dead, nor any material or equipment which could be contaminated with African swine fever virus, shall be brought into a pig holding,
+— pigs, their semen, embryos or ova shall not be moved from the infected area for intra-Community trade;
+(b) 제한된 감염지역 농장에 대해 공적 관리하에 두고 아래 조치를 취해야 함
+- 사육두수(통계) 확인 및 정보 최신화 유지 필요
+- 사육돼지는 멧돼지와 접촉되지 않도록 격리조치
+- 역학적 상황과 관련하여 관할 당국이 승인한 경우외 돼지 반입·반출 금지
+- 돈사 입·출구 소독 실시
+- 야생 멧돼지와 접촉시 적절한 개인위생조치 
+- ASF 증상이 있는 사육돼지 사체 및 환축은 검사실시
+- 멧돼지 사체는 돼지농장 반입 금지
+- 돼지, 그들의 정액, 배아 또는 난자 감염된 지역에서 반출 금지
+
+(c) arrange that all feral pigs shot or found dead in the defined infected area are inspected by an official veterinarian and examined for African swine fever in accordance with the diagnostic manual. Carcases of all animals found positive shall be processed under official supervision. Where such testing proves negative as regards African swine fever, Member States shall apply the measures laid down in Article 11(2) of Council Directive 92/45/EEC of 16 June 1992 on public health and animal health problems relating to the killing of wild game and the placing on the market of wild-game meat (1). Parts not intended for human consumption shall be processed under official supervision;
+(d) ensure that the African swine fever virus isolate is subject to the laboratory procedure indicated in the diagnostic manual, to identify the genetic type of virus.
+3. If a case of African swine fever has occurred in feral pigs in an area of a Member State close to the territory of another Member State, the Member States concerned shall collaborate in the establishment of disease control measures.
+(c) 감염지역에서 발견된 사체·사냥된 개체는 검사 실시
+- 검사결과 양성 사체는 공적 관리하에 처리
+(d) ASFV의 유전자형 확인을 위한 분리동정 실시.
+3. 다른 회원국의 영토에 가까운 회원국의 지역에서 ASF 발생시, 관련 회원국은 질병 통제 대책 수립을 위해 협력해야 함
+
+
+Article 16 Plans for the eradication of African swine fever from a feral pig population
+
+1. Without prejudice to the measures laid down in Article 15, Member States shall submit to the Commission within 90 days of the confirmation of a primary case of African swine fever in feral pigs a written plan of the measures taken to eradicate the disease in the area defined as infected, and of the measures applied on the holdings in that area.
+   The Commission shall examine the plan in order to determine whether it permits the desired objective to be attained. The plan, if necessary with amendments, shall be approved in accordance with the procedure referred to in Article 24(2).
+   The plan may subsequently be amended or supplemented to take account of developments in the situation.
+  If these amendments concern the re-definition of the infected area, Member States shall ensure that the Commission and the other Member States are informed of these amendments without delay.
+  If the amendments concern other provisions of the plan, Member States shall submit the amended plan to the Commission for examination and eventual approval in accordance with the procedure referred to in Article 24(2).
+2. After the measures provided for in the plan mentioned in paragraph 1 have been approved, they shall replace the initial measures laid down in Article 15, on a date which shall be decided upon when approval is given.
+3. The plan mentioned in paragraph 1 shall contain information on:
+16조 (야생멧돼지 개체군에서 ASF 근절계획)
+
+1. 제 15조에 규정된 조치를 침해하지 않고, 회원국은 야생 돼지에서 아프리카 돼지 열병의 최초 발생 확인후 90일 이내에 위원회에 근절계획을 제출해야 함
+   위원회는 계획이 원하는 목표를 달성 할 수 있는지 결정하기 위해 계획을 조사해야 함
+
+   이러한 수정 사항이 감염 지역의 재정의와 관련이 있는 경우 회원국은 위원회와 다른 회원국에 이러한 수정 사항을 지체없이 통보해야 함
+
+2. 제 1항에 언급된 계획에 규정된 조치가 승인된 후, 제 15조에 규정된 조치는 승인 결정 당일부터 적용
+
+3. 제 1항에 언급된 계획은 다음에 관한 정보를 포함해야 함
+
+
+(a) the results of the epidemiological investigations and controls carried out in accordance with Article 15 and the geographical distribution of the disease;
+(b) the definition of the infected area within the territory of the Member State concerned. When defining the infected area, the competent authority shall take into account: 
+— the results of the epidemiological investigations carried out and the geographical distribution of the disease, 
+— the feral pig population in the area, 
+— the existence of major natural or artificial obstacles to movements of feral pigs; 
+(c) the organisation of close cooperation between biologists, hunters, hunting organisations, the wildlife services and veterinary authorities (animal health and public health); 
+(d) the information campaign to be enforced to increase hunters' awareness of the measures they have to adopt in the framework of the eradication plan; 
+(e) specific efforts made to determine the extent of the infection in the feral pig population, by investigating feral pigs shot by hunters or found dead, and by laboratory testing, including age-stratified epidemiological investigations; 
+(f) the requirements to be complied with by hunters in order to avoid any spread of the disease; 
+(g) the method of removal of feral pigs found dead or shot, which shall be based on: 
+— processing under official supervision, or 
+— inspection by an official veterinarian and laboratory tests as provided for in the diagnostic manual. Carcases of all animals found positive shall be processed under official supervision. Where such testing proves negative as regards African swine fever, Member States shall apply the measures laid down in Article 11(2) of Directive 92/45/EEC. Parts not intended for human consumption shall be processed under official supervision; 
+(h) the epidemiological inquiry which is carried out on each feral pig, whether shot or found dead. This inquiry must include the completion of a questionnaire which supplies information about: 
+— the geographical area where the animal was found dead or shot, 
+— the date on which the animal was found dead or shot, 
+— the person who found or shot the animal, 
+— the age and sex of the pig, 
+— if shot: symptoms before shooting, 
+— if found dead: the state of the carcase, 
+— laboratory findings; 
+(i) surveillance programmes and prevention measures applicable to the holdings situated in the defined infected area, and, if necessary, in its surroundings, including the transport and movement of animals within, from and to the area; these measures shall at least include the ban on moving pigs, their semen, embryos or ova from the infected area for intra-Community trade and may include a temporary ban on pig production and on the establishment of new holdings; 
+(j) other criteria to be applied for lifting the measures taken; 
+(k) the authority with responsibility for supervising and coordinating the departments responsible for implementing the plan; 
+(l) the information system established in order that the expert group appointed in accordance with Article 15(2)(a) can review on a regular basis the results of the eradication plan;
+(m) the disease monitoring measures which shall be enforced at the earliest 12 months after diagnosis of the last case of African swine fever in feral pigs in the defined infected area; these monitoring measures shall stay in place for at least 12 additional months and shall at least include the provisions already enforced in accordance with points (e), (g) and (h).
+4. A report concerning the epidemiological situation in the defined area and the results of the eradication plan shall be transmitted to the Commission and to the other Member States in the Committee referred to in Article 23 every six months.
+  More detailed rules relating to the information to be provided by the Member States on this matter may be adopted in accordance with the procedure referred to in Article 23(2).
+(a) 질병의 지리적 분포에 따라 수행된 역학조사 및 통제 결과
+(b) 감염지역 정의. 감염지역 정의시 관할당국은 다음을 고려해야 함
+-역학조사 결과 및 질병의 지리적 분포,
+-지역의 야생 멧돼지 수
+-야생멧돼지의 이동관련 주요 자연 또는 인공 장애물의 존재
+
+(c) 생물학자, 수렵인, 야생동물기관 및 수의 당국 (동물 건강 및 공중 보건) 간의 긴밀한 협력 상황
+
+(d) 수렵인 대상 인식제고를 위한 캠페인 정보
+
+(e) 멧돼지 사체를 통해 연령별 감염수준 등을 확인하기 위한 구체적 조치들
+(f) 질병의 확산을 방지하기 위한 수렵인의 준수요건;
+
+(g) 멧돼지 사체 처리방법
+-공적 관리하에 처리될 것, 또는
+-검사결과 양성개체의 경우 공적 관리하에 처리해야 함. ASFV음성인 경우 지침 92 / 45 / EEC의 11 (2) 조에 명시된 조치를 적용해야 함.
+· 비식용 부위는 공식 감독하에 처리
+(h) 야생멧돼지 역학 설문사항. 이 문의에는 다음에 대한 정보가 포함되어야 함
+- 발견 지역
+- 발견일
+- 확인자
+- 연령 및 성별
+- 사살시: 사살 전 증상
+- 사체가 발견시 상태
+- 실험실 검사 결과
+
+
+(i) 감염지역 내외에 적용된 적용되는 예찰 프로그램 및 예방 조치 (동물의 운송 및 이동을 포함) 
+- 이러한 조치에는 적어도 지역 내 교역을 위해 감염된 지역에서 돼지, 정액, 배아 또는 난자를 이동금지 등의 조치가 포함됨
+(j) 취해진 조치를 해제하기 위해 적용되는 기타 기준
+(k) 계획 이행을 담당하는 부서를 감독하고 조정하는 책임 부서
+(l) 제 15 (2) (a)에 따라 조직된 전문가그룹이 근절계획의 결과를 정기적으로 검토할 수 있도록 구축한 시스템
+(m) 감염지역의 멧돼지에서 최종발생 후 12개월 내 시행되는 질병 모니터링 조치; 이러한 모니터링 조치는 최소 12개월 동안 유지되야 함
+
+4. 감염지역의 역학적 상황 및 근절계획의 수행결과 보고서는 6 개월 마다 다른 회원국과 위원회에 전송되어야 함
+
+
+Article 17 Measures to prevent the spread of African swine fever virus by means of vectors 
+1. Should the presence of vectors be possible or suspected on a holding where African swine fever has been confirmed, the competent authority shall ensure that:
+(a) the infected building and its surroundings are checked for the presence of vectors, by means of physical inspection and, if necessary, the trapping of specimens in accordance with Annex III;
+(b) where the presence of vectors is confirmed:
+— appropriate laboratory tests are carried out to confirm or rule out the presence of African swine fever virus in the vectors,
+— further appropriate monitoring, checking and control measures are established in the holding and in the area around the holding;
+(c) where the presence of vectors is confirmed but its control is impracticable, pigs and if necessary other domestic animals are not kept on the holding for at least six years.
+
+2. Information on the implementation of paragraph 1 shall be provided by the Member State concerned to the Commission and to the other Member States in the framework of the Standing Veterinary Committee.
+3. Further measures for the monitoring and control of vectors and for the prevention of African swine fever may be adopted in accordance with the procedure referred to in Article 24(2)
+
+17조 (벡터를 이용한 ASFV의 확산을 막기 위한 조치)
+
+1. ASF가 확인된 곳에서 매개체의 존재가 의심되는 경우, 관할 당국은 다음을 보장해야 함
+
+(a) 감염된 건물과 주변 환경은 물리적 검사와, 필요한 경우 샘플링을 통해 매개체 존재 여부 점검
+(b) 매개체 존재가 확인된 경우 :
+-매개체에 ASFV가 있는지 확인하기 위해 적절한 실험실 검사 수행
+-농장 주변지역에 대한 모니터링 및 방역조치 수행
+(c) 매개체가 확인되었지만 제어가 불가능한 경우, 돼지 및 (필요한 경우) 기타 가축을 6 년 이상 사육금지
+
+2. 1항의 이행 관련 정보는 위원회와 다른 회원국에게 제공
+
+3. 매개체 모니터링 및 추가 예방 조치는 24(2) 조에 언급된 절차에 따라 채택할 수 있음
+Article 18 Diagnostic procedures and bio-safety requirements 
+
+1. Member States shall ensure that:
+
+(a) diagnostic procedures, sampling and laboratory testing to detect the presence of African swine fever are carried out in accordance with the diagnostic manual;
+(b) a national laboratory is responsible for coordinating standards and diagnostic methods in each Member State in accordance with Annex IV.
+2. Member States shall make the details of their national laboratory, and any subsequent changes, available to the other Member States and to the public in a manner that may be specified in accordance with the procedure referred to in Article 23(2).
+
+
+3. In order to ensure uniform procedures to diagnose African swine fever and an appropriate differential diagnosis with classical swine fever, within six months of the date when this Directive enters into force and in accordance with the procedure referred to in Article 23(2), an African swine fever diagnostic manual shall be adopted to establish at least:
+(a) minimum quality standards to be observed by African swine fever diagnostic laboratories and for the transport of samples;
+(b) criteria and procedures to be followed when clinical or post mortem examinations are carried out to confirm or exclude the presence of African swine fever;
+(c) criteria and procedures to be followed for the collection of samples from live pigs or their carcases, to confirm or exclude African swine fever by laboratory examinations, including sampling methods for serological or virological screenings carried out in the framework of the application of the measures provided for in this Directive;
+(d) laboratory tests to be used for the diagnosis of African swine fever, including criteria for evaluating the results of the laboratory tests;
+(e) laboratory techniques for the genetic typing of the African swine fever virus isolate.
+
+18조 (진단 절차 및 생물 안전 요구 사항)
+
+1. 회원국은 다음을 보장해야 함
+
+(a) ASF 존재를 탐지하기 위한 진단 절차, 샘플링 및 실험실 테스트는 진단 매뉴얼에 따라 수행
+(b) NRL는 부속서 IV에 따라 각 회원국의 진단 표준과 진단 방법을 조정할 책임이 있음
+
+2. 부속서 IV에 언급 된 국가 실험실은 부속서 V에 명시된 바와 같이 지역 사회 실험실과 소통해야 함
+
+
+3.본 지침 발효일로부터 6월 이내에 제 23 (2) 조에 따라 ASFV와 CSFV 감별 진단을 위해, ASF 진단 매뉴얼은 최소한 다음 내용을 반영하여 채택되어야 함
+(a) ASF진단 실험실과 시료 운송에 대해 준수해야 할 최소 품질 기준
+(b) ASF 확인을 위한 생·해체검사 수행시 기준 및 절차;
+(c) 생돈 및 사체의 시료 채취시 기준 및 절차
+(d)  ASF 진단에 사용될 실험실 검사방법* 
+ *실험실 검사 결과를 평가하기 위한 기준 포함
+(e) ASFV의 유전자형 확인을 위한 기술
+
+
+4. In order that appropriate bio-safety conditions are guaranteed to protect animal health, the African swine fever virus, its genome and antigens and vaccines for research, diagnosis or manufacture shall be manipulated or used only in places, establishments or laboratories approved by the competent authority.
+  The list of approved places, establishments or laboratories shall be transmitted to the Commission not later than 1 January 2004 and shall be kept updated thereafter.
+5. Annexes IV and V and the diagnostic manual may be supplemented or amended in accordance with the procedure referred to in Article 23(2).
+
+4. 생물학적 안전을 위해 ASFV 및 유전자 ,항원, 연구, 진단 또는 백신은 승인된 장소, 시설 또는 실험실에서만 조작하거나 사용해야 함
+
+  승인된 장소, 시설 또는 실험실의 목록은 ‘04.1.1까지위원회에 전송되어 이후에 업데이트 되어야한다.
+
+5. 부속서 IV 및 V 및 진단 매뉴얼은 제 23 (2) 조에 언급된 절차에 따라 보충·개정 가능
+Article 19 Use, manufacture and sale of African swine fever vaccines 
+
+Member States shall ensure that:
+(a) the use of African swine fever vaccines is prohibited;
+(b) the manipulation, manufacture, storage, supply, distribution or sale of African swine fever vaccines in the territory of the Community is carried out under official control.
+   However, to take account of developments in scientific and technical research into the production of such a vaccine, the Commission shall submit to the Council a report accompanied if necessary by appropriate proposals to update this Directive.
+19조 (ASF 백신의 사용, 제조 및 판매)
+
+회원국은 다음을 보장해야 함
+
+(a) ASF 백신의 사용금지
+(b) 공동체 영토 내 아프리카 돼지 열병 백신의 조작, 제조, 저장, 유통 또는 판매는 공적관리 하에 수행
+- 백신의 생산에 대한 과학 및 기술 연구의 발전을 반영하기 위해 위원회는 필요한 경우 지침의 업데이트와 관련된 보고서를 이사회에 제출해야 함
+Article 20 Community controls 
+
+Experts from the Commission may make on-the-spot checks in cooperation with the competent authorities of the Member States, in so far as this is necessary to ensure uniform application of this Directive. The Member State in whose territory checks are made shall provide the experts with all the assistance necessary for carrying out their duties. The Commission shall inform the competent authority of the results of the checks made.
+
+The rules of application of this Article and in particular those governing the procedure for cooperation with the national authorities shall be adopted in accordance with the procedure referred to in Article 23(2).
+20조 (커뮤니티 컨트롤)
+
+위원회의 전문가는 본 지침의 통일된 적용을 위해 필요한 한 회원국의 권한있는 당국과 협력하여 현장 점검을 수행 할 수 있음. 피 점검국은 전문가에게 직무 수행에 필요한 모든 지원을 제공해야 하며 위원회는 검사 결과를 관할 당국에 통보해야 함
+
+
+Article 21 Contingency plans 
+1. Each Member State shall draw up a contingency plan specifying the national measures to be implemented in the event of an outbreak of African swine fever, taking into account local factors, such as, in particular, the density of pigs, which are likely to influence the spread of African swine fever.
+  This plan shall allow access to facilities, equipment, personnel and all other appropriate materials necessary for the rapid and efficient eradication of the outbreak.
+2. The criteria and requirements to be applied for drawing up the contingency plan shall be those set out in Annex VI.
+  In accordance with the procedure referred to in Article 23(2), those criteria and requirements may be amended or supplemented to take into account the specific nature of African swine fever and the progress made in the development of disease control measures.
+3. The Commission shall examine the plans in order to determine whether they permit the desired objective to be attained and shall suggest to the Member State concerned any amendments required, in particular to ensure that they are compatible with those of the other Member States.
+  The plans, if necessary amended, shall be approved in accordance with the procedure referred to in Article 23(2).
+  The plans may be subsequently amended or supplemented, in accordance with the procedure referred to in Article 23(2), to take into account developments in the situation. In any event, every five years each Member State shall update the plan and submit it to the Commission for approval in accordance with the procedure referred to in Article 23(2).
+
+21조 (긴급행동지침)
+
+1. 각 회원국은 특히 돼지의 밀도와 같은 지역적 요인을 고려하여 ASF 발생시 국가적 조치를 명시한 긴급 행동지침을 작성해야 함
+  이 계획은 신속하고 효율적으로 질병근절에 요구되는 시설, 장비, 인력 및 기타 모든 적절한 자료에 대한 내용을 반영해야 함
+
+2. 긴급행동지침을 작성하기 위해 적용되는 기준과 요건은 부속서 6에 규정된 것이어야 함
+
+3. 위원회는 계획이 원하는 목표를 달성 할 수 있는지 결정하기 위해 계획을 검토하고 수정이 필요한 사항을 회원국과 공유해야 함
+  (필요한 경우) 수정된 계획은 제 23 (2) 조에 언급된 절차에 따라 승인되어야 함
+
+  각 회원국은 5 년마다 제 23 (2) 조에 언급 된 절차에 따라 계획을 업데이트하고 승인을 위해 위원회에 제출해야 함
+Article 22 Disease control centres and expert groups 
+
+1. Member States shall ensure that a fully functional national disease control centre can be immediately set up in the event of any outbreaks of African swine fever.
+
+2. The national disease control centre shall direct and monitor the operations of the local disease control centres referred to in paragraph 3. It shall be responsible, inter alia, for:
+(a) defining the necessary control measures;
+(b) ensuring the prompt and efficient implementation of the abovementioned measures by the local disease control centres;
+(c) allocating staff and other resources to local disease control centres;
+(d) providing information to the Commission, to other Member States, the national veterinary organisations, national authorities and the agricultural and trading bodies;
+(e) liasing with diagnostic laboratories;
+(f) liasing with the press and other media;
+(g) liasing with the police authorities to ensure that specific legal measures are taken.
+3. Member States shall ensure that fully functional local disease control centres can be immediately set up in the event of any outbreaks of African swine fever.
+
+22 조 (질병관리센터 및 전문가 그룹)
+
+1. 회원국은 ASF발생시 모든 기능을 갖춘 국가질병관리센터(NDCC)를 즉시 설치해야 함
+
+2. NDCC는 3항에 언급된 지역 질병 관리 센터(LDCC)의 운영을 지시하고 감시해야 함.특히 다음의 임무가 부여됨
+(a) 필요한 통제조치를 수립;
+(b) 지방 질병 관리 센터에 의한 상기 언급된 조치의 신속하고 효율적인 이행 점검;
+(c) 직원 및 기타 자원을 지역 질병 관리 센터에 할당;
+(d) 위원회, 다른 회원국, 국가 수의 기관, 국가 당국 및 농업 및 무역기구에 정보 제공
+(e) 진단 실험실과의 연락;
+(f) 언론 및 기타 매체 관리;
+(g) 법적 조치등을 위한 경찰당국과 연락 유지.
+
+3. 회원국은 ASF발생시 모든 기능을 갖춘 지역 질병 관리 센터(LDCC)를 즉시 설치해야 함
+4. Certain functions of the national disease control centre may, however, be delegated to the local disease control centre operating at an administrative level as provided for in Article 2(2)(p) of Directive 64/432/EEC (1) or at another level, provided the objectives of the national disease control centre are not thereby compromised.
+5. Member States shall create a permanently operational expert group to maintain the expertise needed to assist the competent authority in ensuring disease preparedness.
+In the event of an outbreak the expert group shall assist the competent authority at least in:
+(a) the epidemiological enquiry;
+(b) sampling, testing and interpretation of results of laboratory tests;
+(c) establishment of disease control measures.
+6. Member States shall ensure that the national and local disease control centres and the expert group have staff, facilities and equipment including communication systems as necessary, and a clear and effective chain of command and management to ensure the prompt implementation of the disease control measures laid down in this Directive.
+  Details regarding staff, facilities, equipment, chain of command and management of the national and local disease control centres and of the expert group shall be laid down in the contingency plans referred to in Article 21.
+7. Further criteria and requirements concerning the function and duties of the national disease control centres, local disease control centres and expert groups may be laid down in accordance with the procedure provided for in Article 23(2).
+
+4. NDCC의 특정 권한은 LDCC로 위임될 수 있음
+
+5. 회원국은 질병 준비를 보장 할 관할당국을 지원하는 데 필요한 전문성 유지를 위해 영구적으로 운영되는 전문가그룹을 구성해야 함
+ 전문가 그룹은 질병발생시 다음의 업무 수행
+(a) 역학 조사;
+(b) 실험실 테스트 결과의 샘플링, 테스트 및 해석;
+(c) 질병 관리 대책 수립.
+
+6. 회원국은 국가 및 지방 질병 관리 센터와 전문가 그룹이 필요에 따라 의사 소통 시스템을 포함한 직원, 시설 및 장비, 질병 통제 조치의 신속한 이행을 보장하기 위한 명확하고 효과적인 지휘 및 관리 체계를 갖추도록 보장해야 함
+  NDCC,LDCC, 전문가 그룹의 직원, 시설, 장비, 지휘 및 관리에 관한 세부 사항은 긴급행동지침에 명시되야 함
+
+7. 국가 질병 관리 센터, 지역 질병 관리 센터 및 전문가 그룹의 기능과 의무에 관한 추가 기준과 요구 사항은 23 (2) 조에 규정된 절차에 따라 제시 가능
+
+
+
+Ⅲ
+
+ 2014/709/EU (유럽연합의 아프리카돼지열병의 지역화 정책)
+
+
+EU규정 (2014/709)
+주요 내용
+Article 1 Subject matter and scope
+1조 (주제와 범위)
+
+This Decision lays down animal health control measures in relation to African swine fever in the Member States or areas thereof as set out in the Annex (the Member States concerned).
+본 결정문은 회원국들과 부속서에 기술된 지역들의 ASF 관련된 동물위생관리 조치를 규정함
+EU 회원국 야생돼지 개체군의 ASF 박멸계획안에 차별없이 적용하며, Directive 2002/60/EC의 Article 16에 따라 집행위원회의 승인을 받아야 함
+It shall apply without prejudice to the plans for the eradication of African swine fever from feral pig populations in the Member State concerned, approved by the Commission in accordance with Article 16 of Directive 2002/60/EC
+Article 2 
+Prohibition on the dispatch of live pigs, porcine semen, ova and embryo, pig meat, pig meat preparations, pig meat products and any other products containing pig meat as well as consignments of animal by-products from porcine animals from certain areas listed in the Annex 
+2조 (부속서에 제시된 특정 지역의 살아있는 돼지, 돼지 정액, 난자, 배아, 돼지고기, 돼지고기 제조물, 돼지고기 생산물, 기타 돼지고기를 함유하고 있는 돼지고기 생산물과 그 돼지에서 나온 동물 생산물에 대한 운송 금지)
+The Member States concerned shall prohibit: 
+
+(a) the dispatch of live pigs from the areas listed in Parts II, III and IV of the Annex; 
+(b) the dispatch of consignments of porcine semen, ova and embryos from the areas listed in         Parts III and IV of the Annex; 
+(c) the dispatch of consignments of pig meat, pig meat preparations, pig meat products and any      other products containing such meat from the areas listed in Parts III and IV of the Annex; 
+(d) the dispatch of consignments of animal by-products from porcine animals from the areas          listed in Parts III and IV of the Annex. 
+관련 회원국들은 다음을 금지해야 함
+
+(a) Part II, III, IV 지역의 살아있는 돼지운송
+(b) Part III 및 IV 지역의 돼지 정액, 난자, 배아 운송
+(c) Part III 및 IV 지역의 돼지고기, 돼지고기 조합, 돼지고기 생산물, 기타 이 고기를 함유하고 있는 모든 생산물 화물 운송
+(d) Part III 및 IV 지역의 돼지유래 부산물 운송
+Article 3 Derogation from the prohibition on the dispatch of live pigs from the areas listed in Part II of the Annex 
+By way of derogation from the prohibition provided for in point (a) of Article 2, the Member States concerned may authorise the dispatch of live pigs from a holding located in the areas listed in Part II of the Annex to other areas in the territory of the same Member State provided that: 
+1. the pigs have been resident for a period of at least 30 days or since birth on the holding and no  live pigs have been introduced into that holding from the areas listed in Parts II, III and IV of the    Annex during a period of at least 30 days prior to the date of the movement, and 
+2. the pigs have been subjected to laboratory testing for African swine fever carried out with  negative results on samples taken in accordance with the sampling procedures as laid down in  the plan for the eradication of African swine fever referred to in the second paragraph of Article 1 of this Decision within a period of 15 days prior to the date of the movement and a  clinical examination for African swine fever has been carried out by an official veterinarian in accordance with the checking and sampling procedures laid down in Part A of Chapter IV of the Annex to Commission Decision 2003/422/EC(1) on the date of dispatch, or 
+3. the pigs come from a holding: 
+ (a) that has been subjected at least twice a year, with an interval of at least 4 months, to          inspections by the competent veterinary authority, which: 
+  (i) followed the guidelines and procedures laid down in Chapter IV of the Annex to Decision     2003/422/EC; 
+  (ii) included a clinical examination and sampling in which the pigs over the age of 60 days have been subjected to the laboratory testing in accordance with the checking and  sampling procedures laid down in Part A of Chapter IV of the Annex to Decision 2003/422/EC; 
+  (iii) checked the effective application of the measures provided for in the second indent and in the fourth to seventh indents of Article 15(2)(b) of Directive 2002/60/EC;  
+ (b) that implements bio-security requirements for African swine fever as established by the           competent authority
+3조 (부속서 Part II 지역에서 유래한 살아있는 돼지에 대한 발송 금지의 단서)
+제2조 (a)항에 규정된 금지 규정 단서를 통해 관련 회원국들은 부속서 Part II 지역 농가의 살아있는 돼지를 그 회원국 영토의 다른 지역으로 운송을 허가 가능
+단, 다음을 조건으로 함
+
+1. 돼지는 적어도 30일 이상 또는 출생 이후 해당 농가에서 사육되어야 하고, 이동 전 최소 30일 동안 해당 농가로 부속서 Part II, III, IV 지역의 살아있는 돼지가 유입된 적이 없어야 함. 그리고,
+2. 돼지는 이동 전 15일 기간 내에 본 결정문 제1조에 언급된 근절계획에 규정된 샘플 채취 절차에 따라 채취된 샘플에 대해 ASF실험실 검사에서 음성 판정을 받았고, 발송 당일에는 CD 2003/422/EC 부속서 Chapter IV, Part A에 규정된 확인 및 샘플 채취 절차에 따라 정부수의사가 실시하는  임상검사를 받았어야 함. 또는,
+3. 돼지는 다음으로부터 유래해야 함
+(a) 1년에 최소 2회 이상, 적어도 4개월 이상 간격으로 관할당국의 검사를 받은 농가
+- 검사는 Decision 2003/422/EC, Chapter IV에 규정된 가이드라인과 절차에 따를 것
+- 검사에는 임상검사와 표본검사가 포함되어야 하고, 60일령 이상의 돼지는 CD 2003/422/EC 에 제시된 절차에 따라 실험실 검사를 받을 것
+- 검사에서 CD 2002/60/EC의 Article 15(2)(b)에 규정된 조치들이 효과적으로 시행되었는지 확인할 것
+(b) 관계 당국이 정한 ASF의 차단방역 조건을 이행하는 농가
+Article 4 
+Derogation from the prohibition on the dispatch of consignments of live pigs for immediate slaughter from the areas listed in Part III of the Annex and the dispatch of consignments of pig meat, pig meat preparations and pig meat products obtained from such pigs 
+4조 (부속서 Part III 지역에서 유래한 생돈을 바로 도축할 목적으로 발송하는 것과 이들 돼지에서 유래한 돼지고기, 돼지고기 제조물, 돼지고기 생산물 등 화물을 운송 금지하는 규정의 단서)
+By way of derogation from the prohibitions provided for in points (a) and (c) of Article 2 the Member States concerned may authorise the dispatch for immediate slaughter of live pigs from the areas listed in Part III of the Annex to other areas in the territory of the same Member State in case there are logistic limitations in the slaughter capacity of the slaughterhouses approved by the competent authority according to Article 12 located in the areas listed in Part III of the Annex, provided that: 
+제2조 (a),(c)항에 규정된 금지 규정의 단서조항을 통해 회원국은 부속서 Part III 구역에 위치한 관할기관이 승인한 도축장의 도축 능력에 한계가 있을 경우 부속서 Part III 지역의 살아있는 돼지를 바로 도축할 목적으로 해당 회원국 영토 내 다른 지역으로 발송을 허가할 수 있음.
+ 다음 조건이 충족돼야 함
+
+1. the pigs have been resident for a period of at least 30 days or since birth on the holding and no    live pigs have been introduced into that holding from the areas listed in Parts II, III and IV of the    Annex during a period of at least 30 days prior to the date of the movement; 
+1. 돼지는 적어도 30일 이상 또는 출생 이후 해당 농가에서 사육되어야 하고, 이동 전 최소 30일 동안 해당 농가로 부속서 Part II, III, IV 지역의 살아있는 돼지가 유입된 적이 없어야 함 
+2. the pigs comply with the requirements laid down in paragraph 1 and in paragraph 2 or paragraph  3 of Article 3; 
+2. 돼지는 제3조에 규정된 요건들을 준수해야 한다.
+3. the pigs are transported for immediate slaughter directly, without stopping or unloading, to a    slaughterhouse approved in accordance with Article 12 and specifically designated by the         competent authority for that purpose; 
+3. 돼지는 바로 도축할 목적으로 관할 기관이 특별히 지정하고 제12조에 따라 승인을 받은 도축장으로 정차나 하역 없이 운송되어야 함
+4. the competent authority responsible for the slaughterhouse has been informed by the                 dispatching competent authority of the intention to send the pigs and notifies the dispatching        competent authority of their arrival; 
+4. 발송 관할 기관은 그 돼지를 발송하겠다는 의사를 도축장 담당 관할 기관에 알려야 하고, 도축장 담당 관할 기관은 돼지의 도착을 발송 관할 기관에 알려야 함
+5. on arrival at the slaughterhouse, these pigs are kept and slaughtered separately from other pigs and  are slaughtered on a specific day in which only these pigs from the areas listed in Part III of the  Annex are slaughtered;
+5. 도축장에 도착하면 돼지들은 다른 돼지들과 구분하여 계류 및 도축되어야 하며, 부속서 Part III 지역에서 유래한 돼지들만 별도로 날짜를 정해 도축해야 함
+6. the transport of the pigs to the slaughterhouse within and through areas outside of the areas listed  in Part III of the Annex is carried out along predefined transport routes and the vehicles used for  transporting those pigs are cleaned, if necessary disinsectised, disinfected as soon as possible after unloading;
+6. 부속서 Part III 지역 내 혹은 외부의 도축장으로 돼지를 운송할 때에는 미리 정해진 경로로 운송해야 하며, 돼지들을 운송하는 차량을 청소하고, 필요하면 하역 후 최대한 빨리 해충구제와 소독을 해야 함
+7.  the Member States concerned ensures that the fresh pig meat, pig meat preparations and pig meat      products obtained from those pigs: 
+   (a) are produced, stored and processed in establishments approved in accordance with Article 12; 
+   (b) are marked in accordance with Article 16; 
+   (c) are only marketed on the territory of that Member State; 
+7. 회원국은 신선 돈육, 돈육 제조물, 돈육 생산물이 다음과 같은 돼지에서 유래한 것임을 확인해야 함
+(a) 제12조에 따라 승인된 시설에서 생산, 보관, 가공된 돼지
+(b) 제16조에 따라 표시된 돼지
+(c) 해당 회원국의 영토에서만 판매되는 돼지
+8.  the Member States concerned ensures that the animal by-products from those pigs are subjected     to a treatment in a channelled system approved by the competent authority which ensures that the     derived product obtained from those pigs poses no risks as regards African swine fever; 
+8. 회원국은 이러한 돼지에서 나온 동물부산물이 관할 기관이 승인한 특정 시스템에서 처리되도록 하여 해당 돼지에서 얻은 부산물이 ASF관련 위험을 초래하지 않도록 해야 함
+9. the Member States concerned immediately informs the Commission of the granting of the derogation    according to this Article and notifies the name(s) and address(es) of the slaughterhouse(s) approved    under this Article. 
+9. 회원국은 이 조항에 따른 단서조항의 승인 여부를 집행위원회에 즉시 알리고, 이 조항에 따라 승인된 도축장의 이름과 주소를 공지해야 함
+Article 5 
+Derogation from the prohibition on the dispatch of consignments of pig meat, pig meat preparations, pig meat products and any other products consisting of or containing pig meat from the areas listed in Part III of the Annex 
+5조 (부속서 Part III 지역에서 유래한 돼지의 돼지고기로 구성되거나 이를 함유하고 있는 돼지고기, 돼지고기 제조물, 돼지고기 생산물 등 화물의 발송 금지 규정의 단서)
+By way of derogation from the prohibition provided for in point (c) of Article 2, the Member States concerned may authorise the dispatch of pig meat, pig meat preparations, pig meat products and any other products consisting of or containing pig meat, from the areas listed in Part III of the Annex provided they are either: 
+2조 (c)항에 규정된 금지 규정의 단서를 통해 회원국은 부속서 Part III 지역에서 유래한 돼지의 돼지고기로 구성되거나 이를 함유하고 있는 돼지고기, 돼지고기 제조물, 돼지고기 생산물의 발송을 허가할 수 있음
+단, 다음을 조건으로 함
+(a)  derived from pigs which have been kept since birth in holdings located outside the areas listed in      Parts II, III or IV of the Annex, and the pig meat, pig meat preparations and pig meat products      consisting of, or containing such meat, have been produced, stored and processed in                establishments approved in accordance with Article 12; or 11.10.2014 L 295/67 Official Journal of      the European Union EN     
+(b)  derived from pigs that comply with the requirements laid down in paragraph 1 and paragraph 2 or      paragraph 3 of Article 3 and the pig meat, pig meat preparations and pig meat products consisting      of, or containing such meat, have been produced, stored and processed in establishments            approved in accordance with Article 12; or 
+(c) have been produced and processed in accordance with Article 4(1) of Directive 2002/99/EC in       establishments approved in accordance with Article 12.
+(a) 돼지고기는 부속서 Part II, III, IV 지역에 위치한 농가에서 출생 이후 해당 농장에서 사육된 돼지에서 유래한 돼지고기로 구성되거나 이를 함유하고 있는 돼지고기, 돼지고기 제조물, 돼지고기 생산물이 제12조에 따라 승인된 시설에서 생산, 보관, 가공되었어야 함. 또는;
+(b) 돼지고기는 제3조의 요건들을 준수하는 돼지에서 유래한 돼지고기로 구성되거나 이를 함유하고 있는 돼지고기, 돼지고기 제조물, 돼지고기 생산물이 제12조에 따라 승인된 시설에서 생산, 보관, 가공되었어야 함. 또는
+(c) 돼지고기는 Article 12에 따라 승인된 시설에서 Directive 2002/99/EC의 제4조(1)에 따라 생산 및 가공될 것
+Article 6 
+Derogation from the prohibition on the dispatch of consignments of pig meat, pig meat preparations, pig meat products and any other products consisting of or containing pig meat from the areas listed in Part IV of the Annex 
+제6조 (부속서 Part IV 지역에서 유래한 돼지의 돼지고기로 구성되거나 이를 함유하고 있는 돼지고기, 돼지고기 제조물, 돼지고기 생산물 등 화물의 발송 금지 규정의 단서)
+By way of derogation from the prohibition provided for in point (c) of Article 2, the Member States concerned may authorise the dispatch of pig meat, pig meat preparations, pig meat products and any other products consisting of or containing pig meat, from the areas listed in Part IV of the Annex provided they are either: 
+Article 2 (c) 항에 규정된 금지 규정의 단서를 통해, 관련 회원국들은 부속서 Part IV 지역에서 유래한 돼지의 돼지고기로 구성되거나 이를 함유하고 있는 돼지고기, 돼지고기 조합, 돼지고기 생산물의 발송을 허가할수 있음
+단, 다음을 조건으로 함;
+
+(a)  derived from pigs which have been kept since birth in holdings located outside the areas listed in      the Annex, and the pig meat, pig meat preparations and pig meat products consisting of, or         containing such meat, have been produced, stored and processed in establishments approved in      accordance with Article 12; or 
+(b) have been produced and processed in accordance with Article 4(1) of Directive 2002/99/EC in       establishments approved in accordance with Article 12. 
+(a) 돼지고기는 부속서의 지역 외부에 위치한 농가에서 출생 이후 해당 농장에서 계속 사육된 돼지에서 유래한 돼지의 돼지고기로 구성되거나 이를 함유하고 있는 돼지고기, 돼지고기 제조물, 돼지고기 생산물이 제12조에 따라 승인된 시설에서 생산, 보관, 가공되어야 함. 또는
+(b) 돼지고기는 Article 12에 따라 승인된 시설에서 Directive 2002/99/EC의 제4조(1)에 따라 생산, 가공되어야 함.
+Article 7 
+Derogation from the prohibition on the dispatch of consignments of animal by-products from porcine animals from the areas listed in Parts III and IV of the Annex 
+7조 (부속서 Part III 및 IV 지역의 돼지에서 유래한 동물부산물 화물의 발송 금지 규정의 단서) 
+1. By way of derogation from the prohibition provided for in point (d) of Article 2, the Member States    concerned may authorise the dispatch of derived products as referred to in Article 3(2) of Regulation    (EC) No 1069/2009 of the European Parliament and of the Council obtained from animal            by-products from porcine animals originating from the areas listed in Part III and IV of the Annex    provided that those by-products have been subjected to a treatment which ensures that the derived    product pose no risks as regards African swine fever
+1. 제2조 (d)항에 규정된 금지 규정의 단서를 통해 회원국은 유럽의회 및 이사회 Regulation (EC) No 1069/2009(1)의 제3조(2)에 언급되었듯이 부속서 Part III 및 IV 지역에서 유래한 돼지의 동물부산물에서 얻은 부산물은 그 부산물이 ASF발생과 관련한 위험을 초래하지 않도록 부산물을 처리한 경우에 한정하여 운송을 허가할 수 있음
+2. By way of derogation from the prohibition provided for in point (d) of Article 2, the Member States     concerned may authorise the dispatch of unprocessed carcases of pigs other than feral pigs and of     animal by-products of porcine origin other than feral pigs from slaughterhouses (hereinafter:       animal by-products) from areas listed in Part III of the Annex to a processing, incineration or       co-incineration plant located outside the areas listed in Part III of the Annex, provided that:
+2. 제2조 (d) 항에 규정된 금지 규정의 단서를 통해 회원국은 야생돼지를 제외한 돼지의 미가공 도체와 야생돼지를 제외한 돼지의 동물부산물 (이하 “동물부산물”)을 Part III 지역의 도축장(2)에서 Part III 지역 외부의 가공시설, 소각시설, 공동소각시설로 운송 허가할 수 있음. 
+  단, 다음을 조건으로 함
+(a)  the animal by-products originate from holdings or from slaughterhouses situated within the areas      listed in Part III of the Annex, where there has been no outbreak of African swine fewer during at      least 40 days prior to the dispatch; 
+(b)  each truck and other vehicles that are used for transport of those animal by-products has been      individually registered by the competent authority in accordance with Article 23 of Regulation (EC)      No 1069/2009, and: 
+ (i)  the covered leak-proof compartment for the transport of those animal by-products is constructed  in a way permitting its effective cleaning and disinfection and the construction of floors facilitates  the draining and collection of liquids; 
+ (ii) the application for registration of the truck and other vehicles contains evidence that the truck or vehicle had been successfully subject to regular technical checks; 
+ (iii) each truck must be accompanied by a satellite navigation system to determine his real time  location. The operator of the transport shall enable the competent authority to control the real       time movement of the truck and to keep the electronic records of the movement for at least 2     months; 
+(c) after loading the compartment for the transport of those animal by-products shall be sealed by the     official veterinarian. Only the official veterinarian may break the seal and replace it with a new one.     Each loading or replacement of seals shall be notified to the competent authority; 
+(d) any entry of the trucks or vehicles into pig holdings shall be prohibited and the competent           authority ensures a safe collection of the carcases of pigs; 
+(e) the transport to the above referred plants takes place directly to those plants only, without stopping     at the route authorised by the competent authority from the designated disinfection point at the exit    from the area listed in Part III of the Annex. At the designated disinfection point the trucks and     vehicles must be subject to proper cleansing and disinfection under control of the official            veterinarian; 
+(f) each consignment of animal by-products is accompanied by the duly completed commercial          document referred to in Chapter III of Annex VIII to Commission Regulation (EU) No 142/2011(1).      The official veterinarian responsible for the processing plant of destination must confirm each       arrival to the competent authority referred to in point (b)(iii); 
+(g) after unloading of the animal by-products the truck or vehicle and any other equipment which are     used in the transport of that animal by-products and that might be contaminated, are cleaned,      disinfected and if necessary disinsectised in its entirety within the closed area of the processing      plant under the supervision of the official veterinarian. Article 12(a) of Directive 2002/60/EC shall     apply; 
+(h)  the animal by-products are processed without any delay. Any storage in the processing plant shall      be prohibited; 
+(i) the competent authority shall ensure that the dispatch of animal by-products does not exceed the     relevant daily processing capacity of the processing plant; 
+(j) before the first dispatch from Part III of the Annex takes place, the competent authority shall ensure     that the necessary arrangements with the relevant authorities within the meaning of point (c) of      Annex VI to Directive 2002/60/EC in order to ensure the emergency plan, the chain of command     and full cooperation of services in case of accidents during the transport, mayor breakdown of      truck or vehicle or any fraudulent action of operator. The operators of the trucks shall immediately     notify the competent authority of any accident or breakdown of truck or vehicle. 
+
+(a) 동물부산물이 부속서 Part III 지역 내 농가나 도축장에서 유래한 것이어야 하고, 발송 전 최소 40일 동안 아프리카돼지열병이 발생한 적이 없어야 함
+(b) 동물부산물을 운송하는데 사용한 모든 트럭과 기타 차량은 Regulation (EC) No 1069/2009의 제23조에 따라 관할기관에 개별 등록해야 함. 그리고;
+- 동물부산물 운송을 위한 누수 방지 구획은 세척과 소독이 효과적으로 이루어질 수 있도록 건조돼야 하고, 바닥 구조는 액체의 배출과 수거가 용이해야 함
+- 트럭 및 기타 차량의 등록 신청서에는 해당 트럭이나 차량이 정기적으로 기술 점검을 받아왔다는 증거가 있어야 함
+- 각각의 트럭에는 위성항법장치를 장착하여 실시간으로 위치를 확인할 수 있어야 함. 운송 사업자는 관할 기관이 트럭의 실시간 이동을 관리할 수 있게 해야 하고, 이동에 관한 전자 기록을 2개월 이상 보관할 수 있어야 함
+(c) 적재 이후 동물부산물 운송 구획을 정부수의사가 봉인해야 한다. 정부수의사는 봉인제거 후 새로운 봉인으로 교체할 수 있음. 적재를 할 때마다 또는 봉인을 교체할 때마다 관할 기관에 신고해야 함.
+(d) 어떠한 종류의 트럭이나 차량도 돼지 농가에 들어오는 것을 금지해야 하며, 관할 기관은 돼지의 도체가 안전하게 수거되도록 해야 함
+(e) 상기 언급된 시설로 운송할 경우에는 부속서 Part III 지역의 출구에 지정된 소독 장소에서 관할 기관이 허가한 경로를 따라 중간 정차 없이 바로 해당 시설로 운송을 해야 함. 지정된 소독 장소에서, 트럭과 차량은 정부수의사의 감독하에 충분한 세척·소독을 거쳐야 함
+(f) 각각의 동물부산물 화물에는 CR No 142/2011 (1), Annex VIII, Chapter III에서 제시된 내용이 적절하게 작성된 거래 문서로 첨부되어야 함. 목적지 가공시설을 담당하는 정부수의사는 화물이 도착할 때마다 (b)(iii) 항의 관할 기관에 그 도착을 확인해주어야 함
+(g) 동물부산물을 하역한 후 오염 가능성이 있는 트럭이나 차량, 기타 동물부산물 운송에 사용된 장비를 세정소독하고, 필요하면 전체적으로 해충구제도 해야 한다. 이때 수의공무원의 감독하에 가공시설의 폐쇄된 공간 안에서 실시해야 함. 
+   CD 2002/60/EC의 제12조(a)를 적용해야 한다.
+(h) 부산물은 지체없이 가공해야 함. 이 가공시설에서는 어떤 보관도 금지됨
+(i) 관할 기관은 부산물의 운송이 그 가공시설의 일일 가공능력을 초과하지 않도록 하여야 함
+(j) 부속서 Part III 지역에서 첫번째 발송 이전에 관할 기관은 CD 2002/60/EC의 Annex VI, (c) 항의 범위 내에서 운송 중 사고, 트럭이나 차량의 주요 고장, 사업자의 사기행위 등에 대비한 비상대책, 명령체계, 조직간의 전적인 협력 등이 보장되도록 관련 기관들과 필요한 준비를 마쳐야 함. 트럭 사업자는 사고가 있거나 트럭 또는 차량이 고장이 발생한 경우 이를 관할 기관에 즉시 알려야 함
+Article 8 Prohibition on the dispatch to other Member States and third countries of live pigs from the areas listed in the Annex 
+1. The Member States concerned shall ensure that live pigs are not dispatched from their territory to other Member States and third countries, except where those live pigs come from: 
+(a)  areas outside those listed in the Annex; 
+(b)  a holding where no live pigs originating from the areas listed in the Annex have been introduced during a period of at least 30 days immediately prior to the date of dispatch. 
+2. By way of derogation from paragraph 1, the Member States concerned may authorise the dispatch of live pigs from a holding located in the areas listed in the Part I of the Annex provided that those live pigs comply with the following conditions: 
+(a)  they have been uninterruptedly resident on the holding for a period of at least 30 days prior to the date of the dispatch or since birth and no live pigs have been introduced into that holding from the areas listed in the Annex during a period of at least 30 days prior to the date of the dispatch; 
+(b)  they come from a holding which implements bio-security requirements for African swine fever as established by the competent authority; 
+(c)  they have been subjected to laboratory testing for African swine fever carried out with negative results on samples taken in accordance with the sampling procedures as laid down in the plan for the eradication of African swine fever referred to in the second paragraph of Article 1 of this Decision within a period of 15 days prior to the date of the movement and a clinical examination for African swine fever has been carried out by an official veterinarian in accordance with the checking and sampling procedures laid down in Part A of Chapter IV of the Annex to Decision 2003/422/EC on the date of shipment; or 
+(d) they come from a holding which has been subjected at least twice a year, with an interval of at least 4 months, to inspections by the competent veterinary authority, which: 
+(i)  followed the guidelines and procedures laid down in Chapter IV of the Annex to Decision 2003/422/EC; 
+(ii) included a clinical examination and sampling in which the pigs over the age of 60 days have been subjected to the laboratory testing in accordance with the checking and sampling procedures laid down in Part A of Chapter IV of the Annex to Decision 2003/422/EC; 
+(iii)  checked the effective application of the measures provided for in the second indent and in the fourth to seventh indents of Article 15(2)(b) of Directive 2002/60/EC. 
+3. For consignments of the live pigs complying with the conditions of the derogation provided to in paragraph 2, the following additional wording shall be added to the corresponding veterinary documents and/or health certificates referred to in Article 5(1) of Directive 64/432/EEC and Article 3(1) of Decision 93/444/EEC: 
+8조 (부속서에 제시된 지역의 살아있는 돼지를 다른 회원국 및 제3국으로의 발송 금지) 
+1. 회원국은 살아있는 돼지가 자기의 영토에서 다른 회원국 및 제3국의 영토로 발송되지 않도록 해야 함
+ 단, 생돈이 다음과 같은 경우에는 예외로 함
+(a) 부속서에 제시된 지역 외부의 돼지
+(b) 발송 직전 30일 동안 부속서에 제시된 지역의 돼지가 유입된 적이 없는 농가의 돼지
+2. 단락 1의 단서를 통해 회원국은 부속서 Part I 지역 농가의 살아있는 돼지의 발송을 다음을 전제로 허가
+(a) 돼지는 적어도 30일 이상 또는 출생 이후 해당 농가에서 사육되어야 하고, 이동 전 최소 30일 동안 해당 농가로 부속서에 제시된 지역의 살아있는 돼지가 유입된 적이 없어야 함
+(b) 돼지들은 관할 기관이 정한 아프리카돼지열병의 생물보안 요건을 수행하고 있는 농가의 돼지여야 함
+(c) 돼지는 이동 전 15일 기간 내에 본 결정문 제1조에 언급된 아프리카돼지열병 박멸계획안에 규정된 샘플 채취 절차에 따라 채취된 샘플에 대해 아프리카돼지열병 실험실 검사에서 음성 판정을 받았고, 발송당일에는 CD 2003/422/EC 부속서 Chapter IV, Part A에 규정된 확인 및 샘플 채취 절차에 따라 수의공무원이 실시하는 아프리카돼지열병 임상검사를 받았어야 함. 또는;
+(d) 돼지는 1년에 최소 2회 이상, 적어도 4개월 이상 간격으로 수의기관의 검사를 받은 농가의 돼지여야 함.
+ 검사는 Decision 2003/422/EC, Chapter IV에 규정된 가이드라인과 절차에 따를 것
+- 검사에는 임상검사와 표본검사가 포함되었어야 하고, 60일령 이상의 돼지는 Commission Decision 2003/422/EC, Annex, Chapter IV, Part A에 제시된 절차에 따라 실험실 검사를 받을 것
+- 검사에서 Directive 2002/60/EC의 Article 15(2)(b)에 규정된 조치들이 효과적으로 시행되었는지 확인할 것
+3. 살아있는 돼지 화물이 단락 2에 규정된 단서조건을 준수하도록 하려면 다음과 같은 추가 문구가 Directive 64/432/EEC의 제5조(1)과 Decision 93/444/EEC의 제3조(1)에 언급된 해당 수의 문서 및 위생증명서에 추가돼야 함
+Article 9 Prohibition on the dispatch to other Member States and third countries of consignments of porcine semen and ova and embryos of pigs from the areas listed in the Annex 
+The Member State concerned shall ensure that no consignments of the following commodities are dispatched from their territory to other Member States and third countries: 
+(a) porcine semen, unless the semen originates from boars kept at an approved collection centre as referred to in Article 3(a) of Council Directive 90/429/EEC (1) and situated outside the areas listed in Parts II, III and IV of the Annex to this Decision; 
+(b) ova and embryos of animals of the porcine species, unless the ova and embryos originate from donor sows kept in holdings which comply with Article 8(2) and are situated outside the areas listed in Parts II, III and IV of the Annex and the embryos are conceived or produced with semen in compliance with the conditions laid down in point (a). 
+9조 (돼지의 정액, 난자, 배아 등 화물을 부속서 지역에서 다른 회원국 및 제3국으로의 발송금지)
+ 회원국은 다음의 상품 화물이 자기 영토에서 다른 회원국 및 제3국으로 발송되지 않도록 해야 함
+(a) 돼지의 정액. 단, 이 정액이 CD 90/429/EEC(1)의 제3조(a)에 언급된 승인된 수집소에서 사육된 수퇘지에게서 유래한 것이고, 그 수집소가 이 결정의 부속서 Part II, III, IV 지역 외부에 위치한 경우에는 해당되지 않음
+(b) 돼지 종의 난자와 배아. 단, 그 난자와 배아가 제8조(2)를 준수하는 농가에서 사육된 증여자 암퇘지에서 나온 것이고, 그 농가가 부속서 Part II, III, IV 지역 외부에 위치하고 있으며, 그 배아가 (a)항의 조건을 지킨 정액으로 수정, 생산된 경우에는 예외로 함
+Article 10 Prohibition on the dispatch to other Member States and third countries of consignments of animal by-products from porcine animals from the areas listed in the Annex 
+
+1. The Member States concerned shall ensure that no consignments of animal by-products from porcine animals are dispatched from their territory to other Member States and third countries, unless those porcine by-products originated from pigs originating in and coming from holdings located in the areas outside those listed in Parts II, III and IV of the Annex. 
+2. By way of derogation from paragraph 1, the Member States concerned may authorise the dispatch of derived products obtained from animal by-products from porcine animals from the areas listed in Parts II, III and IV of the Annex to other Member States and third countries provided that: 
+(a)  those by-products have been subjected to a treatment which ensures that the derived product obtained from porcine animals poses no risks as regards African swine fever; 
+(b)  the consignments of derived products are accompanied by a commercial document issued as referred in Chapter III of Annex VIII to Regulation (EU) No 142/2011. 
+제10조 (부속서 지역의 돼지에서 유래한 동물부산물 화물을 다른 회원국 및 제3국으로의 발송 금지)
+
+1. 회원국은 돼지 부산물 화물이 자기 영토에서 다른 회원국 및 제3국으로 발송되지 않도록 해야 함.
+  단, 이러한 돼지 부산물이 부속서 Part II, III, IV 지역 외부에 위치한 농가의 돼지에서 유래한 경우에는 예외로 한다.
+2. 단락 1의 단서를 통해 회원국은 다음을 전제로 부속서 Part II, III, IV 지역의 돼지 부산물에서 유래한 부산물을 다른 회원국 및 제3국으로 발송하는 것을 허가할 수 있음.
+(a) 부산물을 적절하게 처리하여 돼지에서 우래한 부산물이 아프리카돼지열병과 관련한 위험을 초래하지 않도록 보장해야 함.
+(b)부산물의 화물에는 Regulation (EU) No 142/2011의 Annex VIII, Chapter III에 기술된 거래 문서가 첨부돼야 함.
+Article 11 Prohibition on the dispatch to other Member States and third countries of fresh pig meat and of certain pig meat preparations and pig meat products from areas listed in the Annex 
+1. The Member States concerned shall ensure that consignments of fresh pig meat from pigs originating from holdings located in the areas listed in the Annex, and pig meat preparations and pig meat products consisting of, or containing meat from those pigs are not dispatched to other Member States and third countries, except where such pig meat was produced from pigs originating in and coming from holdings not located in the areas listed in Parts II, III or IV of the Annex. 
+2. By way of derogation from paragraph 1, the Member States concerned with areas listed in Parts II, III or IV of the Annex may authorise the dispatch of fresh pig meat referred to in paragraph 1 and pig meat preparations and pig meat products consisting of, or containing such pig meat, to other Member States provided that those pig meat preparations and pig meat products are derived from pigs which have been kept since birth in holdings located outside the areas listed in Parts II, III and IV of the Annex and the fresh pig meat, pig meat preparations and pig meat products are produced, stored and processed in establishments approved in accordance with Article 12. 
+3. By way of derogation from paragraph 1, the Member States concerned with areas listed in Part II of the Annex may authorise the dispatch of fresh pig meat referred to in paragraph 1 and pig meat preparations and pig meat products consisting of, or containing such pig meat, to other Member States provided that those pig meat preparations and pig meat products are derived from pigs that comply with the requirements laid down in paragraph 1 and paragraph 2 or paragraph 3 of Article 3.
+11조 (부속서 지역의 신선 돈육, 특정 돈육 조합, 돈육 생산물을 다른 회원국 및 제3국으로의 발송금지)
+1. 회원국은 부속서에 제시된 지역 내에 위치한 농가의 돼지에서 유래한 신선 돈육 화물과 이러한 돼지의 고기로 구성되거나 이를 함유한 돈육 제조물 및 돈육 생산물 화물을 다른 회원국 및 제3국에 발송하지 않도록 해야 한다. 단, 이러한 돼지고기가 부속서 Part II, III, IV 지역에 위치하지 않은 농가의 돼지에서 생산된 경우에는 예외임
+2. 단락 1의 단서를 통해 부속서 Part II, III, IV 지역이 있는 관련 회원국이 단락 1에 언급된 신선 돈육과 이러한 돈육으로 구성되거나 이를 함유한 돈육 제조물 및 돈육 생산물을 다른 회원국에게 발송하는 것을 허가할 경우에는 그 돈육 제조물과 돈육 생산물이 부속서의 지역 외부에 위치한 농가에서 출생 이후 계속 사육된 돼지에서 유래한 나온 것이고 그 돈육으로 구성되거나 이를 함유하고 있는 신선 돈육, 돈육 제조물, 돈육 생산물이 제12조에 따라 승인된 시설에서 생산, 보관, 가공된 경우로 한정한다.
+3. 단락 1의 단서를 통해 부속서 Part II 지역이 있는 관련 회원국이 단락 1에 언급된 신선 돈육과 이러한 돈육으로 구성되거나 이를 함유한 돈육 제조물 및 돈육 생산물을 다른 회원국에게 발송하는 것을 허가할 경우에는 해당 돈육 제조물과 돈육 생산물이 제3조에 규정된 요건들을 준수하는 돼지에게서 나온 경우로 한정
+Article 12 Approval of slaughterhouses, cutting plants and meat processing establishments for the purposes of Articles 4, 5 and 6 and Article 11(2) 
+
+The competent authority of the Member States concerned shall only approve slaughterhouses, cutting plants and meat processing establishments for the purposes of Articles 4, 5 and 6 and Article 11(2) in which the production, storage and processing of the fresh pig meat and pig meat preparations and pig meat products consisting of or containing such pig meat eligible for dispatch to other Member States and third countries in accordance with the derogations provided for in Articles 4 to 6 and 11(2), is carried out separately from the production, storage and processing of other products consisting of or containing fresh pig meat and pig meat preparations and pig meat products consisting of or containing meat derived from pigs originating in or coming from holdings located in areas listed in the Annex other than those approved in accordance with this Article.
+12조 (제4, 5, 6 및 제 11조(2)의 목적을 위한 도축장, 가공공장, 육류가공시설의 허가)
+
+회원국의 관할당국은 제4, 5, 6 및 제11조(2)의 목적을 위한 경우에만 도축장, 가공공장, 육류가공시설을 허가해야 함.
+해당 시설에서 제4, 5, 6조, 및 제11조(2)에 규정된 단서에 따라 다른 회원국 및 제3국으로 발송할 신선 돈육, 돈육 제조물과 이러한 돈육으로 구성되거나 이를 함유한 돈육 생산물을 생산, 보관, 가공할 때에는 본 조항에 따라 승인된 농가 아닌, 부속서 지역 내에 위치한 농가의 돼지에게서 나온 고기로 구성되거나 이를 함유한 신선 돈육, 돈육 제조물, 돈육 생산물의 생산, 보관, 가공과 분리하여 실시해야 함
+Article 13 Derogation from the prohibition on the dispatch of fresh pig meat and of certain pig meat preparations and pig meat products from areas listed in the Annex 
+
+By way of derogation from Article 11, the Member States concerned may authorise the dispatch of fresh pig meat, pig meat preparations and pig meat products consisting of or containing such meat from the areas listed in Parts II, III or IV of the Annex, to other Member States and third countries provided that the products in question: 
+(a)  have been produced and processed in compliance with Article 4(1) of Directive 2002/99/EC; 
+(b)  are subjected to veterinary certification in accordance with Article 5 of Directive 2002/99/EC; 
+(c)  are accompanied by the appropriate intra-Union trade health certificate as set out in the Annex to Regulation (EC) No 599/2004 and of which Part II shall be completed by the following: 
+‘Products in accordance with Commission Implementing Decision 2014/709/EU of 9 October 2014 concerning animal health control measures relating to African swine fever in certain Member States (*)
+13조 (부속서 지역의 신선 돈육, 특정 돈육 제조물,돈육 생산물의 발송 금지 규정의 단서)
+제11조의 단서를 통해 회원국은 부속서 Part II, III, IV 지역의 고기로 구성되거나 이를 함유한 신선 돈육, 돈육 제조물, 돈육 생산물을 다른 회원국과 제3국에 발송하는 것을 허가할 수 있음. 단, 해당 생산물이 다음의 조건을 충족해야 함
+(a) Directive 2002/99/EC의 제4조(1)에 따라 생산, 가공된 것이어야 한다.
+(b) Directive 2002/99/EC의 제5조에 따라 수의 인증을 받아야 한다.
+(c) Regulation (EC) No 599/2004의 부속서에 규정된 유럽연합 내 거래를 위한 위생증명서가 첨부돼야 하고, 해당 위생증명서의 Part II를 다음과 같이 작성해야 한다.
+“특정 회원국의 아프리카돼지열병과 관련해 동물위생관리 조치들을 규정하고 있는 2014년 10월 9일 CD 2014/709/EU에 따른 생산물”
+Article 14 Information concerning Articles 11, 12 and 13 
+
+The Member States shall communicate to the Commission and the other Member States, every six months from the date of this Decision, the updated list of approved establishments referred to in Article 12 and any relevant information on the application of Articles 11, 12 and 13. 
+14조 (제 11, 12, 13조에 관한 정보)
+
+회원국은 본 결정문의 일자로부터 6개월마다 제12조에 언급된 허가 시설들의 갱신 목록과 제11, 12, 13조의 적용에 관한 정보를 유럽연합 집행위원회와 다른 회원국에게 제공해야 함
+Article 15 Measures relating to live feral pigs, fresh meat, meat preparations and meat products consisting of or containing meat from feral pigs 
+
+1. The Member States concerned shall ensure that: 
+(a)  no live feral pigs from the areas listed in the Annex are dispatched to other Member States or to other areas in the territory of the same Member State; 
+(b)  no consignments of fresh meat of feral pigs, meat preparations and meat products consisting of or containing such meat from the areas listed in the Annex are dispatched to other Member States or to other areas in the territory of the same Member State. 
+2. By way of derogation from paragraph 1(b), the Member States concerned may authorise the dispatch of consignments of fresh meat of feral pigs, meat preparations and meat products consisting of or containing such meat from the areas listed in Part I of the Annex to other areas in the territory of the same Member State not listed in the Annex, provided that the feral pigs have been tested with negative results for African swine fever in accordance with the diagnostic procedures set out in Parts C and D of Chapter VI of the Annex to Decision 2003/422/EC. 
+15조 (살아있는 야생돼지와 그 야생돼지의 고기로 구성되거나 이를 함유하고 있는 신선육, 육류 제조물, 육류 생산물 등과 관련한 조치들)
+
+1. 회원국은 다음의 사항을 보장해야 한다.
+(a) 부속서에 제시된 지역의 살아있는 야생돼지가 다른 회원국으로 또는 관련 회원국 영토의 다른 지역으로 발송되지 않도록 해야 한다.
+(b) 부속서에 제시된 지역의 야생돼지 고기로 구성되거나 이를 함유하고 있는 신선육, 육류 제조물, 육류 생산물 등의 화물이 다른 회원국으로 또는 관련 회원국 영토의 다른 지역으로 발송되지 않도록 해야 한다.
+2. 단락 1(b)의 단서를 통해 관련 회원국은 부속서 Part I 지역 야생돼지의 고기로 구성되거나 이를 함유하고 있는 신선육, 육류 제조물, 육류 생산물 등의 화물을 자기 영토 중 이 부속서에 나와 있지 않은 다른 지역으로 발송하는 것을 허가할 수 있다. 단, 그 야생돼지는 Decision 2003/422/EC, Annex, Chapter VI, Part C와 D에 규정된 진단절차에 따라 아프리카돼지열병 검사에서 음성 판정을 받아야 한다.
+Article 16 Special health marks and certification requirements for fresh meat, meat preparations and meat products subject to prohibition referred to in Article 2, Article 11(1) and Article 15(1) 
+
+The Member States concerned shall ensure that the fresh meat and meat preparations and meat products subject to the prohibitions provided for in Articles 2, Article 11(1) and Article 15(1) are marked with a special health mark that is not oval and cannot be confused with: 
+
+(a) the identification mark for meat preparations and meat products consisting of, or containing pig meat, as set out in Section I of Annex II to Regulation (EC) No 853/2004; 
+(b) the health mark for fresh pig meat as set out in Chapter III of Section I of Annex I to Regulation (EC) No 854/2004. 
+16조 (제2조, 제11조(1), 제15조(1)에 언급된 금지 대상 신선육, 육류 제조물, 육류 생산물의 특별 위생 마크와 인증 요건들)
+회원국은 제2조, 제11조(1), 제15조(1)에 규정된 금지 대상 신선육, 육류 조합, 육류 생산물에 특별히 위생 마크를 부착해야 한다. 이 위생 마크는 타원형이 아니며 다음과 혼동되지 않아야 함
+(a) Regulation (EC) No 853/2004, Annex II, Section I에 규정된 돈육으로 구성되거나 이를 함유한 육류 제조물 및 육류 생산물의 식별 마크
+(b) Regulation (EC) No 854/2004, Annex I, Section I, Chapter III에 규정된 신선돈육 위생 표식
+Article 17 Requirements concerning holdings and transport vehicles in the areas listed in the Annex 
+The Member States concerned shall ensure that: 
+(a) the conditions laid down in the second and the fourth to seventh indents of Article 15(2)(b) of Directive 2002/60/EC are applied in the pig holdings located within the areas listed in the Annex to this Decision; 
+(b)  vehicles which have been used for the transport of pigs or animal by-products from porcine animals originating from holdings located within the areas listed in the Annex to this Decision are cleansed and disinfected immediately following each operation and the transporter provides and carries in the vehicle proof of such cleansing and disinfection. 
+제17조 (부속서 지역의 농가 및 운송수단에 대한 요건들)
+
+회원국은 다음의 사항을 보장해야 함
+(a) Directive 2002/60/EC의 제15조(2)에서 규정된 조건들을 본 결정문의 부속서에 제시된 지역의 돼지 농가에 적용해야 함
+(b) 본 결정문의 부속서에 제시된 지역 내 농가의 돼지나 돼지 부산물을 운송하는데 사용된 차량을 각 활동 직후 세정소독 해야 하며, 운송업자는 그러한 세정소독 증명서를 차량에 비치해야 함
+Article 18 Information requirements of the Member States concerned 
+
+The Member States concerned shall inform the Commission and the other Member States, in the framework of the Standing Committee on Plants, Animals, Food and Feed, of the results of the surveillance for African swine fever carried out in the areas listed in the Annex, as provided for in the plans for the eradication of African swine fever from feral pig populations approved by the Commission in accordance with Article 16 of Directive 2002/60/EC and referred to in the second paragraph of Article 1 of this Decision. 
+18조 (관련 회원국의 통지 요건)
+
+회원국은 CD 2002/60/EC의 제16조에 따라 집행위원회의 승인을 받아 본 결정문 제1조에 언급된 야생돼지 개체군의 아프리카돼지열병 박멸 계획안에 따라 식물동물식품사료 상임위원회(Standing Committee on Plants, Animals, Food and Feed)의 체계 내에서 부속서에 제시된 지역을 대상으로 시행된 아프리카돼지열병의 예찰 결과를 집행위원회와 다른 회원국으로 통보해야 한다.
+Article 19 Compliance 
+
+The Member States shall amend the measures they apply to trade so as to bring them into compliance with this Decision and they shall give immediate appropriate publicity to the measures adopted. They shall immediately inform the Commission thereof
+19조 (준수)
+
+회원국들은 교역에 적용되는 조치들이 본 결정문에 위배하지 않도록 그 조치들을 수정해야 하며, 채택된 조치들을 즉시 공표해야 하며, 집행위원회에 내용을 즉시 통보해야 한다.
+
+제20조 (폐기)
+
+Implementing Decision 2014/178/EU를 폐기한다. 
+
+
+1. 배경
+□ 관련 근거 및 현황
+ ○ EU에서 아프리카돼지열병 지역화와 관련한 규정은 실행 규정 2014/709/EU 에 근거하고 있음 
+  - ASF 확산위험을 차단하고 동물위생을 보호하기 위하여 생축, 돈육, 돼지생산물, 정액 등의 이동을 제한하는 규정을 담고 있으며, 이러한 제한사항을 국가별로 적용하기 위하여 EU 회원국 혹은 지역을 Part I, II, III, IV로 분류함
+□ 지역의 구분방법
+ ○ (방법) 지역 구분은 사육 및 야생돼지 집단에서 ASF 발생의 역학적 특성을 고려 
+  - Part I: 감염된 야생돼지 집단과 인접해 있는 위험지역으로 아프리카돼지열병 발생은 없으나 발생 가능성이 높아 예찰이 필요한 지역
+  - Part II: 야생돼지 집단에서만 발생하는 지역
+  - Part III: 사육 및 야생돼지 집단에서 발생하고, 아프리카돼지열병 발생이 토착화되지 않은 지역
+  - Part IV: 사육 및 야생돼지 집단에서 발생하고, 아프리카돼지열병 발생이 토착화된 지역을 의미
+  ○ 지역 크기 설정시 고려사항
+  - 발생 지점의 지리적 특성
+  - 수로, 산림 등 생태학적 특성과 자연 혹은 인공 장애물의 존재 여부
+  - 야생돼지의 존재 여부와 분포 상황
+  - 질병의 역학적 특성
+  - 역학연구 결과
+  - ASF 확산과 관련한 과거 발생이력
+  - 예방조치를 적용하는 행정단위, 영토 및 예방조치 강제성 여부
+  - 돼지 사육농장의 분포(비상업적 농장, 상업적 농장, 기타 방사 농장)와 보호 및 예찰지대의 존재 여부
+  - 수렵 행태 및 기타 야생동물 관리 규정
+2. 방법론 (설정 및 변경·철회 기준)
+□ 지역 구분의 기준 구성 근거
+  ○ EU 회원국에서 ASF 위험지역 설정기준으로 사육/야생멧돼지로 선택한 이유는 두 집단에서의 아프리카돼지열병 발생의 역학적 특성이 매우 달라 차단방역 조치 수준도 분명히 차이가 있어야 한다는 개념에서 출발함
+  - 특히 야생멧돼지 집단은 인위적으로 통제하기 어려운 특성이 있다는 점에서 지역화 설정에 매우 큰 영향을 미치는 요인임*
+
+▪2014-2015년 5월까지 유전형 II(genotype II)가 발생한 4개 국가(Lithuania, Poland, Latvia, Estonia)를 대상으로 분석한 EFSA 보고서에서는 지역화 설정과 관련하여 다음과 같은 특성을 보고함
+	 야생돼지집단으로 느린 속도로 감염이 지속되고 있음
+	 야생돼지집단에서 질병의 확산은 야생돼지 집단의 밀도와 관련이 없음
+	 야생돼지집단을 통하여 ASF의 지속적인 유입과 국경을 벗어난 전파가 이루어짐
+	 감염된 동물 간 직접적인 접촉을 통하여 야생돼지에서 확산속도는 50km/year 수준으로 파악되는데, 예기치 못한 장거리 전파는 야생돼지간 직접 접촉만으로는 설명하기 어렵고 사람과 관련한 요인이 개입되었을 것으로 추정
+
+  - 2014/709/EU에 명시된 4개 위험지역은 사육돼지와 야생돼지 집단에서 ASF 발생의 역학적 특성이 특정한 기준을 충족되기 전까지는 제한조치가 그대로 유지되며, 지역화의 마지막 개정사항은 Commission Implementing Decision 2018/1689, 8 Nov 2018)에 반영되어 있음
+□ 지역화 철회 및 변경의 기준
+  ○ Part I, II, III, IV 지역의 철회를 위해서는 신중하고 과학적인 접근법이 적용되어야 함.
+  - OIE에서 권고하고 있는 예찰 원칙과 현존하는 최선의 지식을 고려하여 다음과 같은 몇가지 기준을 설정하였음
+  - EFSA 보고서에 따라 ASF 발생·확산이 최고 수준을 보이는 여름에는 Part I과 II의 철회가 이루어질 수 없으며, 정밀한 예찰 계획 및 결과가 충분한 기간동안 증빙되어야 함
+
+
+< 지역화 철회 및 PART 전환조건>
+
+
+
+
+① Part III 지역화 철회와 Part II로의 전환을 위해서는 다음의 조건을 충족해야 함
+- 과거 12개월 동안 사육돼지집단에서 아프리카돼지열병 발생이 없거나;
+- 차단방역 수준이 낮은 모든 비상업적 농장을 살처분(depopulation)한 경우 3개월 동안 ASF발생이 없거나; 
+- 과거 12개월 동안 사육돼지에서 아프리카돼지열병 발생이 없는 지역에서 발생한 경우 감염된 농장 소독(Directive 2002/60/EC 10.4a항), 방역조치 이행(임상적 및 실험실적 검사, 10.4b항) 및 광범위한 표본검사(10.5항)가 이행된 이후 3개월이 경과한 경우;
+② Part II 지역화 철회와 Part I으로의 전환을 위해서는 과거 12개월 동안 야생멧돼지 집단에서 ASF 발생이 없어야 함. 
+③ Part I 지역화 철회를 위해서는 시공간적으로 광범위하게 모든 자료에 대하여 논의가 있어야 함
+- 지역화와 관련한 모든 제한사항을 철회하기 위해서는 마지막 발생 사례에 대하여 매우 광범위한 논의와 토론이 병행되어야 한다. Part IV 지역의 철회도 동일한 방법이 적용 
+
+
+
+
+Ⅴ
+
+ EU의 ASF 전략 (SANTE/7113/2015_Rev.11.)
+
+
+서론
+
+EU의 ASF 전략은 EU의 아프리카돼지열병(ASF)과 관련한 역학적 상황에 대응하여 통일된 조치를 확립하고자 개발된 것이다.
+
+이 ASF 전략은 모든 회원국들에 초점이 맞춰져 있다.
+
+이 질병의 확산을 막아 감염 지역에서 이 질병을 박멸하는 것을 목표로 삼고 있다.  이러한 목표는 멧돼지 및 돼지 개체군과 관련해 각 회원국의 특성에 맞춘 통일된 조치를 시행함으로써 달성할 수 있다.
+
+이 전략에 규정된 조치들은 2019년 말까지 시행돼야 하며, 역학적 상황과 과학적 발견의 전개 과정에 맞춰 검토되어야 한다.
+
+결정 2014/709/EU가 적용되는 지역에서의 사육 돼지에 대한 ASF 조치들
+
+돼지농장은 세 개의 카테고리로 분류된다:
+
+비영리농장 (Non- commercial farms, NCF): 자체소비를 위해 오로지 비육 목적으로만 돼지를 사육하는 농장 설립의 목적은 2016년 3월 9일 동물 건강 분야의 특정 법률의 개정 및 폐지와 동물 전염병에 관한 유럽 의회 및 이사회의 2016/429 규정(EU)의 제 4조(27)에 있음('동물 건강법Animal Health Law')(Text with EEA relevance) OJ L 84, 31.3.2016, p. 1
+. 돼지와 그 생산물도 해당 농가를 떠나지 않는다.
+영리농장 (Commercial farms, CF): 돼지를 판매하거나 도축장으로 돼지를 보내거나 돼지 생산물을 농장 밖으로 내보내는 농장.
+옥외농장(Outdoor farms): 일시적으로 또는 항구적으로 옥외에서 돼지를 사육하는 농장.
+
+각 카테고리별로 최소한의 생물 보안요건들이 규정된다: 
+
+– 비영리농장의 생물보안 기준:
+음식물 쓰레기를 사료로 사용하는 것의 금지, 규정(Regulation) (EC) no. 1069/2009에 따른 동물성 부산물의 폐기 의무
+NCF 돼지와 다른 농장 돼지나 멧돼지 간의 접촉 금지(다른 돼지 및 멧돼지와 직간접적으로 접촉하는 일이 없도록 실내에 수용).
+야생돼지의 어느 부위와도 접촉 금지 (사냥하거나 폐사한 멧돼지/고기/부산물 등 포함).
+소유주 (돼지를 책임지는 자)는 축사를 들어가고 나갈 때 의복과 신발을 갈아입어야 한다. 농가 및 축사의 입구에서 소독을 실시해야 한다.
+사냥 후 48시간 이내에 돼지와 접촉 금지
+허가 받지 않은 자/차량은 돼지 농가(축사)에 출입할 수 없다. 돼지 농장에 접근한 사람과 차량에 대해 기록함.
+가정 도축은 수의 감독 하에서만 가능하다.
+번식용 암퇘지/수퇘지를 축사에 들일 수 없다.(영리농장에는 적용되지 않는다).
+상업적으로 거래되는 작물, 야채, 건초 및 짚은 감염성 ASFV를 함유하고 유지하는 능력이 매우 낮음. 현지에서 수확한 잔디와 짚을 사용하는 것이 현지의 일반적인 상황에서 위험한 것으로 간주되는 경우 다음이 적용되어야 함
+ASF 바이러스를 무력화 처리하지 않거나 사료를 공급하기 전 최소 30일 동안 (멧돼지에 닿지 않는 곳에) 보관하지 않은 신선한 풀 혹은 곡물 ASF가 신고된 원산지 지역
+ 공급 금지
+ASF 바이러스를 무력화 처리하지 않은 짚2, 또는 최소 90일 동안  (멧돼지에 닿지 않는 곳에) 보관하지 않은 짚을 돼지의 깔짚으로 사용하는 것 금지
+농장 건물은
+멧돼지나 다른 동물(예: 개)이 stable에 들어갈 수 없도록 지어야 함
+stable 입구에 신발과 옷의 소독 시설(혹은 새 것으로 환복)을 지어야 함
+
+– 영리 농장의 생물보안 기준:
+NCF와 동일하며, 다음의 기준들이 추가된다:
+적어도 사료와 침구를 보관하는 농장의 가축이 빠져나갈 수 없는 튼튼한 울타리
+농장의 특징과 국내 법령에 따라 수의 기관들이 승인/권장하는 생물보안 계획. 여기에는 다음의 내용이 포함되지만 이에 제한되지는 않음
+농장 유형에 맞춰 사람의 동선에 대해 깨끗한/더러운 구역을 설정(예: 탈의실, 샤워실, 식당)
+농장에 새로운 가축을 수용할 때의 물류 계획 검토
+차량, 기생충의 소독 및 개인 위생 규칙에 대한 자세한 절차를 수립 및 적용
+현장에서 근로자의 음식에 대한 규칙을 설정하고 해당되는 경우 근로자의 집에서 돼지를 기르는 것 금지
+농장의 모든 근로자를위한 전담 반복 인식 프로그램??
+production 단위 간에 적절한 분리를 위한 물류 배치를 검토. 돼지가 가축 부산물 및 기타 production 단위에 (직접 또는 간접적으로) 접촉 금지.
+생물 보안 조치 시행을 위한 내부 기본 감사 또는 자체 평가
+
+– 옥외 농장의 생물보안 기준:
+돼지의 옥외 사육을 금지한다. 
+
+검사 및 조사 방식Inspection and investigation regime
+
+검사 및 조사는 수의공무원(state veterinarians) 또는 수의기관과 계약을 맺거나 임명을 받은 수의사가 실시해야 한다. 농장주를 대상으로 인식제고 캠페인을 벌여 이러한 검사 및 조사를 뒷받침 해야 한다.
+
+농가에 대한 검사은 위원회 결정 2014/709/EU의 부록에 나열된 지역에서 1년에 최소 1 번 이루어진다. 위 지역은 관할 기관이 수행한 위험 평가에 따라 더 확장될 수 있음.  검사는 직무를 맡은 수의사가 농장주와 수의 인터뷰를 하고, 돼지를 관찰, 진찰하는 것을 의미함. 의심이 들 경우, 실험실 검사용 샘플을 채취한다. 검사 과정에서 수의사는 돼지 개체수를 파악하면서 돼지의 신원과 농장의 생물보안을 확인하고 농장주의 데이터를 검증한다.
+
+조사는 전국을 대상으로 실시한다. 조사 원칙은 강화된 수동 예찰(돼지에 대한 검사에 더해 적절하다면 ASF 샘플 채취)을 바탕으로 한다.
+
+농장주(주로 비영리농장) 대상의 지속적인 인식제고 운동은 적어도 농장주의 전략과 역할에 대해 정보를 제공함으로써 농장주에게 생물보안 규칙의 도입, 신속한 보고와 예찰 참여를 적극적으로 권장하기 위한 것이다.
+
+실험실 검사할 샘플을 채취한다
+임상징후가 있는 경우(열병 또는 출혈성 병변). 필요한 경우 특정 임상 증상이 발생할 때 ASF를 배제하기 위한 샘플링을 반복해야 함
+매주, 각 분만사에서 적어도 첫 두 가지 종류(post 이유돈 또는 2개월 이상의 돼지)의 돼지의 사체에 대한 바이러스 검사의 형태 
+위원회 결정 2014/709/EU가 적용되는 지역 내에서의 가정 도축(at home slaughtering)에서 의심스러운 생검 혹은 검시 징후들
+
+감별을 위한 실험실 검사
+PCR: ASF의 조기 발견 및 확증을 위해서는 혈액이나 장기에 대해 항상 이 검사를 실시해야 한다.
+Ab-ELISA: 역학적 관련이 있는 경우 임의적으로 허용(예: PCR 결과가 양성이거나 회복기가 의심되는 경우).
+IPT (immunoperoxidase test) : 혈청 혹은 삼출물(exudate) 조직 샘플에서 ASF 항체 검출을 위한 확인 테스트.
+
+이러한 조치들의 시행 구역들
+
+위에서 달리 정하고 있지 않는 한, Commission 결정 2014/709/EU 부록에 나열된 지역에는 이 조치들을 시행해야 한다. 
+
+
+AFS 통제 상황에서의 멧돼지 개체수 관리를 위한 ASF 주요 조치들
+
+내용 추가 
+
+ASF 관련 멧돼지 관리 - 모든 지역
+
+멧돼지 관리 관행은 개체수를 줄이는 것을 목표로 해야 함.  멧돼지 개체수를 통제하기 위한 다음 사항들은 모든 지역에 적용되어야 함
+
+
+멧돼지에게 지속적인 먹이 공급 금지
+미끼사냥 허용(지속적인 먹이 공급 금지, 오로지 사냥 목적으로만 약간의 먹이로 멧돼지 유인, 먹이의 최대량은 월 10㎏/㎢)
+성체 및 성체에 거의 다다른 암컷의 표적 사냥 권장. 전체 사냥감은 수컷, 암컷의 비율이 균형을 이루어야 함(50%씩). 성체 및 성체에 거의 다다른 암컷을 우선 순위로 둬야 함
+국가 법규에 따라 추가 기술 장비를 사용한 전략적 접근으로 목표 달성
+사냥꾼에 대한 최소한의 생물 보안 요건이 적용(3.1.6 참조)
+
+
+청정 지역에서  취해야 할 조치
+
+내용 추가
+
+
+감시(주요한 조치):
+샘플채취 원칙은 위험 평가 및 강화된 수동 예찰에 근거해야 한다: 길에서 발견된 멧돼지 사체나 아픈 멧돼지는 pcr를 사용하여 asf 검사를 해야 한다
+샘플링 후 48-72 시간 이내에 최대한 빨리 실험실에 전달하는 것을 권장함
+멧돼지 수의 밀도를 낮추기 위한 사냥
+적절한 경우, 관할 기관과 조직 간의 협력의 결과로 덫의 이용을 포함한 사냥이 제기되어야 함
+위의 사항에 근거하여, 포획한 멧돼지의 ASF에 대한 시험이 권장되며, 결과가 음성이면 사체는 개인이 소비
+관할 기관은 울타리 사용에 대해 설명
+
+
+감염 지역과 접해 있는 청정 지역에서 취해야 할 조치
+	
+사냥이 관할 당국 뿐만 아니라 다른 당국(예 : 사냥꾼 협회 혹은 환경 협회)에 있는 경우, 협력해야 함
+
+감시(주요한 조치):
+샘플채취 원칙은 위험 평가 및 강화된 수동 예찰에 근거해야 한다: 길에 있는 멧돼지 사체나 아픈 멧돼지는 pcr를 사용하여 asf 검사를 해야 한다
+수동 예찰을 강화하기 위한 (훈련된 스텦을 통한) 사체를 찾는 능동적인 수색
+샘플은 48-72 시간 이내에 최대한 빨리 실험실에 전달하는 것을 권장함
+미끼 사냥 허용
+멧돼지 수의 밀도를 낮추기 위한 집중 사냥
+차를 이용한 사냥 및 단독 사냥 허용
+개체수 감소 목표를 달성하기 위해 (공공 및 민간 부문 모두에) 제안하고 격려하는 멧돼지 관리, 사냥꾼을 전략의 하나로 간주
+생물 보안 시설(사냥터는 관할 당국이 승인한 생물 보안 조치를 충족(3.1.6. 참조))
+덫 사냥를 하여 ASF 검사하는 것은 허용됨, 결과가 음성이면 사체는 개인이 소비
+관할 기관은 다른 연관 기관과 협력하여 사냥 및 덫 사냥을 제기해야 함
+관할 기관은 다른 연관 기관과 협력하여 울타리 사용을 권장해야 함
+권한있는 당국이 예측 한대로 죽은 멧돼지를 모두 처분.
+지역의 제한은 특정 절차에 따라 관할 기관이 관리해야 함
+
+
+감염 지역에서 질병을 근절하기 위해 취해야 할 조치
+
+	내용 추가
+감시(주요한 조치):
+샘플채취 원칙은 강화된 수동 예찰에 근거해야 한다: 모든 멧돼지 사체나 아픈 멧돼지는 pcr를 사용하여 asf 검사를 해야 한다
+수동 예찰을 강화하기 위한 (훈련된 스텦을 통한) 사체를 찾는 능동적인 수색
+샘플은 48-72 시간 이내에 최대한 빨리 실험실에 전달하는 것을 권장함
+미끼 사냥 허용
+전염병 단계가 줄어들 때까지 사냥 활동을 완전히 금지해야 함. 전문가 그룹은 전염병 단계의 종료 시점에 도달했을 때를 정의할 것임
+차량을 이용한 사냥 금지
+멧돼지 사체를 검색하고 취급하는 모든 사람에게 적용된, 사냥터에서의 생물 보안 조치(예: 차량, 마당 및 주택이 오염되는 것을 가능한 피하기)
+감염 지역에 대한 접근 제한. 그 지역에 허가된 스텦만 가능. 농지는 예외 사항(derogation)에 근거하여 접근할 수 있음
+자연환경 및 감염 지역 외부에 바이러스가 더 퍼질 가능성을 줄이기 위한 사냥꾼 특정 교육
+각 사냥터에 혹은 다른 방법이 없다면 적어도 감염 지역 내에 멧돼지 사체를 저장할 컨테이너. 각 저장소에는 세척 및 소독 수단을 갖추어야만 함
+덫 사냥 허용
+전염 담계에 도달하여 CA의 감독하에 있을 때 이를 근절하기 위해 훈련된 사냥꾼들이 행하는 도태를 허용
+드레싱 금지. 멧돼지를 비밀 봉지에 넣고 쏴서 체액이 퍼질 위험을 최소화?
+모든 멧돼지는 죽거나 도태된 상태에서 ASF 검사를 시행. 모든 포획한 멧돼지는 PCR을 이용한 바이러스 탐지 및 Ab탐지 검사 시행
+모든 사체 처리
+규정된 영역 안에 울타리 설치. 질병 속도를 늦추고 Epi-wave를 예측하기 위해 적시에 구축. 확산를 막고 EU 환경 규정을 준수.
+
+감염 지역에서 질병을 통제하기 위해 취해야 할 조치
+
+감염 지역 및 3.1.4. 항에 설명된 특정 조치가 더 이상 적용되지 않는 지역.
+
+감시:
+샘플채취 원칙은 강화된 수동 예찰에 근거해야 한다: 모든 멧돼지 사체나 아픈 멧돼지는 pcr를 사용하여 asf 검사를 해야 한다
+수동 예찰을 강화하기 위한 (훈련된 스텦을 통한) 사체를 찾는 능동적인 수색
+미끼 사냥 허용
+사냥은 검사를 위한 샘플 수집하기 위한 마지막 수단?
+사냥 및 사체 제거(removal)시의 최소 생물 보안 요건을 갖추어야만foresee 함(3.1.6 참조)
+덫 사냥를 하여 ASF 검사하는 것은 허용됨, 결과가 음성이면 사체는 개인이 소비 
+훈련된 사냥꾼이 행하는 도태
+모든 멧돼지는 죽거나 도태된 상태에서 ASF 검사를 시행. 모든 포획한 멧돼지는 PCR을 이용한 바이러스 탐지 및 Ab탐지 검사 시행
+포획한 멧돼지의 검사 결과가 양성이면 사체를 모두 처리
+죽은 채 발견된 멧돼지 사체의 처리
+울타리는 필요치 않음. 그러나 관할 기관의 위험 평가에 따라 설치할 수 있음
+
+멧돼지 사체를 검색하고 취급하는 사냥꾼과 모든 직원에 대한 최소 생물 보안 요건:
+
+	내용 추가
+
+적절한 수의 드레싱 시설을 갖추어야만 함. 가능한 경우 각 사냥터마다 하나 이상의 전용 공인 드레싱 시설을 갖추어야만 함. 사냥터에 드레싱 구역이 없는 경우 드레싱 시설이 있는 가장 가까운 사냥터를 이용해야 함. 드레싱 구역은 사람과 동물의 무단 접근을 금지해야만 하며, 물과 충분한 효과적인 소독제 그리고 폐기물 수거 장비를 갖추어야만 함
+각 사냥터마다 냉장고(혹은 실험실 결과가 유효할 때까지 사체를 보관한다는 측면에서 동등한 결과에 도달하는 절차)를 갖추어야만 함
+포획한 멧돼지는 검사를 진행하기 전까지 사냥터 내의 시설에 있어야 함: 검사 결과가 음성이면 내보낼 수 있음. 개개의 사체의 신원을 파악하는 것을 필수임.
+포획한 멧돼지의 내장을 필드에서 제거하면 안됨; 총 맞은 멧돼지는 체액(혈액 포함)의 손실을 줄이는 전용 공인 드레싱 시설로 가져와야만 함
+멧돼지를 드레싱한 후, 사용한 장소와 도구(운송 차량도 포함)는 충분히 세척 및 소독해야 함
+animal by products는 (EC) No 1069/2009의 규정에 따라 수집하고 진행해야 함
+생물 보안 조치는 멧돼지 사체를 수색하고 취급할 때 차량, 마당 및 주택이 오염되는 것을 가능한 피하기 위해 적용되야 함
+
+결정 2014/709/EU의 영향 하의 회원국에서의 멧돼지 샘플 채취
+
+모든 지역(동일한 회원국의 결정 2014/709/EU가 규제하는 지역들과 청정 지역들)에서의 샘플채취 원칙은 강화된 수동 예찰에 근거해야 함. 죽거나 아픈 상태의 멧돼지 모두 다 관할 기관이 수행한 위험평가에 기초하여 PCR을 이용해 ASF검사를 해야 함. 결정 2014/709/EU의 부록 Part II 과 Part III 에 해당하는 지역에서는 동일한 지점에서 동시에 죽은 멧돼지 집단의 샘플 채취는 그 집단의 표본 샘플에서 PCR 검사를 통해 추출(pool)할 수 있음
+사냥한 동물에 대한 추가 샘플채취(능동 예찰)는 결정 2014/709/EU에 따라 실시해야 함. 결정 2014/709/EU의 부록 Part I 에 해당하는 구역에서 외부로 꺼낼 예정인 포획한 동물은 모두 ASF검사(PCR)를 해야 함. 결정 2014/709/EU의 부속로 Part II 와 Part III 에 해당하는 지역에서는 포획한 동물과 죽거나 아픈 상태의 동물 모두의 샘플을 채취를 해야 함(100% 샘플채취와 PCR 검사). 이 지역에서 포획한 동물들은 추가로 ASF 바이러스 항체 검사를 해야 함
+포획한 동물에서는 혈액 샘플만 필요(혈액 샘플을 채취할 수 없는 경우 장기를 샘플 채취함)
+
+결정 2014/709/EU의 영향 하의 회원국에서의 멧돼지 사체 제거(removal)
+
+결정 2014/709/EU 부록에 나열된 지역과 관할 당국이 지정한 위험 지역에서는 사체를 발견하여 안전하게 폐기해야 함. 감염 사체를 더 빨리 발견하고 안전하게 제거할수록 좋음.
+미감염 지역에서 ASF가 발견되면, 수동적 사체 발견 외에도 관할 기관이 정한 핫스팟에서 전문가를 이용한 능동적 수색을 실시해야 함
+사체의 폐기는 매장하거나 렌더링 시설로 보내거나 소각하여 시행(관할 수의기관의 감독 하에서). 국지적 소독에 적합한 화학물질 사용 가능
+
+관련 규정과 정의.
+
+미끼사냥: (멧돼지에 대한 지속적이지 않은 먹이공급): 오로지 사냥, 덫 사냥, 도태 목적으로만 약간의 먹이(예: 옥수수)로 멧돼지 유인한다. 먹이의 최대량은 월 10kg/km2를 넘을 수 없다.  어떤 경우에도 미끼는 겨울에 개체수를 유지하기 위한 멧돼지의 먹이 공급처가 되어서는 안 된다.
+
+멧돼지 도태: 사체 전체를 수집하고 렌더링할 목적으로 멧돼지 사격(예: 드레싱을 대체하지 않음).
+
+죽은 멧돼지: 각각의 멧돼지 사체는 위험 수준에 따라 전략적인 접근 방식으로 관리해야 함(예: 청정 지역 혹은 감염 지역에서 죽은 멧돼지).
+
+사체: 사체라는 용어는 죽은 채 발견된 것과 사격으로 포획한 것 모두를 포함
+
+위험도: 각 나라는 본 국가의 위험 수준을 정의하기 위해 위험 평가를 수행해야 함
+
+다른 종을 위한 먹이공급 장소/장치: (예: 야생 반추동물): 야생 반추동물을 위한 먹이공급 장소에 멧돼지가 접근할 수 없게 해야 한다. 가능한 한, 멧돼지를 유인하지 못하는 먹이만을 사용해야 한다(예: 건초).
+
+덫 사냥: 덫으로 멧돼지 포획
+
+부록
+
+Ⅴ
+
+ 유럽 남동부 국가의 ASF 위험평가_EFSA journal:2019.11
+
+1. 배경
+□ 유럽 동부의 현황
+ ○ ASF 유전자형II는 평가 당시 9개의 유럽 연합 (EU) 회원국 (MSs)에 발생함 
+    *벨기에, 불가리아, 체코, 2에스토니아, 헝가리, 라트비아, 리투아니아, 폴란드, 루마니아 등
+ ○ 2014부터 이 질병은 주로 EU 동부지역 멧돼지 개체군에서 질병이 지속되고, 사육돼지 농장에서 간헐적 발생
+ ○ ‘18년 여름 루마니아에서의 질병 발생은 사육돼지로 발생양상이 변경되었으며, 이는 인적 요소에 의한 것으로 사료됨
+  - 가까운 미래에 EU에 대한 두 가지 주요 위험은 (i) 루마니아의 특수한 양상 (ii) 인적 요소에 의한 장거리 확산으로 인해 소위 질병의 점프임
+  - 현재 EU동부의 상황은 전략적·과학적 정책의 개발을 요구하고 있음
+□ 참조 단어 해석 (Interpretation of the TERMs of Reference)
+ ○ TOR1  유럽 남동부 국가에서 ASF의 확산 위험을 추정할 것을 요청하며, 이들 중 일부가 EU MSs라는 사실을 포함하여 ASF가 이 지역에 도입되면, 질병의 확산에 대한 주요 위험 요소(지표)를 식별. 
+  - 이러한 위험평가를 기반으로, 유럽의 남동부 국가들은 ’18년 12월 알바니아, 보스니아 및 헤르체고비나, 크로아티아, 그리스, 코소보, 몬테네그로, 북 마케도니아 공화국, 세르비아 및 슬로베니아를 포함한 남동부 유럽의 모든 ASFfree 국가를 포함함. 이 나라들을 종합해 'ROC(region of concern,관심지역)으로 명명. 3개국(크로아티아, 그리스, 슬로베니아)은 지리적 국한된 ASFfree 상태로 ROC에 포함된 EU 회원국(Member of states,MSc)임
+
+  - 이 보고서에는 유럽의 남동부 국가로의 유입 위험성에 대한 평가는 포함되지 않았으며 ASF가 ROC에 도입될 경우 ROC 도입 후 1년 이내에 ASF 확산가능성(probability of spread of ASF)을 평가함 
+    · 짧은 평가기간을 고려하여, EFSA는 ASF의 확산에 영향을 미칠 수 있는 요인을 한 번 도입시 ROC 내부와 ROC에서 추가 확산에 영향을 미칠 수 있는 요인을 강조하였음. 또한, 자료의 부족과 짧은 시간을 고려하여 정성평가를 수행 
+   · ROC와의 비교군으로 루마니아와 불가리아의 지표에 관한 다음의 데이터를 검토 (1) 사육돼지(DP)와 멧돼지(WB)의 개체군 및 인터페이스, (2) ROC와 EU MSs의 국가 간 연결, 예를 들어 돼지, 돈육제품의 거래, 사람의 이동, (3) 국가 내 사회적 연관성 (4) 질병발생에 따른 대응조치 
+   · 동일한 정성적 위험평가를 사용하여 ROC 외부의 청정한 EU MSs에 ASF가 도입될 가능성을 평가함. 돼지 및 돼지고기/제품의 이동 및 비EU국에서 EU로의 이동 및 개인 위탁에 관한 관련 규제 및 위험 완화 조치뿐만 아니라, EU 내의 내부 움직임에 관한 규정도 고려하여 평가하였음
+2. 방법론(Methodology)
+ ○ 유럽의 남동부 국가에서 ASF 확산 위험
+  - 유입가능성이 우려되는 지역에서 ASF의 잠재적 확산
+   · 실무 그룹 전문가들은 ROC 도입 후 ASF의 확산을 잠재적으로 평가할 수있는 다양한 위험 요소 (지표)를 선택했다. 이에 따라 ROC의 3가지 EU MSs에 적용되는 관련 EU규정이 고려됨. 그 결과, 전문가들은 ROC 도입 가능성 후 1년 이내에 ROC에 ASF가 확산될 가능성을 합의하여 ROC의 모든 국가에 대한 모든 지표를 평가함으로써 추정함. 또한 과학적 평가의 불확실성에 관한 EFSA의 지침에 따라 종합적으로 평가의 불확실성을 평가했다 (EFSA, 2019). 다음 척도를 가능성 평가에 사용함
+
+
+
+
+표 1
+평가에 적용된 확률 구간
+
+
+
+
+
+ ○ 고려된 지표 목록
+    - 사육돼지 개체군에서의 ASF 확산과 관련된 지표
+   · swill feeding (잔반급여)는 ASF의 위험요인으로 잘 알려져 있으며 비감염농장으로 확산 가능성이 높은 인자임. EU에서는 잔반급여가 금지됨
+   · 방목 사육되고 있는 돼지여부. free-range pigs 사육은 ASF 청정유지에 대해 잘 알려진 위험 요소임 (잠재적으로 감염된 멧돼지와 접촉할 위험이 큼) EU에서는 모든 돼지, free-range pigs를 사육돼지로 간주되고 개체식별되어야 함
+   · 상당한 수의 소규모 농장* 
+        * ROC(관심지역)에서 비상업용 돼지 농장에 대한 일반적인 정의는 없음 
+    :농장당 최대 10마리의 돼지를 가진 농장의 비율과 이 모든 사육돼지의 퍼센트가 비상업용 돼지 부문 크기의 파라미터로 사용됨. 이러한 농장은 이 문서에서 smallholders 라고 언급. smallholders는 일반적으로 상업농장보다 농장의 biosecurity가 낮으며, biosecurity는 ASF 근절의 중요한 요소이다. 낮은 수준의 biosecurity는 ASF를 포함한 가축의 많은 전염병에서 위험요소임
+   · 개인도축(Home-slauhtering)은 ASF발생 억제에 큰 위험요소임
+
+    
+
+    - 사육돼지 개체군에서의 ASF 확산과 관련된 지표
+   · 평균 멧돼지 밀도(km2당 사냥되는 멧돼지 수): 멧돼지는 ASF 확산에 주요 역할
+   · 적절한 멧돼지 서식지(적절한 멧돼지 서식지가 있는 국가의 백분율)
+    - ROC 내 연결성과 관련된 지표
+   · ROC국가간 돼지·돈육제품의 이동(Kg):ASF 바이러스는 돼지고기와 돼지고기 제품에서 장기간 생존할 수 있어 ASF가 없는 지역으로 확산될 위험이 높음
+     · 돼지, 돼지고기, 멧돼지의 ROC 내 3개 EU MSs로의 이동은 이동제한 및 통제 조치를 추가로 시행
+    - 사회적 맥락과 관련된 지표
+   · 동물의 질병 통제 상황에서 수의당국의 통제에 대한 위반은 ASF 통제의 큰 위해요소임 (예: Sardina에서의 인력부족 및 낮은 고용률 등으로 인해 불법사육비율이 높아 섬에서의 ASF발병률이 높은 이유로 지목됨)
+   · 루마니아 FVO감사에서 DB업데이트를 위한 상시보고가 안되는 점, 가정도축후 식별표 숨김 등의 규정을 어기는 경우가 다수 보고된 바 있음
+   · 돼지고기 또는 돼지고기 제품의 소비. 돼지고기 소비에 관한 사회적 규범은 특히 smallholders 사이에서 돼지 생산에 대한 사회적 관심에 영향을 미칠 가능성 높음
+   · 'At risk of poverty’ 비율, 이것은 poverty(가난,빈곤)나 사회적 배제의 위험에 있는 전체 개체의 비율임. poverty(가난,빈곤)와 ASF사이의 두 가지 잠재적 연관성은 다음과 같다:
+        ▲ 위에서 반영한 바와 같이 smallholder들은 일반적으로 축산업, 질병, biosecurity에 대한 인식 수준이 낮다. 최근 몇 가지 연구에서 Sardinia에서의 인력부족(human deprivation)과 ASF 유지의 연관성이 강조됨
+        ▲ ASF와의 전쟁을 지원하기 위해 MSs에 European Commission이 제공한 공동 자금 지원에도 불구하고, 국가자원제약은 동물 질병의 준비와 대응에 대해 VA가 이용할 수 있는 자원에 영향을 미칠 것으로 인식됨
+
+    - 긴급대응(Contingency plan) 활동 관련 지표
+   · ASF 통제와 근절은 감시, 역학조사, 돼지의 추적, 감염된 개체의 근절을 포함한 고전적인 질병 통제 방법에 의존함. 이동등록, 수동예찰 및 비상 계획을 포함한 준비와 대응 활동이 핵심임. 
+     또한, 동물 식별 및 농장등록은 최근 전문가 패널에 의해 ASF의 중요한 예방 조치로 확인됨. 유럽과 다른 곳에서 진행 중인 전염병으로부터 얻은 경험에 따르면 ASF가 질병청정지역으로 침입하는 것을 감지하는 과정이 지연되고, 통제조치의 실행이 지연되면 질병의 추가 확산 가능성이 증가함. 
+     수동 예찰 시스템은 조기감지 및 최신대비계획(cp)수립에 필수적. 효율적인 대응을 위한 기초를 형성함. 여기서는 다음과 같은 다양한 경우를 생각해볼 수 있음
+	○ 국가의 운영 돼지 식별 및 이동 등록 시스템 또는 부적합
+	○ 약하고 소극적 감시의 이행 여부 또는 미이행
+	○ ASF에 대한 업데이트된 비상 계획 또는 시뮬레이션 연습 없음
+	○ 실험실 능력 없음 또는 불량
+□ 해당 지역 국가 간 ASF의 잠재적 확산 비교
+ ○ ROC 내의 특정 국가로 유입시 ASF 확산 가능성이 더 높을 수 있는지 여부를 결정하기 위해, 해당 국가의 각 잠재적 지표는 전체 ROC의 중위수와 비교함
+     - 정량적 측면에서, 지역 중위수보다 높은 지표를 '+'로, 중위수보다 낮은 지표를 '-'로 반영. 정성적으로, 2진수 지표가 충족되면 '+'로, 충족되지 않을 경우'-‘로 표시(표 21). 
+     - 한 국가는 적어도 하나의 정성적 지표가 존재하거나 적어도 하나의 양적 지표가 ROC의 중위수 위에 놓여있는 경우 상대적 위험으로 간주됨. 정보를 사용할 수 없을 때, 물음표로 표시됨. 
+     - ROC의 모든 국가에 대해 평가가 수행된 후, 다른 국가를 잠재적 확산으로 이어질 수 있는 지표의 수로 비교함
+
+
+□  발병 우려 지역에서 청정 EU 국가로의 ASF의 잠재적 전파
+ ○ 유럽 남동부 국가에서 ASF 청정 EU지역으로 ASF를 확산시킬 가능성이 있는 지표를 선정
+     - EU의 청정 지역과의 연결성 관련 지표
+   · 돼지와 돼지고기, 관련상품 무역
+   · 인적 이동
+   · 국경 공유
+   · 상업적 사냥, 사냥 관광
+   : 이러한 각 요인은 사람(사람 이동, 공유된 국경, 상업적 사냥, 사냥 관광) 또는 돼지 및 돼지 고기 제품 (돼지 및 돼지 고기, 제품 무역, 공유된국경)을 통해 지역간 연결 가능성에 기여함. 이러한 연결은 ASF 감염지역에서 확산된 ASF의 위험요소로 인식됨
+
+    - 사회적 맥락과 관련된 지표
+   · poverty 위험 : 국가별 poverty 또는 사회적 배제 위험에 처한 총 비율.
+     · ROC내 ASF확산 가능성을 평가하기 위해 섹션 2.1.1에 설명된 유사한 방법론을 적용, ASF도입 후 1년 내에 ROC 외부에 영향을 받지않은 MSs에 확산될 가능성을 추정하고 평가 
+
+3. Data
+□ TOR 1. 유럽의 남동부에 ASF가 퍼질 위험
+ ○ 사육돼지
+    - 유럽 남동부의 사육돼지 밀도 및 축산업 시스템  
+ 
+     · 돼지 산업의 구조 및 사육돼지 분포에 대한 데이터는 Eurostat 데이터베이스에서 검색, 발칸 국가들의 국가 수의학 행정부에서 검색
+
+
+
+
+표 2
+유럽 남동부의 사육돼지 개체수
+
+
+
+
+
+
+
+
+
+그림1, 표3
+유럽 남동부의 사육돼지 개체수, 국가별 사육 형태
+
+
+
+
+
+ 유럽 남동부의 돼지밀도 (농지면적/km2)및 보유돼지 10마리 이하인 소규모 농가 비율 *(국가 별, 빨간색 차트)
+ 동유럽의 돼지생산에 관한 추가 정보, 돼지 사육의 주요 특징은 국가별 관할당국이 제공
+
+   - 돼지 사육의 계절성은 ASF 확산에 잠재적 영향
+     · 이는 돼지의 생식주기와 연계된 축산 시스템 (전통)과 연관될 수 있기 때문
+
+
+표4
+유럽 남동부 국가의 여름 및 겨울철 돼지개체수 (12월과 6월의 총 돼지 수, 두당 천 마리)
+
+
+
+ 북 마케도니아 공화국의 경우에만 계절에 따른 유의한 차이를 보임. 겨울철에는 개체수가 두 배로 증가함.
+
+ ○ 야생 멧돼지
+    - 멧돼지 분포
+     · 수렵 통계에 관한 유럽 전역에 공통적용되는 모니터링 체계는 존재하지 않음. 현재 각 국가와 조직은 자체 절차를 사용하여 사냥데이터를 수집하므로 비교하기 어려움
+     · 위험요소 분석에는 멧돼지 밀도의 상세하고 정확한 정보가 중요하나 데이터는 현재 다른 방법론으로 평가된 지역 한정 수준으로만 확인 가능
+
+     · 헌팅백(사냥용가방) 데이터는 현재 유럽에서 유일하게 멧돼지의 비교가능한 데이터임. ENET 야생 컨소시엄(2018)의 보고서 중 발칸국가의 멧돼지 분포데이터가 있음*. 
+       * 이 보고서는 유럽국가의 전국 사냥결과(헌팅백)에 대한 최근 데이터를 제공함. 이들은 수확 데이터에 3을 곱하여 대략 풍부한 수치로 변환될 수 있습니다 (표 5). Ler anoz와 Casti en(1996)은 사냥 수확이 실제 개체수의 25%와 37% 사이에 있다고 계산했다. 따라서 수확량에 3을 곱하면(가을-겨울) 개체 수 규모를 추정할 수 있음.
+
+표5
+유럽 남동부의 멧돼지 개체군 밀도(해당 서식지 수/km2)
+
+
+
+
+
+     · 연간 멧돼지 수확 예상량을 예측하기 위해 현지 사냥 결과와 서식지 모델링(그림 2A)을 사용했으며, 이 또한 국가 차원에서 계산할 수 있음 
+     · 그림 2B는 전국의 평균 멧돼지 서식지를 보여주고 있음
+     · 그림 2C는 서식지에서 예측한 것보다 사냥된 멧돼지가 적거나 많은 나라들을 비교하고 있으며, 가장 어두운 회색 음영이 서식지 예측에서 예상한 것보다 많이 사냥된 멧돼지를 가진 국가들을 나타냄
+
+표5
+유럽 남동부의 멧돼지 개체군 밀도(해당 서식지 수/km2)
+
+
+
+
+ 【그림2C 설명】
+멧돼지 서식지를 기반으로 예상한 멧돼지 수와 연관된 포획한 멧돼지
+예측한 환경 적합성를 기준으로 면적 당 포획한 멧돼지의 선형 회귀의 residual를 나타냄
+
+
+     · EU의 일부 국가(체코, 프랑스, 독일, 헝가리)는 평균보다 훨씬 높음(그림 2C)
+		 :멧돼지 밀도가 서식지 기반으로 예상한 수치보다 높음을 의미 
+     위 국가는 멧돼지 개체수가 이미 서식지 수용력(habitat carrying capacity)의 최상단에 도달하거나 멧돼지 증식에 도움을 주는 먹이와 작물로 인해 수용력이 예상보다 높은 국가임
+    같은 ROC에 속해 있거나 가까운 국가(보스니아 헤르체고비나, 불가리아, 덴마크, 몰도바, 세르비아, 루마니아, 우크라이나)의 멧돼지 사냥은 적합한 서식지를 기반으로 예상한 수치보다 낮음. 따라서 멧돼지 개체수는 중대한 개입을 하지 않는다면 향후 몇 년간 증가할 것으로 보임
+
+
+표5
+유럽 남동부의 멧돼지 사냥, 먹이 정책
+
+
+
+
+   - 멧돼지 확산율을 줄이기 위해 다음의 조치를 권장함
+     · 멧돼지 서식지의 멧돼지 운반 능력을 감소시키는 예방 조치*
+       * 수유 금지 + 옥수수와 같은 매력적인 작물로부터 접근 제한
+     · 연간 멧돼지 사냥을 높이는 조치(추정 개체수의 65% 이상을 목표로 함)
+   - 사냥 관광은 ASF의 확산 위험에 영향을 미치는 요소 중 하나임
+     · 사냥 허가 지수는 이 활동(사냥 관광?)의 지표로 사용*됨
+       * 2018 ~ 2019년 사냥 시즌에 외국인 사냥꾼에게 사냥 허가 지수 대한 데이터는 크로아티아 농업부에서만 제공함. 2018년의 사냥 허가지수에 대해서는 그림3과 부록 B 참조
+
+그림3
+2018~2019년 크로아티아 관할 당국의 멧돼지 사냥 외국인 허가건수
+
+
+
+
+□ 연결성(Connectedness)
+ ○ 생돈과 돼지고기의 교역
+    - EU 규정에 따라 제 3국에서 EU 회원국으로의 돼지와 냉장 및 냉동 돼지고기 수입(trade)을 제한적으로 허가함. 
+     · 모든 EU MS가 살아 있는 돼지나 돼지고기 가공품을 ROC의 비EU 회원국에서 수입할 수 없음. 처리된(treated) 돼지고기 가공품을 EU로 수출 가능한 국가의 목록은 위원회 규정 (EU) 206/2010에 명시되어 있음
+
+     · CD 2014/709/EU에 의해 EU 단일 시장 및 국제 무역을 보호하기 위한 EU 지역의 살아있는 돼지, 돼지고기 또는 멧돼지 가공품의 이동은 규제됨. 
+
+         : 그 지역의 카테고리에 따른 검사 또는 processing에 따라 특정한 엄격 조건 하에 예외 사항(derogation)을 적용 (이행 법률 부록에 첨부됨) 
+
+    - 유로 스타(Eurostat의 외부 무역 데이터베이스)와 TRACES라는 두 DB의 데이터를 활용하여 생돈, 돼지고기 가공품 및 배송된 가공품의 양을 평가
+     · ‘16~‘18년에 보고된 돼지 수 및 Eurostat에서 추출한 돼지고기, 돼지고기 가공품(100kg)의 총량은 각 나라의 돼지 및 돼지고기 가공품 교역활동에 대한 보완 지표로써 활용됨
+
+표7, 8
+2016 ~ 2018년 ROC의 EU MS와 나머지 EU 간에 거래된 돼지 두수(TRACES)
+
+
+
+【표 7】
+전체 EU MS에서 ROC의 3개의 EU MS에서 출산한 돼지가 차지하는 비율은 낮음
+가) 이 중 가장 큰 비중은 크로아티산이 차지함
+(1) EU 내 전체 돼지 운송의 평균 0.52%
+EU MS 간에 운송된 돼지 두수에 대한 자세한 정보는 TRACES (2016, 2017 및 2018)의 활동 보고서에서 확인가능
+나) 비 EU MS의 돼지교역은 TRACES의 범위에 속하지 않으므로 이러한 데이터는 표 7에 없음
+다) 돼지 고기 가공품의 유럽 내 교역은 TRACES의 범위에 속하지 않음
+(1) 제한 구역에서 운송한 돼지고기 및 돼지 가공품의 양은 TRACES에 보고됨(부록 B 참조)
+【표 8】
+ ROC의 EU MS로부터 들어온 돼지고기 및 돼지 가공품의 양(Eurostat)
+ROC에 있는 EU MS에서 ROC에 있는 다른 국가로의 돼지 가공품의 교역은 적음
+EU 내 교역 중 ROC에 있는 3개의 MS와의 교역 비율은 매우 낮음
+
+□ 사람의 이동
+ ○ 사람은 질병이 발생한 지역의 사냥 전리품, 멧돼지 고기 및 가공품 등을 불법으로 옮길 수 있다는 점을 고려할 때, 사람들의 이동은 ASF 확산에 잠재적인 영향이 있음 
+    - ROC 내에서의 이동 및 ROC에서 질병이 발생하지 않은 MS로의 사람들의 이동에는 세 가지 다른 측면이 고려됨
+    ▲노동자 이주 ▲난민 및 경제 이민자 이동 ▲서부 발칸 지역의 관광
+     · ROC 중 비 EU 국가에서 EU 국가로의 이주를 언급할 때 '서부 발칸 반도 국가'라는 용어가 자주 사용됨*
+        * 서부 발칸 반도 국가는 알바니아, 보스니아 헤르체고비나, 코소보, 몬테네그로, 북마케도니아, 세르비아 등이 있음(세계 은행)
+ ○ 노동자 이주의 패턴
+    - 수년간 서부 발칸 반도에서 이주해 온 사람들이 많으며 수 세기 동안 이어져 온 단기 노동 이주의 전통이 유지되고 있음(Vermeulen et al., 2015)
+
+그림4, 5
+서부 발칸 반도 국민의 해외 이주현황
+
+
+
+
+
+
+
+
+ 2017년 크로아티아 이민자의 63.9 %가 독일로 이주(크로아티아 통계청) 
+
+
+
+그림6, 7
+서부 발칸 반도 국민의 시민권 획득(그림 6) 및 서부 발칸 국가로 송금 흐름도(그림 7)
+
+
+
+
+
+    - EU 시민권을 획득(그림 6) 및 EU 회원국에서 서부 발칸 국가로의 송금 흐름(그림 7)을 통해 서부 발칸 국가와 유럽 연합 사이의 강력한 상관관계를 확인할 수 있음 
+     · 송금은 송금 운영 업체를 통한 국경 간, 개인 간의 상대적으로 낮은 경제상황에서의 지불 및 이체는 일반적으로 이주 노동자가 자국의 친척에게 반복적으로 지불함을 뜻함 
+    - 서부 발칸 반도 남부에서 불법 입국이 심각하게 발생함
+     · 알바니아와 그리스 사이의 계절에 따른 노동자 이민과 연관이 있음*
+        * Frontex. Western Balkans Annual Risk Analysis 2018
+
+ ○ 난민과 경제 이민자
+    - 서부 발칸 반도는 주로 중동·북아프리카에서 유럽 연합으로 들어오는 난민과 경제 이민자에게 중요한 경로임('서부 발칸 항로') (Delauney, 2015)
+     · 2018년 초부터 세르비아·몬테네그로에서 보스니아 헤르체코비나로의 수천 명의 불법 입국자가 발생(Italian Institute of International Political Institute, 2018)
+ ○ ROC 관광
+    - ROC 국가는 점차 유명한 관광지가 되고 있음(표 9)
+     · 전년도에 대비 2016년 관광객 수는 보스니아헤르체고비나 15%, 세르비아 13%, 알바니아 8%, 몬테네그로 7%, 북마케도니아 5% 증가(2017년 EU 관광트렌드)
+
+표8
+2017년 유럽 호텔 숙박객 수 현황(출처:EUROSTAT)
+
+
+
+
+
+
+□ 사회적 인자들
+ ○ 인구와 빈곤
+    - 빈곤 위험도(at risk of poverty)는 해당 국가의 저소득층 사람들의 비율을 반영함
+     · 빈곤위험도가 반드시 낮은 생활 수준을 의미하지는 않음(Eurostat, 2019)
+
+테크니컬 용어에서 빈곤 위험도는 빈곤 위험도의 임계점보다 낮은 가처분 소득(세금 및 기타 공제 후 지출 또는 저축에 사용할 수 있는 총 가계 수입을 동일한 성인으로 전환한 가구 구성원 수로 나눈 값)을 가진 사람들의 비율로 정의
+
+
+
+표9
+국가별 실업률 및 빈곤위험도 (2017 기준)
+
+
+
+
+ ○ 인구와 빈곤
+    - 빈곤 위험도(at risk of poverty)는 해당 국가의 저소득층 사람들의 비율을 반영함
+     · 빈곤위험도가 반드시 낮은 생활 수준을 의미하지는 않음(Eurostat, 2019)
+
+ ○ 돼지고기 소비
+    - 1인당 연간 돼지고기 소비량은 한 국가의 식량 공급에서의 돼지고기 가공품의 역할과 돼지고기 생산 및 무역에 간접적으로 나타내는 지표임
+    - ’13년 ROC의 평균 돈육 소비량은 26.8(kg/1년)로 EU 평균(39kg)보다 훨씬 낮음
+
+표11
+국가별 돼지고기 소비량
+
+
+
+ 
+ ○ 긴급 대응
+    - 긴급대응에 대한 인자 검토를 위해, 국가별 실험실 능력과 수의조직에 대한 평가가 필요
+
+▪유럽 집행위원회(European Commission)는 ICRP(의사 결정 시행 2003 / 422 / EC)를 통해 ASF 진단 매뉴얼을 발행함
+▪입법 체계에서 MS(표 13 참조)이 이행해야 하는 ASFV 탐지를 위한 진단 기술을 설명
+▪OIE의 육상 동물에 대한 진단 검사 및 백신 매뉴얼(The Manual of Diagnostic Tests and Vaccines for Terrestrial Animals)은 국제적으로 합의한 실험실 진단 기술을 설명함
+▪ASF를 위한 EURL(European Reference Laboratory)은 NRL(National Reference Laboratories)에 기술적 및 과학적 지원을 제공하고 실험실 간 진단 방법에 대한 교육 활동 및 링 시험(ring trials)을 조직함
+
+ 
+
+
+
+표12
+다양한 출처에서 수집된 정보를 기반으로 한 ROC 국가의 실험실별 능력
+
+
+
+
+ 
+□ 농민 보상 정책
+ ○ ASF와 같은 동물 질병의 통제 전략 중 하나임
+  - 무역과 지방 경제에 영향이 큰 대폭적인 조치 취함
+   ① 영향이 있는 모든 동물을 살처분 
+   ② 살아 있는 가축과 그 축산물의 무역 제한
+  - 가축 소유자의 경제적 손실을 순차적이고 효과적으로 보상하는 체계가 중요
+   ① 규정 준수시 충분한 보상 실시
+   ② 사회경제적 영향 최소화 
+ 
+ ○ ROC 내 국가들이 시행 중인 보상 정책은 표15를 참고
+  - 유럽위원회는 MS에 다양한 동물 질병을 예방, 통제, 근절하기 위한 재정 지원 제공
+  - 특별 조치관련 비용은 공동출자를 통해 지급함
+
+표15
+국가별 ASF 보상 프로그램
+
+
+
+
+
+
+□ 당국 간 정보 교환과 협력
+ ○ 정보 교환을 포함한 국가 간 협력은 ASF 역학을 이해 하는데 중요한 역할
+  - 많은 계획들이 국가 간 정보 교환과 협력을 향상하기 위해 개발됨
+  - ADNS와 WAHIS*는 ASF를 포함한 동물 질병 발생에 관한 즉시 보고와 정보를 가능하게 한 디지털 어플리케이션임
+    * ADNS : Animal Health Information System, 유럽위원회에서 개발
+    * WAHIS : World Animal Health Information Database, OIE에서 개발
+  - ANDS에 목록화된 질병 발생 보고는 Council Directive 82/893/EEC에 따라 EU 국가 의무사항임(2012/737/EU 위원회 실행 결정에 의해 최종 개정)
+  - SGE ASF*는 ASF 발병국가들의 공조를 위한 상설기구임
+    * SGE ASF : standing Group of Experts on African swine fever in Europe(유럽 ASF전문가 상설기구)
+  - GF-TADS는 과학적 배경으로 ASF 관련조치를 토론하는 프레임워크를 제공
+
+표16
+ROC 국가의 관할당국과 이해당사자간 협력과 정보 교환
+
+
+
+
+
+□ 긴급행동지침(Contingency plan)
+ ◌ ASF 효율적인 통제·근절을 위해 국가별 CP(Contingency plan)에는 높은 수준의 즉각적인 예방·방역 조치를 명시토록 하고 있음*
+    *관련규정: Council Directive 2002/60/EC, Regulation 2016/429
+  - CP는 방역절차가 명확하게 진술되어야 하고 SOPs(Standard Operating Produres) 등의 지침서를 포함하여 작성되어야 함
+ ◌ 정기적 업데이트를 통해 변화된 질병양상 및 대응방안 등을 반영해야 함
+  - 정기적인 가상훈련(CPx)운용이 중요함
+
+표17
+ROC 국가의 CP운용 목록
+
+
+
+
+□ 사육돼지 개체수와 동물 이동에 대한 인식, 등록 시스템
+ ◌ 등록식별 시스템은 위험분석과 질병 평가에 중요 도구
+  - 역학조사의 필수적인 정보를 제공하고 동물 이동과 축산물의 전후추적을 가능하게 함
+  - 시스템이 세밀하고 디지털화될수록 질병 관리와 역학조사에 대한 기여도 큼*
+   * Council Directive 2008/71/EC와 Commission Decisions 2000/678/EC에 따라 이 시스템의 개발은 EU의 MS(member of state,회원국)에 법적 요구 사항임
+
+표17
+ ROC 내 국가들의 등록식별 시스템 현황(표17) 및 등록식별시스템 운용(표18)
+
+
+
+ ○ ROC내 몇 국가는 이동관리조치가 없거나(1개국), 긴급행동지침이 없거나(2개국), NRL 능력 불완전(1개국), 불충분한 예찰(2개국) 상태로 평가됨
+  - 개선이 필요한 이유
+   ① 이동관리조치가 없고, NRL능력이 불완전하거나 긴급행동지침 부재시 질병 통제의 효율성을 감소시킴 
+   ② 불충분한 예찰은 질병 통제 효율성뿐만 아니라 조기 탐지 가능성도 떨어뜨림
+
+
+□ 예찰 활동
+ ○ ASF는 법정 전염병이고, 사육돼지와 야생멧돼지에 대한 수동 예찰은 법적 의무이며 일부 유럽 남동부 국가에서 시행 중임
+   - 수동 예찰은 주로 멧돼지 사체에 대한 실험실 분석이나 ASF 유사한 임상증상을 가진 사육돼지에 수행
+   - 몇몇 국가들에서 능동 예찰은 시스템(무작위 혹은 위험기반) 사육농장 샘플링 또는 사냥한 멧돼지의 실험실 검사를 수행 
+
+표17
+ ROC 내 국가들의 2018년 동안 수행된 예찰 활동 (전 건 음성)
+
+
+
+
+
+ ○ 예찰 활동(특히 야생멧돼지와 사육 돼지)은 ROC 내에서 강화됨
+  - ASF의 초기 검출에 가장 효과적인 수단임
+  - ROC 내 비발병 지역과 ROC 외 비발병 EU MS로 ASF가 퍼지는 것을 예방하기 위한 실시간 개입은 초기 확인과 효과적 질병 통제가 특히 중요함
+4. 평가
+ 1) ROC에서의 확산가능성 평가 
+□ 사육돼지군에서 ASF 확산과 관계된 지표들
+ ◌ 소규모농장 비율
+  - 유럽 대부분의 ASF은 소규모 농장에 발생하며 이는 방역수준과 유전적 특징의 결과로 추정*
+     * Jori and Bastos, 2009; Costard et a. 2013a; Guinat eat al., 2016)
+     * 유럽위원회(DG (SANTE) 2018-6700) 회계감사 보고서에 따르면 효과적인 이력추적의 미비로 인한 루마니아의 일부 소규모 농장에서의 발생이 그 나라 ASF의 확산에 원인이 되었다고 분석
+   <소규모 농장에서의 ASF 발생 주 원인> 
+   ① 잔반급여(EU에서는 불법)
+   ② 불법적 동물운송, 자가 도축, 방목, 다른 돼지 혹은 위험한 돼지와의 접촉 가능성  
+   ③ 시장 내 뒷마당 돼지 유통 및 예찰, 이력추적의 어려움
+  - ROC내 소규모 농장 비율이 높고 ROC내 개체당 10두 이하인 농장비율은 78.9%의 중간값을 보임
+
+ 세르비아 돼지 밀도는 평균 80.5/km2 
+   ① 이 나라의 농업 분야는 주로 자가소비를 위한 작은 가족농장을 특징으로 함
+   ② 돼지 농장 21%가 10두 이하이나 세르비아 소규모 농장에서 사육되는 돼지 수는 상당한 수준임   (약 134,016두)
+  - 그리스에서 소규모 농장 소유주의 비율은 ROC 내 다른 나라와 비교 시 상대적으로 낮음(28.5%)
+  - 크로아티아, 코소보, 북부 마케도니아와 슬로베니아에서 소규모 농장 소유자의 비율이 ROC국가들 사이 중간값보다 높음
+
+◌ 방목 돼지 비율
+ - ROC 내 오제스키나 브루셀라와 같은 다른 질병에서 과거 사례로 인자의 타당성이 증명됨* 
+    * Duvnjak et al.,2015; Milicevic et al.,2016; Zutic et al.,2017
+ - 방목돼지 농장은 ROC 내 대부분 국가에서 전통적 축산 관행임
+     · 토속 돼지(Black Slavonian, Mangalitsa, Moravka, East Balkan pig)은 멧돼지 접촉 가능성있는 광범위한 생산 시스템에서 사육(Ribani et al.,2019)
+ - 최근 완성된 멧돼지 유전자 지도는 사육돼지와의 관련성을 크게 암시하고 있음
+     · 사육 돼지에 야생멧돼지 교잡종을 유전자 지도화
+     · 10% 초과 내수 유전자를 가진 개체들은 주로 오스트리아, 보스니아와 헤르체코비나, 불가리아, 세르비아와 관계를 확인함
+     · 야생멧돼지 교잡종은 사육돼지와 야생멧돼지 접촉이 가능한 농장 형태에서 기인한다는 주장이 있음* (Iacolina et al.,2018)
+       * 유사사례를 Nikolov et al.(2017)과 Ribani et al.(2019)가 보고한 바 있음
+ ○ 잔반급여금지
+  - 몬테그로를 제외한 ROC 내 모든 국가들은 법으로 잔반급여 금지 중임 
+ ◌ 자가 도축
+  - 그리스를 제외한 ROC 내 모든 국가들은 자가도축 허용
+  - 이는 비전문적 돼지 생산의 특징으로 ASF 확산에 중요한 지침이 될 수 있고 ASF 통제에 제약조건임*
+      * Mur et al., 2016
+□ 야생멧돼지 개체군에서 ASF 확산과 관계된 지표들
+ ◌ 멧돼지 밀도
+  - 현재 멧돼지에서 발생이 줄어드는 경향이며, WB 밀도에 따른 발생 역치는 결정되지 않았고 ASF는 멧돼지 밀도가 낮은 지역에서도 발생함 (EFSA AHAW Panel, 2018)
+  - 하지만, 높은 WB 밀도는 WB에서 ASF 확산에 위험 요소로 인식
+  - 적당한  Hunting Bag 기준 ROC 내 멧돼지 밀도 평균은 0.6~1두/km2임
+     · ROC 내 일부 국가들(그리스, 크로아티아, 슬로베니아)은 높은 멧돼지 밀도와 관련 있음
+  - 81.9%의 ROC 내 국가에서 평균 WB의 개체밀도가 적당함 이는 몇 년 동안        ASFV가 검출된 유럽 내 다른 지역보다 평균이 낮지 않음
+  - 슬로베니아, 세르비아, 크로아티아와 그리스의 멧돼지 밀도 증가추세임*
+      * Tsachalidis and Hadjisterkotis, 2008; Massei et al., 2015
+
+ ◌ 멧돼지 먹이 보충
+    - 불가리아에서 위장카메라를 이용해서 먹이 장소에 방문하는 종을 조사 결과 멧돼지는 가장 자주, 오래 머무는 종으로 파악됨*
+      * Popova et al.,2017
+    - 크로아티아에서 멧돼지 먹이급이는 ‘18년 12월 이후 금지됨
+    - 먹이 급이장소 주변의 멧돼지간 공격적 다툼은 ASFV전파 원인이 됨
+      * EFSA AHAW Panel, 2018
+    - ROC 국가 대부분에서 이용할 수 있는 멧돼지 먹이에 대한 정량적 정보가 없어서 본 정보는 더 이상 평가에 사용하기 어려운 측면이 있었음
+□ 연결성 관련 지표
+ ◌ 무역량
+   - ROC 내 돼지·돈육 무역 수준은 EU-MS 사이 타 물품 무역량 대비 낮은 수준임
+   - ROC 내 EU MS의 생돈 이동경로 확인결과, 대부분 크로아티아 유래로 확인됨 
+  - 모든 무역 데이터가 TRACES에 보고 되는 것이 아님
+     · UN COMTRADE 기술된 바와 같이 비 EU 국가와 비EU ROC 국가에서는 데이터 입력이 의무사항이 아닌 이유로 무역량 데이터의 상당한 불확실성 존재
+  - EU에서 발생국가간 사이 무역을 엄격히 규제 중임
+     · ASF 영향 지역으로부터 살아 있는 돼지와 돼지고기의 무역은 금지지만 엄격한 부분 수정 적용(e.g. 생산물은 취급 가능) 
+□ 사회적 맥락 관련 지표
+ ◌ 사회적 빈곤율(Risk of Poverty)
+  - 2017년 ROC 내 빈곤 위험율이 전체 인구의 31.0%  (Eurostat, 2019)
+  - ROC 내 ASF 확산의 잠재적 위험을 평가함에 있어서 빈곤율은 질병 통제능력이 없음을 시사함
+     · 충분하고 적당한 자원의 효율성은 동물 질병 통제를 위한 효과적 시스템에 중요
+     · 빈곤은 통제 조치의 낮은 준수율과 관련 있음
+     · 예를 들어 뒤뜰에서 최저 생활을 위해 몇 마리 돼지를 기르는 가난한 가정은 그들 가축에 ASF 감염이 의심되더라도 VA에 즉각적으로 보고하지 않을 수 있음   
+     · 금지 조항에도 불구하고 가난한 소규모 농장 가정은 잔반 급여 가능성 있음 
+  
+   
+    
+     
+     
+     
+     
+      
