@@ -1,0 +1,113 @@
+import pandas as pd
+import os
+import numpy as np
+
+def first_groupby():
+    total_first_list = []
+    for x in first_list:
+        total=table_modify.groupby(['질병','국가','리포트 번호','축종'])[x].first()
+        if total.name=='발생일':
+            total.name='시작일'
+        else: pass
+        total_first_list.append(total)
+    return total_first_list
+
+def last_groupby():
+    total_last_list = []
+    for x in last_list:
+        total=table_modify.groupby(['질병','국가','리포트 번호','축종'])[x].last()
+        if total.name=='발생일':
+            total.name='종료일'
+        else: pass
+        total_last_list.append(total)
+    return total_last_list
+
+def sum_groupby():
+    total_sum_list = []
+    for x in sum_list:
+        if x == '구분':
+            total = table_modify.groupby(['질병','국가','리포트 번호','축종'])[x].apply(lambda x: "%s"%','.join(x))
+        elif x == '링크 번호':
+            total[x]=total[x].astype(str)
+            total = table_modify.groupby(['질병','국가','리포트 번호','축종'])[x].apply(lambda x: "%s"%','.join(x))
+        else:
+            total = table.groupby(['질병','국가','리포트 번호','축종'])[x].sum()
+        total_sum_list.append(total)
+    return total_sum_list
+
+def immediate_followup(x):
+    if x == "긴급":
+        return "긴급"
+    else:
+        return "추가"
+
+def wild_livestock(x):
+    if '사육' in x and '야생' in x:
+        return "사육,야생"
+    elif '사육' in x and '야생' not in x :
+        return "사육"
+    else:
+        return "야생"
+
+link_number=[]
+def link_number_arrange(x):
+    if x not in link_number:
+        link_number.append(x)
+        return x
+    else:
+        return ""
+
+# def sum_link_number(x):
+
+
+table=pd.read_excel(r"C:\Users\kwonok59\Desktop\1.xlsx",sheet_name="번역본")
+table_modify=table.copy()
+table_modify['리포트 번호']=table_modify['리포트 번호'].apply(immediate_followup)
+
+
+first_list=['리포트 번호','원인체','혈청형','발생일','발생 지역','국내이동제한','발생대응 예방접종', '봉쇄지역 및/또는 보호지역 외 예찰',
+          '봉쇄지역 및/또는 보호지역 내 예찰', '스크리닝','이력 추적', '격리', '동물성 생산물 공식처리', '사체·부산물·폐기물 공식처리',
+          '생산물 또는 부산물 내 병원체 불활화 처리', '살처분*', '선택적 살처분', '야생보균원 관리', '방역대 설정','소독',
+          '해충구제', '야생매개체 관리', '매개체 예찰', '생·해체검사', '백신접종 허용(백신이 있는 경우)','백신접종 금지',
+          '감염동물 미치료', '감염동물 치료', '도축*','링크 번호']
+
+last_list=['보고일','발생일']
+sum_list=['구분','축종','건수','사육', '감염', '폐사', '살처분','도축']
+
+
+total_list = first_groupby()+last_groupby()+sum_groupby()
+total_df =pd.concat([i for i in total_list],axis=1)
+total_data=total_df.copy()
+total_data['발생기간'] = ""
+
+
+total_data = total_data[['링크 번호','원인체','구분','발생기간','보고일','시작일','발생 지역','종료일','혈청형', '건수', '사육', '감염', '폐사', '살처분','도축', '국내이동제한', '발생대응 예방접종',
+                     '봉쇄지역 및/또는 보호지역 외 예찰','봉쇄지역 및/또는 보호지역 내 예찰', '스크리닝', '이력 추적', '격리', '동물성 생산물 공식처리',
+                     '사체·부산물·폐기물 공식처리', '생산물 또는 부산물 내 병원체 불활화 처리', '살처분*', '선택적 살처분',
+                     '야생보균원 관리', '방역대 설정', '소독', '해충구제', '야생매개체 관리', '매개체 예찰', '생·해체검사',
+                     '백신접종 허용(백신이 있는 경우)', '백신접종 금지', '감염동물 미치료', '감염동물 치료', '도축*']]
+
+
+total_data['구분']=total_data['구분'].apply(wild_livestock)
+total_data['링크 번호']=total_data['링크 번호'].apply(link_number_arrange)
+total_data[['시작일','보고일','종료일']]=total_data[['시작일','보고일','종료일']].applymap(lambda x:str(x))
+
+i=0
+outbreak_period_list=[]
+while i<len(total_data['시작일']):
+    if total_data['시작일'][i]!=total_data['종료일'][i]:
+        outbreak_period_list.append(str(total_data['시작일'][i])+'~'+str(total_data['종료일'][i]))
+    else: outbreak_period_list.append(str(total_data['시작일'][i]))
+    i+=1
+
+total_data.drop(['시작일','종료일'],inplace=True,axis=1)
+total_data['발생기간'] = outbreak_period_list
+# total_data.index.names=['a','b','c','d']
+
+total_data1=total_data.swaplevel(0,1)
+# total_data.reset_index(inplace=True) # 멀티인덱스 삭제하기
+
+desktop_path = f'C:\\Users\\{os.getlogin()}\\Desktop\\'
+
+with pd.ExcelWriter(desktop_path + '엑셀보고서.xlsx') as writer:
+    total_data1.to_excel(writer, sheet_name='엑셀보고서', index=True)
