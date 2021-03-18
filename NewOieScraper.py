@@ -1,23 +1,22 @@
 
 print('로딩 중입니다.\n')
 
-from NewOie_sub import OieSubPage
+from NewOieSub import OieSubPage
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import re
-import os
 import sqlite3
 import pandas as pd
-import tqdm
-
-os.getcwd()
-os.chdir('C:\\Users\\kwono\\Documents\\python project')
+from tqdm import tqdm
 
 def get_oie_data():
-    '''각 report의 링크를 목록화'''
-    dr = webdriver.Chrome('./driver/chromedriver.exe') # Webdriver에서 네이버 페이지 접속
+    '''
+    각 report의 링크를 목록화
+    '''
+
+    # Webdriver에서 네이버 페이지 접속
+    dr = webdriver.Chrome('./driver/chromedriver.exe')
 
     try:
         dr.get('https://wahis.oie.int/#/events')
@@ -54,7 +53,7 @@ def get_oie_data():
     print('데이터를 추출하고 있습니다.\n잠시만 기다려주세요.\n')
 
 
-    for new_linknumber in new_linknumbers:  # tqdm: 반복문에서의 리스트 원소 수를 백분율로 나타내어 진행표시줄을 만듦
+    for new_linknumber in tqdm(new_linknumbers[:11]):  # tqdm: 반복문에서의 리스트 원소 수를 백분율로 나타내어 진행표시줄을 만듦
         BOT = OieSubPage()
 
         report_ready = BOT.driver_maker(new_linknumber)
