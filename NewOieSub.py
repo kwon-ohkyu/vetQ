@@ -20,6 +20,8 @@ class OieSubPage:
         self.measure_df = None
         self.link_number = ""
         self.sub_total = None
+        self.specific_linknumber = []
+        self.modified_concate = []
 
     def driver_maker(self,link_number):
         self.link_number = link_number
@@ -45,23 +47,31 @@ class OieSubPage:
         except:
             print('발생건이 없습니다')
 
-        for i, j in enumerate(self.df):
-            a = self.df[i]
-            a_list=a.columns
+        #
+        for idx, df_ in enumerate(self.df):
+            a_list = df_.columns
             if a_list[0]!='SPECIES':
-                pass
+               pass
             else:
-                b = a[(a['SPECIES'] != '-') & (a['Unnamed: 1'] == 'NEW')]
+                b = df_[(df_['SPECIES'] != '-') & (df_['Unnamed: 1'] == 'NEW')]
                 self.result_concate.append(b)
 
-        if len(self.result_concate) == 1:
-            self.specific_outbreak = self.result_concate[0]
+        for i,j in enumerate(self.result_concate):
+            if j['SUSCEPTIBLE'][0] == '-' and j['CASES'][0] == '-' and j['DEATHS'][0] == '-':
+                pass
+            else:
+                self.specific_linknumber.append(str(i+1))
+                self.modified_concate.append(j)
 
-        elif len(self.result_concate) == 0:
+
+        if len(self.modified_concate) == 1:
+            self.specific_outbreak = self.modified_concate[0]
+
+        elif len(self.modified_concate) == 0:
             pass
 
         else:
-            self.specific_outbreak = pd.concat(self.result_concate)
+            self.specific_outbreak = pd.concat(self.modified_concate)
             self.specific_outbreak.reset_index(inplace=True)
 
 
@@ -120,7 +130,7 @@ class OieSubPage:
                           'No treatment of affected animals', 'Treatment of affected animals', 'Slaughter']
 
         # 위 칼럼명으로 된 빈 df 만들어 놓음
-        self.measure_df = pd.DataFrame(index=range(0, number-1), columns=measure_header)
+        self.measure_df = pd.DataFrame(index=range(0, len(self.specific_linknumber)), columns=measure_header)
 
         try:
             measure_text = measure.findAll('p')
@@ -138,8 +148,9 @@ class OieSubPage:
 
         # 세부 발생정보에 관한 데이터 모음
         specific_list = []
-        for i in range(1, number):
+        for j,i in enumerate(self.specific_linknumber):
             specific_dict = {}
+            print(f'보고서:{self.link_number}의 {len(self.specific_linknumber)}개 세부보고서 중 {j+1}번째 데이터를 수집중입니다')
 
             self.driver.find_elements_by_class_name("stepSummary-container > div:nth-child(" + str(
                 t) + ") > div > div.outbreak-wrapper > div:nth-child(" + str(
@@ -241,6 +252,8 @@ class OieSubPage:
         self.specific_outbreak = 발생건 별 사육,폐사,살처분 정리표
         '''
         self.page_df = pd.concat([self.sub_total,self.specific_outbreak,self.measure_df], axis=1)
+        self.page_df.reset_index()
+        self.page_df.iloc[:,0:11] = self.page_df.iloc[:,0:11].fillna(method='ffill')
 
         return  self.page_df
 
@@ -258,10 +271,12 @@ class OieSubPage:
         self.link_number = ""
         self.sub_total = None
         self.sub_total_merge = None
+        self.specific_linknumber = []
+        self.modified_concate = []
 
 
 
 if __name__ == '__main__':
     a = OieSubPage()
-    b = a.driver_maker(30528)
+    b = a.driver_maker(30621)
     c = a.table_data(b)
